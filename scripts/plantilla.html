@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>El Rayo de Júpiter · Precios</title>
+<meta name="description" content="Buscá productos y precios de Distribuidora El Rayo de Júpiter, Pontevedra.">
+<meta name="theme-color" content="#000000">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icono-192.png">
+<link rel="apple-touch-icon" href="icono-180.png">
+<script>try{if(localStorage.getItem("tema")==="light")document.documentElement.dataset.theme="light"}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+/* Marca: negro, dorado y blanco. Oscuro es el modo predeterminado. */
+:root{
+  --negro:#000; --oro:#C9A65F; --oro-claro:#E2C687; --blanco:#fff;
+  --fondo:#0A0A0A; --tarjeta:#161616; --tarjeta-2:#1F1F1F; --texto:#F4F4F4; --suave:#A3A3A3;
+  --linea:#2C2C2C; --oro-texto:#D9B873; --hay:#4CC27D; --no-hay:#FF7A70; --sombra:none;
+  --cond:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --cuerpo:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  color-scheme:dark;
+}
+:root[data-theme="light"]{
+  --fondo:#ECECEC; --tarjeta:#fff; --tarjeta-2:#F4F4F4; --texto:#121212; --suave:#5C5C5C;
+  --linea:#D9D9D9; --oro-texto:#8A6A2C; --hay:#1B7F45; --no-hay:#B3261E;
+  --sombra:0 1px 2px rgba(0,0,0,.06); color-scheme:light;
+}
+*{box-sizing:border-box}
+html{height:100%;-webkit-text-size-adjust:100%}
+body{margin:0;min-height:100%;background:var(--fondo);color:var(--texto);font:16px/1.4 var(--cuerpo)}
+button{font:inherit;color:inherit}
+
+/* Cabecera: siempre negra, como la marca, con el filo dorado del anillo del logo */
+.cab{background:var(--negro);color:var(--blanco);padding:calc(env(safe-area-inset-top,0px) + 10px) 14px 2px}
+/* Franja negra detrás de la hora/batería del celular, para que la barra fija no quede debajo */
+body::before{content:"";position:fixed;inset:0 0 auto 0;height:env(safe-area-inset-top,0px);background:#000;z-index:6}
+/* Barra fija: buscador y, debajo, categorías. El logo se va con el scroll y deja más lugar a la lista */
+.barra{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--negro);
+  padding:10px 14px 10px;border-bottom:2px solid var(--oro)}
+.marca{display:flex;align-items:center;gap:12px;max-width:720px;margin:0 auto}
+.marca img{width:52px;height:52px;flex:none;border-radius:50%;box-shadow:0 0 0 2px var(--oro)}
+.marca div{flex:1;min-width:0}
+.marca h1{margin:0;font:800 clamp(21px,6.4vw,27px)/1 var(--cond);letter-spacing:.6px;text-transform:uppercase;text-wrap:balance}
+.marca p{margin:3px 0 0;font-size:12.5px;color:var(--oro-claro)}
+.tema{flex:none;width:44px;height:44px;border-radius:50%;border:1.5px solid #3a3a3a;background:#141414;
+  color:var(--oro-claro);display:grid;place-items:center;cursor:pointer}
+.tema:focus-visible{outline:3px solid var(--oro);outline-offset:2px}
+.tema .sol{display:block} .tema .luna{display:none}
+:root[data-theme="light"] .tema .sol{display:none}
+:root[data-theme="light"] .tema .luna{display:block}
+
+.buscar{position:relative;max-width:720px;margin:0 auto}
+.buscar input{width:100%;height:50px;border:0;border-radius:12px;padding:0 46px 0 44px;
+  font-size:17px;background:#fff;color:#121212;outline:none}
+.buscar input::-webkit-search-cancel-button{display:none}
+.buscar input:focus{box-shadow:inset 0 0 0 3px var(--oro)}
+.buscar .lupa{position:absolute;left:13px;top:13px;pointer-events:none;color:#6b6b6b}
+.buscar .borrar{position:absolute;right:4px;top:4px;width:42px;height:42px;border:0;border-radius:10px;
+  background:transparent;color:#6b6b6b;font-size:24px;cursor:pointer;display:none}
+.buscar.con-texto .borrar{display:block}
+.filtro{display:flex;gap:8px;max-width:720px;margin:8px auto 0;min-width:0}
+.btn-cats{flex:none;display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 14px;border-radius:10px;
+  border:1.5px solid #3a3a3a;background:#141414;color:#fff;font-size:15px;font-weight:600;cursor:pointer}
+.btn-cats svg{color:var(--oro-claro)}
+.btn-cats .flecha{color:#9a9a9a}
+.activa{display:none;min-width:0;align-items:center;gap:6px;height:40px;padding:0 6px 0 14px;border-radius:10px;
+  border:0;background:var(--oro);color:#000;font-size:14.5px;font-weight:600;cursor:pointer}
+.activa.si{display:inline-flex}
+.activa span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.activa b{flex:none;width:28px;height:28px;display:grid;place-items:center;border-radius:8px;background:rgba(0,0,0,.12);font-size:18px;font-weight:600}
+.btn-cats:focus-visible,.activa:focus-visible{outline:3px solid var(--oro-claro);outline-offset:2px}
+
+/* Panel de categorías (sale desde abajo, como la ficha) */
+.panel{display:flex;flex-direction:column;max-height:85vh}
+.panel-cab{display:flex;align-items:center;justify-content:space-between;padding:14px 18px 10px}
+.panel-cab h2{margin:0;font:700 26px/1 var(--cond)}
+.panel-cab button{width:40px;height:40px;border-radius:50%;border:1px solid var(--linea);background:var(--tarjeta-2);
+  font-size:22px;cursor:pointer}
+.desliza{overflow-y:auto;overscroll-behavior:contain;min-height:0}
+.grilla{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:4px 14px calc(env(safe-area-inset-bottom,0px) + 18px)}
+.grilla button{display:block;width:100%;min-height:58px;
+  padding:8px 12px;border-radius:12px;border:1px solid var(--linea);background:var(--tarjeta-2);text-align:left;cursor:pointer}
+.grilla button strong{display:block;font-size:14.5px;font-weight:600;line-height:1.2}
+.grilla button small{display:block;margin-top:2px;font-size:12.5px;color:var(--suave)}
+.grilla button.todas{grid-column:1/-1;min-height:48px}
+.grilla button[aria-pressed="true"]{background:var(--oro);border-color:var(--oro);color:#000}
+.grilla button[aria-pressed="true"] small{color:#3a2e12}
+.grilla button:focus-visible{outline:3px solid var(--oro);outline-offset:1px}
+
+/* Aviso cuando la búsqueda tiene resultados fuera de la categoría elegida */
+.aviso{max-width:720px;margin:0 auto 8px;padding:0 10px}
+.aviso button{width:100%;padding:12px 14px;border-radius:12px;border:1.5px dashed var(--oro);background:transparent;
+  color:var(--texto);font-size:14.5px;text-align:left;cursor:pointer}
+.aviso button b{color:var(--oro-texto)}
+
+.estado{max-width:720px;margin:0 auto;padding:12px 14px 6px;display:flex;justify-content:space-between;
+  align-items:center;gap:10px;font-size:14px;color:var(--suave)}
+.estado select{font:inherit;font-size:14px;color:var(--texto);background:var(--tarjeta);
+  border:1px solid var(--linea);border-radius:8px;padding:6px 8px}
+
+main{max-width:720px;margin:0 auto;padding:0 10px 10px}
+.lista{list-style:none;margin:0;padding:0}
+.prod{content-visibility:auto;contain-intrinsic-size:auto 78px}
+.prod button{width:100%;display:grid;grid-template-columns:56px 1fr auto;gap:12px;align-items:center;
+  text-align:left;padding:10px;margin:0 0 6px;border:0;border-radius:12px;background:var(--tarjeta);
+  box-shadow:var(--sombra);cursor:pointer}
+.prod button:focus-visible{outline:3px solid var(--oro);outline-offset:1px}
+.foto{width:56px;height:56px;border-radius:10px;background:var(--tarjeta-2);display:grid;place-items:center;
+  overflow:hidden;font:700 24px var(--cond);color:var(--oro-texto)}
+.foto img{width:100%;height:100%;object-fit:contain;background:#fff}
+.info{min-width:0}
+.nom{font-size:15px;font-weight:600;line-height:1.25;display:-webkit-box;-webkit-line-clamp:3;
+  -webkit-box-orient:vertical;overflow:hidden}
+.meta{margin-top:3px;font-size:12.5px;color:var(--suave);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.stock{display:inline-flex;align-items:center;gap:5px;font-weight:600}
+.stock::before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
+.stock.si{color:var(--hay)} .stock.no{color:var(--no-hay)}
+
+/* El precio como etiqueta de góndola, en dorado */
+.precio{background:var(--oro);color:#000;border-radius:6px 6px 6px 0;
+  padding:6px 9px 5px 10px;font:700 22px/1 var(--cond);white-space:nowrap;letter-spacing:.2px}
+.precio sup{font-size:.55em;vertical-align:.65em;margin-left:1px}
+.precio .peso{font-size:.62em;margin-right:2px;vertical-align:.18em}
+.precio.consultar,.precio.agotado{background:transparent;border:1.5px dashed var(--linea);color:var(--suave);
+  font:600 13px/1.15 var(--cuerpo);text-align:center;padding:6px 8px}
+.prod.sin-stock .nom{color:var(--suave)}
+
+.vacio{text-align:center;padding:48px 20px;color:var(--suave)}
+.vacio strong{display:block;color:var(--texto);font-size:17px;margin-bottom:6px}
+
+/* Pie: ubicación y redes */
+.pie{max-width:720px;margin:14px auto 0;padding:0 10px calc(env(safe-area-inset-bottom,0px) + 28px)}
+.contacto{background:var(--negro);color:#EDEDED;border-radius:16px;padding:6px 16px;border:1px solid #262626}
+.contacto a{display:flex;align-items:center;gap:14px;padding:12px 0;color:inherit;text-decoration:none;
+  border-bottom:1px solid #262626}
+.contacto a:last-child{border-bottom:0}
+.contacto img{width:34px;height:34px;flex:none;object-fit:contain}
+.contacto strong{display:block;font-weight:600;color:#fff}
+.contacto small{display:block;font-size:13px;color:#A8A8A8;margin-top:1px}
+.contacto a:focus-visible{outline:3px solid var(--oro);outline-offset:2px;border-radius:8px}
+.legal{font-size:12.5px;color:var(--suave);text-align:center;margin:14px 8px 0;line-height:1.5}
+
+/* Ficha del producto */
+dialog{border:0;padding:0;margin:auto auto 0;width:100%;max-width:560px;border-radius:20px 20px 0 0;
+  background:var(--tarjeta);color:var(--texto);max-height:92vh;border-top:2px solid var(--oro)}
+dialog::backdrop{background:rgba(0,0,0,.65)}
+dialog[open]{animation:sube .22s ease-out}
+@keyframes sube{from{transform:translateY(40px);opacity:.4}}
+@media (min-width:640px){dialog{margin:auto;border-radius:20px;border:2px solid var(--oro)}}
+.ficha{padding:18px 18px calc(env(safe-area-inset-bottom,0px) + 18px)}
+.ficha .tirador{width:40px;height:5px;border-radius:3px;background:var(--linea);margin:-6px auto 14px}
+.ficha .grande{height:210px;border-radius:14px;background:var(--tarjeta-2);display:grid;place-items:center;overflow:hidden;
+  border:1px solid var(--linea)}
+.ficha .grande img{max-width:100%;max-height:100%;object-fit:contain}
+.ficha .grande img.sello{width:120px;height:120px;border-radius:50%;opacity:.9}
+.ficha .grande:has(img:not(.sello)){background:#fff}
+.ficha h2{margin:14px 0 4px;font:700 27px/1.1 var(--cond)}
+.ficha .datos{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:14px;color:var(--suave)}
+.ficha .fila{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px}
+.ficha .precio{font-size:40px;padding:10px 14px 8px}
+.ficha .precio.consultar,.ficha .precio.agotado{font-size:15px}
+.ficha .nota{font-size:12.5px;color:var(--suave);margin:10px 0 0}
+.acciones{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
+.acciones a,.acciones button{display:flex;align-items:center;justify-content:center;gap:8px;height:50px;
+  border-radius:12px;border:0;font-weight:600;text-decoration:none;cursor:pointer}
+.acciones img{width:24px;height:24px}
+.wa{background:#1F9D55;color:#fff}
+.cerrar{background:var(--tarjeta-2);color:var(--texto);border:1px solid var(--linea)!important}
+@media (prefers-reduced-motion:reduce){dialog[open]{animation:none}}
+</style>
+</head>
+<body>
+<header class="cab">
+  <div class="marca">
+    <img src="{{logo.webp}}" alt="El Rayo de Júpiter">
+    <div>
+      <h1>El Rayo de Júpiter</h1>
+      <p id="fecha">Lista de precios</p>
+    </div>
+    <button class="tema" id="tema" type="button" aria-label="Cambiar a modo claro">
+      <svg class="sol" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2 12h2.5M19.5 12H22M4.2 19.8 6 18M18 6l1.8-1.8"/></svg>
+      <svg class="luna" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>
+    </button>
+  </div>
+</header>
+
+<div class="barra">
+  <div class="buscar" id="caja">
+    <svg class="lupa" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.6-4.6"/></svg>
+    <input id="q" type="search" inputmode="search" autocomplete="off" autocorrect="off" spellcheck="false"
+      placeholder="¿Qué estás buscando?" aria-label="Buscar producto, marca o código">
+    <button class="borrar" id="borrar" aria-label="Borrar búsqueda">×</button>
+  </div>
+  <div class="filtro">
+    <button class="btn-cats" id="abrir-cats" type="button" aria-haspopup="dialog">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="3" y="3" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="2"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="2"/></svg>
+      Categorías
+      <svg class="flecha" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+    </button>
+    <button class="activa" id="quitar-cat" type="button" aria-label="Quitar filtro de categoría"><span id="nombre-cat"></span><b aria-hidden="true">×</b></button>
+  </div>
+</div>
+
+<div class="estado">
+  <span id="cuenta" aria-live="polite"></span>
+  <select id="orden" aria-label="Ordenar">
+    <option value="cat">Por categoría</option>
+    <option value="az">A a Z</option>
+    <option value="menor">Menor precio</option>
+    <option value="mayor">Mayor precio</option>
+  </select>
+</div>
+
+<div class="aviso" id="aviso" hidden><button type="button" id="ver-todas"></button></div>
+
+<main>
+  <ul class="lista" id="lista"></ul>
+  <div class="vacio" id="vacio" hidden></div>
+</main>
+
+<footer class="pie">
+  <nav class="contacto" aria-label="Contacto">
+    <a href="https://www.google.com/maps/search/?api=1&query=Av.+Otero+4171,+Pontevedra,+Merlo,+Buenos+Aires" target="_blank" rel="noopener">
+      <img src="{{ubicacion.webp}}" alt="">
+      <span><strong>Av. Otero 4171 esq. Giachino</strong><small>Pontevedra, Merlo · Cómo llegar</small></span>
+    </a>
+    <a href="https://wa.me/5491172632479" target="_blank" rel="noopener">
+      <img src="{{whatsapp.webp}}" alt="">
+      <span><strong>11 7263-2479</strong><small>Escribinos por WhatsApp</small></span>
+    </a>
+    <a href="https://www.instagram.com/distribuidora.elrayo/" target="_blank" rel="noopener">
+      <img src="{{instagram.webp}}" alt="">
+      <span><strong>@distribuidora.elrayo</strong><small>Seguinos en Instagram</small></span>
+    </a>
+  </nav>
+  <p class="legal">Lunes a sábado de 7 a 16 h · Domingos de 8 a 12 h<br>
+  Precios en efectivo, exclusivos retirando en el local. Sujetos a cambios sin previo aviso.</p>
+</footer>
+
+<dialog id="ficha" aria-labelledby="f-nom"></dialog>
+<dialog id="panel-cats" aria-labelledby="t-cats">
+  <div class="panel">
+    <div class="panel-cab"><h2 id="t-cats">Categorías</h2><button type="button" data-cerrar aria-label="Cerrar">×</button></div>
+    <div class="desliza"><div class="grilla" id="grilla"></div></div>
+  </div>
+</dialog>
+
+<script>
+const DATOS = /*DATOS*/null;
+const IMAGENES = /*IMAGENES*/{};
+const WA = "5491172632479";
+const LOGO = document.querySelector(".marca img").src;
+const WA_ICONO = document.querySelector('.contacto a[href^="https://wa.me"] img').src;
+
+// Palabras que la gente escribe distinto a como figura en la lista
+const SINONIMOS = {
+  muzza:"muzzarella mozzarella", mozza:"mozzarella muzzarella", muzzarella:"mozzarella", mozzarella:"muzzarella",
+  galletitas:"galle galletitas", galletas:"galle galletitas", gaseosa:"manaos coca", coca:"coca cola",
+  serenisima:"ls serenisima", fideos:"fideo sol pampeano monte lirio", queso:"queso cremoso sardo",
+  yogur:"yog yogur yogurt", yogurt:"yog yogur yogurt", hamburguesa:"hamburguesa paty medallon",
+  jugo:"jugo tang baggio placer", fiambre:"jamon salame mortadela paleta"
+};
+
+const $ = s => document.querySelector(s);
+const norm = s => s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9ñ ]/g, " ");
+const fmt = new Intl.NumberFormat("es-AR", {minimumFractionDigits:2, maximumFractionDigits:2});
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function nombreLindo(d){
+  // "GALLE PITUSAS BLACK X130G" -> "Galle Pitusas Black x130g"
+  return d.toLowerCase().replace(/(^|[\s/("-])([a-zñáéíóú])/g, (m,a,b) => a + b.toUpperCase())
+    .replace(/\bX(\d)/g, "x$1").replace(/\b(Ls|Cbse|Ph|Dh)\b/g, s => s.toUpperCase());
+}
+function precioHTML(p){
+  if (!p.s) return '<span class="precio agotado" aria-label="Sin precio">—</span>';
+  if (p.q || p.p == null) return '<span class="precio consultar">Consultá<br>el precio</span>';
+  const [ent, dec] = fmt.format(p.p).split(",");
+  return `<span class="precio"><span class="peso">$</span>${ent}${dec !== "00" ? `<sup>${dec}</sup>` : ""}</span>`;
+}
+function fotoHTML(p){
+  const f = IMAGENES[p.c];
+  return f ? `<img src="img/${f}" alt="" loading="lazy" decoding="async">` : esc(p.cat[0]);
+}
+
+const productos = DATOS.productos.map((p, i) => ({...p, i, nombre: nombreLindo(p.d),
+  txt: " " + norm(`${p.d} ${p.cat} ${p.c}`) + " "}));
+$("#fecha").textContent = DATOS.fecha ? `Precios actualizados al ${DATOS.fecha}` : "Lista de precios";
+
+// Construimos la lista una sola vez; filtrar solo oculta/muestra filas (rápido aun en celulares viejos)
+const lista = $("#lista");
+const frag = document.createDocumentFragment();
+for (const p of productos){
+  const li = document.createElement("li");
+  li.className = "prod" + (p.s ? "" : " sin-stock");
+  li.innerHTML = `<button type="button" data-i="${p.i}">
+    <span class="foto">${fotoHTML(p)}</span>
+    <span class="info"><span class="nom">${esc(p.nombre)}</span>
+      <span class="meta"><span>Cód. ${p.c}</span><span class="stock ${p.s ? "si" : "no"}">${p.s ? "Hay stock" : "Sin stock"}</span></span></span>
+    ${precioHTML(p)}</button>`;
+  p.el = li; frag.appendChild(li);
+}
+lista.appendChild(frag);
+
+// Categorías: panel desde abajo con todas, en orden alfabético y con cantidad
+const conteo = {};
+productos.forEach(p => conteo[p.cat] = (conteo[p.cat] || 0) + 1);
+const cats = Object.keys(conteo).sort((a, b) => a.localeCompare(b, "es"));
+let catActiva = null;
+const panel = $("#panel-cats"), grilla = $("#grilla");
+grilla.innerHTML = `<button type="button" class="todas" data-cat=""><strong>Todas las categorías</strong><small>${productos.length} productos</small></button>` +
+  cats.map(c => `<button type="button" data-cat="${esc(c)}"><strong>${esc(c)}</strong><small>${conteo[c]} ${conteo[c] === 1 ? "producto" : "productos"}</small></button>`).join("");
+
+function elegirCat(c){
+  catActiva = c || null;
+  grilla.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", (x.dataset.cat || null) === catActiva));
+  $("#nombre-cat").textContent = catActiva || "";
+  $("#quitar-cat").classList.toggle("si", !!catActiva);
+  filtrar();
+  // Llevar al principio de la lista, sin volver a mostrar el logo si ya se había ido
+  const tope = $(".cab").offsetHeight;
+  if (window.scrollY > tope) window.scrollTo({top: tope});
+}
+$("#abrir-cats").addEventListener("click", () => {
+  panel.showModal();
+  const sel = grilla.querySelector('[aria-pressed="true"]');
+  if (sel) sel.scrollIntoView({block:"center"});
+});
+grilla.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  panel.close(); elegirCat(b.dataset.cat);
+});
+panel.addEventListener("click", e => { if (e.target === panel || e.target.closest("[data-cerrar]")) panel.close(); });
+$("#quitar-cat").addEventListener("click", () => elegirCat(null));
+$("#ver-todas").addEventListener("click", () => elegirCat(null));
+
+// Búsqueda: todas las palabras tienen que aparecer (en cualquier orden). Acepta sinónimos y código.
+function coincide(p, palabras){
+  return palabras.every(w => {
+    if (/^\d+$/.test(w)) return p.txt.includes(" " + w) ;
+    if (p.txt.includes(" " + w)) return true;
+    const alt = SINONIMOS[w];
+    return alt ? alt.split(" ").some(a => p.txt.includes(" " + a)) : p.txt.includes(w);
+  });
+}
+let orden = "cat";
+function filtrar(){
+  const q = norm($("#q").value).trim();
+  $("#caja").classList.toggle("con-texto", q.length > 0);
+  const palabras = q.split(/\s+/).filter(Boolean);
+  let n = 0, fuera = 0;
+  for (const p of productos){
+    const coincideTexto = coincide(p, palabras);
+    const ok = (!catActiva || p.cat === catActiva) && coincideTexto;
+    p.el.hidden = !ok; if (ok) n++;
+    else if (coincideTexto && palabras.length) fuera++;
+  }
+  // Si hay una categoría elegida y lo buscado también está en otras, avisarlo
+  const aviso = $("#aviso");
+  aviso.hidden = !(catActiva && fuera);
+  if (catActiva && fuera) $("#ver-todas").innerHTML =
+    `Hay <b>${fuera} ${fuera === 1 ? "resultado más" : "resultados más"}</b> en otras categorías. Tocá para verlos.`;
+  $("#cuenta").textContent = n === 1 ? "1 producto" : `${n} productos`;
+  const v = $("#vacio");
+  v.hidden = n > 0;
+  if (!n) v.innerHTML = `<strong>No encontramos “${esc($("#q").value.trim())}”${catActiva ? ` en ${esc(catActiva)}` : ""}</strong>
+    Probá con otra palabra o la marca. Si no lo ves, preguntá en el mostrador.`;
+}
+function ordenar(){
+  const val = p => p.s && p.p != null ? p.p : Infinity;   // sin precio, al final
+  const alto = p => p.s && p.p != null ? p.p : -1;
+  const cmp = {cat:(a,b)=>a.i-b.i, az:(a,b)=>a.nombre.localeCompare(b.nombre,"es"),
+    menor:(a,b)=>val(a)-val(b), mayor:(a,b)=>alto(b)-alto(a)}[orden];
+  const f = document.createDocumentFragment();
+  [...productos].sort(cmp).forEach(p => f.appendChild(p.el));
+  lista.appendChild(f);
+}
+let t; $("#q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(filtrar, 60); });
+$("#q").addEventListener("keydown", e => { if (e.key === "Escape") { e.target.value = ""; filtrar(); } if (e.key === "Enter") e.target.blur(); });
+$("#borrar").addEventListener("click", () => { $("#q").value = ""; filtrar(); $("#q").focus(); });
+$("#orden").addEventListener("change", e => { orden = e.target.value; ordenar(); });
+document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); } });
+
+// Ficha del producto
+const ficha = $("#ficha");
+lista.addEventListener("click", e => {
+  const b = e.target.closest("button[data-i]"); if (!b) return;
+  const p = productos[b.dataset.i];
+  const msg = encodeURIComponent(`Hola! Quería consultar por ${p.nombre} (cód. ${p.c}).`);
+  const f = IMAGENES[p.c];
+  ficha.innerHTML = `<div class="ficha">
+    <div class="tirador"></div>
+    <div class="grande">${f ? `<img src="img/${f}" alt="${esc(p.nombre)}">` : `<img class="sello" src="${LOGO}" alt="">`}</div>
+    <h2 id="f-nom">${esc(p.nombre)}</h2>
+    <div class="datos"><span>Código ${p.c}</span><span>${esc(p.cat)}</span>${p.b ? `<span>Bulto: ${p.b} unidades</span>` : ""}</div>
+    <div class="fila"><span class="stock ${p.s ? "si" : "no"}">${p.s ? "Hay stock" : "Sin stock por ahora"}</span>${precioHTML(p)}</div>
+    <p class="nota">Precio en efectivo retirando en el local${DATOS.fecha ? `, al ${DATOS.fecha}` : ""}.</p>
+    <div class="acciones">
+      <button class="cerrar" type="button" data-cerrar>Volver</button>
+      <a class="wa" href="https://wa.me/${WA}?text=${msg}" target="_blank" rel="noopener"><img src="${WA_ICONO}" alt="">Consultar</a>
+    </div></div>`;
+  ficha.showModal();
+});
+ficha.addEventListener("click", e => { if (e.target === ficha || e.target.closest("[data-cerrar]")) ficha.close(); });
+
+// Modo oscuro (predeterminado) / claro, recordado en este celular
+const btnTema = $("#tema");
+function ponerTema(t){
+  document.documentElement.dataset.theme = t;
+  btnTema.setAttribute("aria-label", t === "dark" ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
+  try { localStorage.setItem("tema", t); } catch(e) {}
+}
+btnTema.addEventListener("click", () => ponerTema(document.documentElement.dataset.theme === "dark" ? "light" : "dark"));
+btnTema.setAttribute("aria-label", document.documentElement.dataset.theme === "dark" ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
+
+elegirCat(null);
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js");
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+name: Actualizar lista de precios
+
+on:
+  schedule:
+    # Hora UTC: 10:00, 13:00 y 16:00 UTC = 7, 10 y 13 h de Argentina
+    - cron: "0 10,13,16 * * *"
+  workflow_dispatch:   # botón "Run workflow" para actualizar a mano
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pdfplumber==0.11.9
+      - name: Descargar el PDF del Drive y regenerar la app
+        run: python scripts/actualizar.py
+      - name: Guardar cambios (solo si la lista cambió)
+        run: |
+          git config user.name "actualizador"
+          git config user.email "actions@github.com"
+          git add index.html data/productos.json
+          git diff --cached --quiet && echo "Sin cambios" || (git commit -m "Lista de precios $(date +%d/%m/%Y)" && git push)

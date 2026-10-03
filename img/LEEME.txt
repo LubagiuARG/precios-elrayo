@@ -1,0 +1,5 @@
+Fotos de los productos.
+Nombre del archivo = código del producto. Ejemplo: 176.webp (Arroz Ala Largo Fino x1kg).
+Formatos: .webp (recomendado), .jpg o .png. Tamaño ideal: 400x400 px, menos de 40 KB.
+Los productos sin foto muestran la inicial de su categoría.
+Después de subir fotos, la próxima actualización automática las incorpora (o corré el workflow a mano).
