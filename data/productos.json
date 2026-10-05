@@ -1,5 +1,5 @@
 {
- "fecha": "3/10/2026",
+ "fecha": "5/10/2026",
  "productos": [
   {
    "c": 176,
@@ -148,7 +148,7 @@
   {
    "c": 111,
    "d": "QUESO DE CERDO BIERZO",
-   "p": 4523.04,
+   "p": 4846.3,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -157,7 +157,7 @@
   {
    "c": 117,
    "d": "SALAMIN PICADO FINO BIERZO",
-   "p": 17491.2,
+   "p": 17452.42,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -338,6 +338,15 @@
    "c": 646,
    "d": "LONGANIZA BASTON 214",
    "p": 10700.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 660,
+   "d": "SALAME MILAN 1154",
+   "p": 10848.96,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -812,15 +821,6 @@
    "q": false
   },
   {
-   "c": 1107,
-   "d": "GALL SURTIDO DIVERSION",
-   "p": 1999.99,
-   "b": 21,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1133,
    "d": "PEPAS TOCOÑATO X1KG",
    "p": 2493.92,
@@ -1119,27 +1119,27 @@
   },
   {
    "c": 912,
-   "d": "PAPEL HIGIENICO ELEGANTE 4X30MT X12",
-   "p": 14340.04,
-   "b": null,
+   "d": "PAPEL HIGIENICO ELEGANTE 4X30MT",
+   "p": 1195.01,
+   "b": 12,
    "cat": "Papeles higiénicos / cocina",
    "s": true,
    "q": false
   },
   {
    "c": 914,
-   "d": "SERVILLETA ELEGANTE 3X50P X8",
-   "p": 10647.16,
-   "b": null,
+   "d": "SERVILLETA ELEGANTE 3X50P",
+   "p": 1330.89,
+   "b": 8,
    "cat": "Papeles higiénicos / cocina",
    "s": true,
    "q": false
   },
   {
    "c": 950,
-   "d": "PAPEL HIGIENICO ELEGANTE 6X30MT X12",
-   "p": 21576.76,
-   "b": null,
+   "d": "PAPEL HIGIENICO ELEGANTE 6X30MT",
+   "p": 1798.06,
+   "b": 12,
    "cat": "Papeles higiénicos / cocina",
    "s": true,
    "q": false
@@ -1910,15 +1910,6 @@
    "q": false
   },
   {
-   "c": 1156,
-   "d": "MANAOS LATA NARANJA X6",
-   "p": 4119.5,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 346,
    "d": "OFF FAMILY AEROSOL 165ML",
    "p": null,
@@ -1967,15 +1958,6 @@
    "c": 477,
    "d": "HARINA 0000 BURZACO 1KG",
    "p": 836.52,
-   "b": 10,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 799,
-   "d": "HARINA PUREZA PARA PIZZA",
-   "p": 1444.39,
    "b": 10,
    "cat": "Harinas",
    "s": true,
@@ -2081,6 +2063,15 @@
    "q": false
   },
   {
+   "c": 178,
+   "d": "AZUCAR LEDESMA X 1KG",
+   "p": 1308.99,
+   "b": 10,
+   "cat": "Azúcar / endulzantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 647,
    "d": "AZUCAR FINCA EL LAZO",
    "p": 929.99,
@@ -2164,7 +2155,7 @@
   {
    "c": 1168,
    "d": "PAN DULCE NEVARES CHIPS X500GR",
-   "p": 2406.45,
+   "p": 2350.0,
    "b": 10,
    "cat": "Panificados",
    "s": true,
@@ -2173,7 +2164,7 @@
   {
    "c": 1169,
    "d": "PAN DULCE NEVARES CON FRUTA X500GR",
-   "p": 2406.45,
+   "p": 2350.0,
    "b": 10,
    "cat": "Panificados",
    "s": true,
@@ -2639,10 +2630,10 @@
    "q": false
   },
   {
-   "c": 907,
-   "d": "CALDO CENTURION VERDURAS X12 CUBOS",
-   "p": 1290.2,
-   "b": null,
+   "c": 884,
+   "d": "LAUREL MOLIDO X25G CENTURION",
+   "p": 762.55,
+   "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -3008,8 +2999,8 @@
    "q": false
   },
   {
-   "c": 14,
-   "d": "YOG LS FIRME X190G VAINILLA",
+   "c": 12,
+   "d": "YOG LS FIRME X190G FRUTILLA",
    "p": 1597.03,
    "b": 20,
    "cat": "Yogures",
@@ -3395,10 +3386,10 @@
    "q": false
   },
   {
-   "c": 48,
-   "d": "MANTECA SERENISIMA X 200GRS",
-   "p": 2839.46,
-   "b": 10,
+   "c": 47,
+   "d": "MANTECA SYS X100 GRS",
+   "p": 961.93,
+   "b": 60,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
