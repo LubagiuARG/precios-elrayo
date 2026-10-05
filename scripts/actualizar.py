@@ -24,7 +24,10 @@ URL_DRIVE = f"https://drive.google.com/uc?export=download&id={DRIVE_ID}"
 # Ejemplo: ["MANAOS", "NEVARES", "PITUSAS"]. Vacío = se muestran todos.
 OCULTAR_PRECIO_DE = []
 
-RE_PRODUCTO = re.compile(r"^(\d+),\s*(.+?)\s*\$\s*([\d\.]+,\d{2}|-)\s*$")
+# Renglón de producto: "176, ARROZ ALA LARGO FINO X1KG (10) 1187,99"
+# Acepta el precio con o sin "$", con o sin punto de miles y con 0, 1 o 2 decimales
+# ("$ 1.187,99", "1187,99", "726", "10368,3"). "-" o "0" = sin precio.
+RE_PRODUCTO = re.compile(r"^(\d+),\s*(.+?)\s+\$?\s*(-|\d{1,3}(?:\.\d{3})+(?:,\d{1,2})?|\d+(?:,\d{1,2})?)\s*$")
 RE_BULTO = re.compile(r"\(\s*(\d+)\s*\)")
 RE_FECHA = re.compile(r"(\d{1,2}/\d{1,2}/\d{4})")
 IGNORAR = ("DISTRIBUIDORA", "AV OTERO", "WHATSAPP", "PRECIOS", "CÓDIGO", "CODIGO")
@@ -49,13 +52,27 @@ def bonito(s):
 
 
 def descargar(destino):
-    req = urllib.request.Request(URL_DRIVE, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        datos = r.read()
-    if not datos.startswith(b"%PDF"):
-        sys.exit("Lo descargado no es un PDF. ¿El archivo sigue compartido como "
-                 "'Cualquier persona con el enlace'?")
-    destino.write_bytes(datos)
+    """Prueba las dos direcciones de descarga de Google Drive y explica qué falló."""
+    urls = [
+        f"https://drive.usercontent.google.com/download?id={DRIVE_ID}&export=download&confirm=t",
+        URL_DRIVE,
+    ]
+    for url in urls:
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                datos = r.read()
+        except Exception as e:
+            print(f"No se pudo descargar desde {url.split('?')[0]}: {e}")
+            continue
+        if datos.startswith(b"%PDF"):
+            destino.write_bytes(datos)
+            print(f"PDF descargado: {len(datos) // 1024} KB")
+            return
+        inicio = datos[:300].decode("utf-8", "replace")
+        print(f"Lo descargado desde {url.split('?')[0]} no es un PDF. Empieza así:\n{inicio}\n")
+    sys.exit("ERROR: no se pudo bajar el PDF del Drive. Revisá que el archivo siga compartido como "
+             "'Cualquier persona con el enlace' y que no hayan subido un archivo nuevo (cambia el ID).")
 
 
 def es_categoria(linea):
@@ -83,6 +100,8 @@ def leer_pdf(ruta):
                     codigo, desc, precio = m.groups()
                     oculto = any(x in sin_tildes(desc.upper()) for x in OCULTAR_PRECIO_DE)
                     valor = None if precio == "-" else float(precio.replace(".", "").replace(",", "."))
+                    if valor == 0:
+                        valor = None
                     bulto = RE_BULTO.search(desc)
                     productos.append({
                         "c": int(codigo),                                   # código
@@ -106,6 +125,13 @@ def main():
         descargar(pdf)
     fecha, productos = leer_pdf(pdf)
     if len(productos) < 50:
+        with pdfplumber.open(pdf) as d:
+            texto = "\n".join((pg.extract_text() or "") for pg in d.pages[:1]).strip()
+        if texto:
+            print("Primeros renglones que se leyeron del PDF:")
+            print("\n".join(texto.splitlines()[:25]))
+        else:
+            print("El PDF no tiene texto: parece ser una imagen o un escaneo.")
         sys.exit(f"Solo se leyeron {len(productos)} productos: el formato del PDF puede "
                  "haber cambiado. No se actualiza nada.")
 

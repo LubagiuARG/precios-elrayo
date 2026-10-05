@@ -11,13 +11,13 @@ permissions:
 
 jobs:
   actualizar:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - run: pip install pdfplumber==0.11.9
+      - run: pip install pdfplumber==0.11.10
       - name: Descargar el PDF del Drive y regenerar la app
         run: python scripts/actualizar.py
       - name: Guardar cambios (solo si la lista cambió)
