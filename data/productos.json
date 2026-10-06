@@ -1046,15 +1046,6 @@
    "q": false
   },
   {
-   "c": 467,
-   "d": "PH CALIPSO NATURAL X30MT",
-   "p": 217.61,
-   "b": 48,
-   "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 611,
    "d": "ECO FAMILY 6X30MT",
    "p": 1389.87,
@@ -1541,9 +1532,9 @@
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1876,10 +1867,10 @@
   {
    "c": 346,
    "d": "OFF FAMILY AEROSOL 165ML",
-   "p": null,
+   "p": 5799.99,
    "b": 12,
    "cat": "Repelentes",
-   "s": false,
+   "s": true,
    "q": false
   },
   {
@@ -1894,7 +1885,7 @@
   {
    "c": 184,
    "d": "HARINA 000 BURZACO X1KG",
-   "p": 690.01,
+   "p": 690.0,
    "b": 10,
    "cat": "Harinas",
    "s": true,
@@ -2067,15 +2058,6 @@
    "d": "PAN DE PANCHOS NEVARES",
    "p": 750.0,
    "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1164,
-   "d": "BUDIN NEVARES CHOCOLATE",
-   "p": 1109.64,
-   "b": 10,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2657,15 +2639,6 @@
    "q": false
   },
   {
-   "c": 395,
-   "d": "MAYONESA HELLMANNS X250G",
-   "p": 1186.91,
-   "b": 24,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 536,
    "d": "VINAGRE MOLTO X1L",
    "p": 958.3,
@@ -2864,15 +2837,6 @@
    "q": false
   },
   {
-   "c": 465,
-   "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1683.54,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
    "p": 2085.43,
@@ -3035,6 +2999,15 @@
    "q": false
   },
   {
+   "c": 475,
+   "d": "YOGURT X 120 VAINILLA CREMIGAL",
+   "p": 440.42,
+   "b": 40,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 476,
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 440.42,
@@ -3047,15 +3020,6 @@
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
    "p": 2188.27,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 642,
-   "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3408,15 +3372,6 @@
    "d": "PURE DE TOMATE LA HUERTA X520G",
    "p": 770.0,
    "b": 12,
-   "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 215,
-   "d": "PURE DE TOMATE MAROLIO X520G",
-   "p": 665.5,
-   "b": 24,
    "cat": "Conservas",
    "s": true,
    "q": false
