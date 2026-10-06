@@ -108,9 +108,11 @@ main{max-width:720px;margin:0 auto;padding:0 10px 10px}
   text-align:left;padding:10px;margin:0 0 6px;border:0;border-radius:12px;background:var(--tarjeta);
   box-shadow:var(--sombra);cursor:pointer}
 .prod button:focus-visible{outline:3px solid var(--oro);outline-offset:1px}
-.foto{width:56px;height:56px;border-radius:10px;background:var(--tarjeta-2);display:grid;place-items:center;
-  overflow:hidden;font:700 24px var(--cond);color:var(--oro-texto)}
-.foto img{width:100%;height:100%;object-fit:contain;background:#fff}
+.foto{width:56px;height:56px;border-radius:10px;background:var(--tarjeta-2);display:flex;align-items:center;
+  justify-content:center;overflow:hidden;font:700 24px var(--cond);color:var(--oro-texto)}
+/* Con foto: fondo blanco y aire para que el producto no toque los bordes; contain = nunca se recorta */
+.foto:has(img){background:#fff;padding:4px}
+.foto img{display:block;width:100%;height:100%;min-width:0;min-height:0;object-fit:contain;object-position:center}
 .info{min-width:0}
 .nom{font-size:15px;font-weight:600;line-height:1.25;display:-webkit-box;-webkit-line-clamp:3;
   -webkit-box-orient:vertical;overflow:hidden}
@@ -152,11 +154,11 @@ dialog[open]{animation:sube .22s ease-out}
 @media (min-width:640px){dialog{margin:auto;border-radius:20px;border:2px solid var(--oro)}}
 .ficha{padding:18px 18px calc(env(safe-area-inset-bottom,0px) + 18px)}
 .ficha .tirador{width:40px;height:5px;border-radius:3px;background:var(--linea);margin:-6px auto 14px}
-.ficha .grande{height:210px;border-radius:14px;background:var(--tarjeta-2);display:grid;place-items:center;overflow:hidden;
-  border:1px solid var(--linea)}
-.ficha .grande img{max-width:100%;max-height:100%;object-fit:contain}
+.ficha .grande{height:clamp(250px,40vh,320px);border-radius:14px;background:var(--tarjeta-2);display:flex;
+  align-items:center;justify-content:center;overflow:hidden;border:1px solid var(--linea)}
+.ficha .grande img{display:block;width:100%;height:100%;min-width:0;min-height:0;object-fit:contain;object-position:center}
 .ficha .grande img.sello{width:120px;height:120px;border-radius:50%;opacity:.9}
-.ficha .grande:has(img:not(.sello)){background:#fff}
+.ficha .grande:has(img:not(.sello)){background:#fff;padding:14px}
 .ficha h2{margin:14px 0 4px;font:700 27px/1.1 var(--cond)}
 .ficha .datos{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:14px;color:var(--suave)}
 .ficha .fila{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px}
