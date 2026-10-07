@@ -1,5 +1,5 @@
 {
- "fecha": "6/10/2026",
+ "fecha": "7/10/2026",
  "productos": [
   {
    "c": 176,
@@ -32,15 +32,6 @@
    "c": 235,
    "d": "CERVEZA BRAHMA LATA X24",
    "p": 38000.0,
-   "b": null,
-   "cat": "Cervezas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 574,
-   "d": "CERVEZA 361 PACK X6 X1L",
-   "p": 8742.39,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -221,15 +212,6 @@
    "c": 129,
    "d": "MORTADELA BOCHA \"CALCHAQUI\"",
    "p": 8235.64,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 160,
-   "d": "QUESO RALLADO \"LA QUESERA\" X 20 SOBRES DE 40GRS",
-   "p": 11767.8,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -843,7 +825,7 @@
    "d": "TURRON NEVARES PASTA MANI",
    "p": 413.23,
    "b": 22,
-   "cat": "Golosinas",
+   "cat": "Galletitas",
    "s": true,
    "q": false
   },
@@ -852,7 +834,7 @@
    "d": "TURRON NEVARES MOUSSE",
    "p": 601.61,
    "b": 22,
-   "cat": "Golosinas",
+   "cat": "Galletitas",
    "s": true,
    "q": false
   },
@@ -904,6 +886,15 @@
   {
    "c": 280,
    "d": "PLACER 1.5 PERA",
+   "p": 5450.0,
+   "b": null,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 282,
+   "d": "PLACER 1.5 POMELO",
    "p": 5450.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
@@ -1541,9 +1532,9 @@
    "q": false
   },
   {
-   "c": 1063,
-   "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1727.04,
+   "c": 1000,
+   "d": "DULCE DE LECHE LS AIREADO 300G",
+   "p": 3128.92,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1721,15 +1712,6 @@
    "q": false
   },
   {
-   "c": 87,
-   "d": "JUGO RINDE 2 MANZANA X10 SOBRES",
-   "p": 4173.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 832,
    "d": "JUGO TANG NARANJA",
    "p": 6420.0,
@@ -1868,15 +1850,6 @@
    "c": 346,
    "d": "OFF FAMILY AEROSOL 165ML",
    "p": 5799.99,
-   "b": 12,
-   "cat": "Repelentes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 670,
-   "d": "REPELENTE 911",
-   "p": 1200.0,
    "b": 12,
    "cat": "Repelentes",
    "s": true,
@@ -2067,15 +2040,6 @@
    "d": "BUDIN NEVARES LIMON",
    "p": 1109.64,
    "b": 10,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1166,
-   "d": "BUDIN NEVARES MARMOLADO X180GR",
-   "p": 935.84,
-   "b": 15,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2639,6 +2603,15 @@
    "q": false
   },
   {
+   "c": 395,
+   "d": "MAYONESA HELLMANNS X250G",
+   "p": 1186.91,
+   "b": 24,
+   "cat": "Aderezos / condimentos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 536,
    "d": "VINAGRE MOLTO X1L",
    "p": 958.3,
@@ -2652,15 +2625,6 @@
    "d": "SAVORA X250GRS",
    "p": 1429.89,
    "b": 24,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 632,
-   "d": "MOSTAZA NATURA X250 GRS",
-   "p": 1078.81,
-   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -2723,6 +2687,15 @@
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4310.91,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1097,
+   "d": "QUESO CREMA CLASIC TREMBLAY X290",
+   "p": 2730.61,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3026,10 +2999,28 @@
    "q": false
   },
   {
+   "c": 642,
+   "d": "YOG LS BEBIBLE X900 VAINILLA",
+   "p": 2029.8,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1096,
+   "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
+   "p": 1751.56,
+   "b": 10,
    "cat": "Yogures",
    "s": true,
    "q": false
@@ -3332,6 +3323,15 @@
    "q": false
   },
   {
+   "c": 1091,
+   "d": "MANTECA TREMBLAY X100G",
+   "p": 1436.4,
+   "b": 20,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1092,
    "d": "CREMA TREMBLAY X200CC",
    "p": 1659.59,
@@ -3368,19 +3368,10 @@
    "q": false
   },
   {
-   "c": 214,
-   "d": "PURE DE TOMATE LA HUERTA X520G",
-   "p": 770.0,
-   "b": 12,
-   "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 717,
-   "d": "DURAZNO EN MITADES MOLTO X 820GR",
-   "p": 2493.0,
-   "b": 12,
+   "c": 215,
+   "d": "PURE DE TOMATE MAROLIO X520G",
+   "p": 665.5,
+   "b": 24,
    "cat": "Conservas",
    "s": true,
    "q": false
