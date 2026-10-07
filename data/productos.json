@@ -38,6 +38,15 @@
    "q": false
   },
   {
+   "c": 574,
+   "d": "CERVEZA 361 PACK X6 X1L",
+   "p": 8742.39,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 672,
    "d": "CERVEZA 361 LATA X24",
    "p": 22260.0,
@@ -825,7 +834,7 @@
    "d": "TURRON NEVARES PASTA MANI",
    "p": 413.23,
    "b": 22,
-   "cat": "Galletitas",
+   "cat": "Golosinas",
    "s": true,
    "q": false
   },
@@ -834,7 +843,7 @@
    "d": "TURRON NEVARES MOUSSE",
    "p": 601.61,
    "b": 22,
-   "cat": "Galletitas",
+   "cat": "Golosinas",
    "s": true,
    "q": false
   },
@@ -1532,9 +1541,9 @@
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1727.04,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1847,9 +1856,9 @@
    "q": false
   },
   {
-   "c": 346,
-   "d": "OFF FAMILY AEROSOL 165ML",
-   "p": 5799.99,
+   "c": 670,
+   "d": "REPELENTE 911",
+   "p": 1200.0,
    "b": 12,
    "cat": "Repelentes",
    "s": true,
@@ -2621,10 +2630,10 @@
    "q": false
   },
   {
-   "c": 631,
-   "d": "SAVORA X250GRS",
-   "p": 1429.89,
-   "b": 24,
+   "c": 632,
+   "d": "MOSTAZA NATURA X250 GRS",
+   "p": 1078.81,
+   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -2677,7 +2686,7 @@
   {
    "c": 18,
    "d": "CASANCREM LIGHT 290G",
-   "p": 4310.91,
+   "p": 4352.37,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -2686,7 +2695,25 @@
   {
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
-   "p": 4310.91,
+   "p": 4352.37,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1077,
+   "d": "QUESO CREMA NEVARES X290G",
+   "p": 1532.0,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1078,
+   "d": "QUESO CREMA NEVARES LIGHT X290G",
+   "p": 1532.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -2758,7 +2785,7 @@
   {
    "c": 28,
    "d": "LECHE ARMONIA ENTERA 1L",
-   "p": 1633.75,
+   "p": 1603.21,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -2805,6 +2832,15 @@
    "d": "LECHE CREMIGAL LARGA VIDA SACHET",
    "p": 1391.25,
    "b": 12,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 465,
+   "d": "LECHE LS SACHET N3 X 1 L.",
+   "p": 1683.54,
+   "b": null,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -2866,7 +2902,7 @@
   {
    "c": 1014,
    "d": "LECHE ARMONIA DESCREMADA 1L",
-   "p": 1633.75,
+   "p": 1587.94,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -2981,15 +3017,6 @@
    "q": false
   },
   {
-   "c": 476,
-   "d": "YOGURT X 120 FRUTILLA CREMIGAL",
-   "p": 440.42,
-   "b": 40,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
    "p": 2188.27,
@@ -3012,6 +3039,15 @@
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1095,
+   "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
+   "p": 1718.82,
+   "b": 10,
    "cat": "Yogures",
    "s": true,
    "q": false
@@ -3350,8 +3386,8 @@
    "q": false
   },
   {
-   "c": 219,
-   "d": "DULCE DE BATATA C/ CHOCOLATE \"CAYFAR\" LATA X5KG",
+   "c": 221,
+   "d": "DULCE DE BATATA \"CAYFAR\" LATA X 5KG",
    "p": 13243.34,
    "b": null,
    "cat": "Dulces / mermeladas",
@@ -3359,11 +3395,11 @@
    "q": false
   },
   {
-   "c": 221,
-   "d": "DULCE DE BATATA \"CAYFAR\" LATA X 5KG",
-   "p": 13243.34,
-   "b": null,
-   "cat": "Dulces / mermeladas",
+   "c": 214,
+   "d": "PURE DE TOMATE LA HUERTA X520G",
+   "p": 770.0,
+   "b": 12,
+   "cat": "Conservas",
    "s": true,
    "q": false
   },
