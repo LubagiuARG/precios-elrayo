@@ -2,8 +2,10 @@ name: Actualizar lista de precios
 
 on:
   schedule:
-    # Hora UTC: 10:00, 13:00 y 16:00 UTC = 7, 10 y 13 h de Argentina
-    - cron: "0 10,13,16 * * *"
+    # Hora UTC: 10, 13 y 16 h UTC = 7, 10 y 13 h de Argentina.
+    # Minutos "raros" a propósito: GitHub demora o saltea los cron en punto (hora pico).
+    # La corrida de :53 es de respaldo; si la lista no cambió, no hace commit.
+    - cron: "23,53 10,13,16 * * *"
   workflow_dispatch:   # botón "Run workflow" para actualizar a mano
 
 permissions:
