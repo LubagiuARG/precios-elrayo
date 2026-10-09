@@ -1,5 +1,5 @@
 {
- "fecha": "8/10/2026",
+ "fecha": "9/10/2026",
  "productos": [
   {
    "c": 176,
@@ -227,6 +227,15 @@
    "q": false
   },
   {
+   "c": 160,
+   "d": "QUESO RALLADO \"LA QUESERA\" X 20 SOBRES DE 40GRS",
+   "p": 11767.8,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 421,
    "d": "QUESO CREMOSO PUNTA DE AGUA XKG.",
    "p": 8500.0,
@@ -400,7 +409,7 @@
   {
    "c": 1010,
    "d": "MUZZARELLA LA LEONA",
-   "p": 7597.0,
+   "p": 7810.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -508,7 +517,7 @@
   {
    "c": 1148,
    "d": "CREMOSO PILAR DEL NORTE",
-   "p": 6500.0,
+   "p": 6600.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -794,15 +803,6 @@
    "q": false
   },
   {
-   "c": 1134,
-   "d": "PEPAS TOCOÑATO X400GR",
-   "p": 999.99,
-   "b": 12,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1135,
    "d": "PEPAS TOCOÑATO X200GR",
    "p": 574.05,
@@ -1082,15 +1082,6 @@
    "q": false
   },
   {
-   "c": 912,
-   "d": "PAPEL HIGIENICO ELEGANTE 4X30MT",
-   "p": 1195.01,
-   "b": 12,
-   "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 914,
    "d": "SERVILLETA ELEGANTE 3X50P",
    "p": 1330.89,
@@ -1163,6 +1154,15 @@
    "q": false
   },
   {
+   "c": 216,
+   "d": "GRASA ESANI X500GRS",
+   "p": 2269.79,
+   "b": 10,
+   "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 252,
    "d": "VINO VIÑAS RIOJANAS PACK X 12 X 1L",
    "p": 14364.0,
@@ -1193,15 +1193,6 @@
    "c": 260,
    "d": "VINO VIÑAS DE BALBO TINTO 6X1.125ML",
    "p": 13200.0,
-   "b": null,
-   "cat": "Vinos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 575,
-   "d": "VINO COSECHA TARDIA BLANCO DULCE X6",
-   "p": 22050.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1532,18 +1523,18 @@
    "q": false
   },
   {
-   "c": 161,
-   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "c": 132,
+   "d": "DULCE DE LECHE LS CLASICO X250G",
+   "p": 2133.06,
    "b": null,
    "cat": "Mastellone",
    "s": true,
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1694,15 +1685,6 @@
    "q": false
   },
   {
-   "c": 75,
-   "d": "JUGO TANG ANANA",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1724,6 +1706,69 @@
    "c": 81,
    "d": "JUGO TANG MANZANA",
    "p": 6420.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 85,
+   "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
+   "p": 4173.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 87,
+   "d": "JUGO RINDE 2 MANZANA X10 SOBRES",
+   "p": 4620.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 88,
+   "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
+   "p": 4620.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 89,
+   "d": "JUGO RINDE 2 NAR-MANGO X10 SOBRES",
+   "p": 4620.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 90,
+   "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
+   "p": 4620.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 91,
+   "d": "JUGO RINDE 2 NARANJA X10 SOBRES",
+   "p": 4620.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 540,
+   "d": "JUGO RINDE 2 LIMON X10 SOBRES",
+   "p": 4620.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -1829,15 +1874,6 @@
    "q": false
   },
   {
-   "c": 981,
-   "d": "MANAOS COLA X600 X12",
-   "p": 6510.0,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 985,
    "d": "MANAOS LIMA X600 X12",
    "p": 6510.0,
@@ -1869,7 +1905,7 @@
    "d": "OFF FAMILY AEROSOL 165ML",
    "p": 5799.99,
    "b": 12,
-   "cat": "Manaos",
+   "cat": "Repelentes",
    "s": true,
    "q": false
   },
@@ -1878,7 +1914,7 @@
    "d": "REPELENTE 911",
    "p": 1200.0,
    "b": 12,
-   "cat": "Manaos",
+   "cat": "Repelentes",
    "s": true,
    "q": false
   },
@@ -1931,15 +1967,6 @@
    "c": 939,
    "d": "POLENTA MOLINOS ALA X500G",
    "p": 626.99,
-   "b": 10,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 966,
-   "d": "POLENTA PIANO X500G",
-   "p": 449.99,
    "b": 10,
    "cat": "Harinas",
    "s": true,
@@ -2612,6 +2639,15 @@
    "q": false
   },
   {
+   "c": 1176,
+   "d": "SAL PARRILLERA CELUSAL 1KG",
+   "p": 2088.9,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 222,
    "d": "VINAGRE MAROLIO X 1L",
    "p": 958.3,
@@ -2625,6 +2661,15 @@
    "d": "MAYONESA NATURA X 125GRS CAJA X20",
    "p": 12399.99,
    "b": null,
+   "cat": "Aderezos / condimentos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 393,
+   "d": "MAYONESA HELLMANN´S X500G",
+   "p": 2079.99,
+   "b": 15,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -2873,28 +2918,10 @@
    "q": false
   },
   {
-   "c": 465,
-   "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1683.54,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
    "p": 2085.43,
    "b": 6,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 588,
-   "d": "LECHE LS CAJA ENTERA N3 X1L",
-   "p": 1932.5,
-   "b": 12,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -2999,15 +3026,6 @@
    "q": false
   },
   {
-   "c": 30,
-   "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
-   "p": 1258.95,
-   "b": null,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 319,
    "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
    "p": 12685.49,
@@ -3017,17 +3035,17 @@
    "q": false
   },
   {
-   "c": 473,
-   "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
-   "p": 912.22,
+   "c": 471,
+   "d": "YOG LS CON CEREAL CLASICO",
+   "p": 1876.56,
    "b": 20,
    "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
-   "c": 474,
-   "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
+   "c": 473,
+   "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
    "p": 912.22,
    "b": 20,
    "cat": "Yogures",
@@ -3395,10 +3413,10 @@
    "q": false
   },
   {
-   "c": 1091,
-   "d": "MANTECA TREMBLAY X100G",
-   "p": 1436.4,
-   "b": 20,
+   "c": 1092,
+   "d": "CREMA TREMBLAY X200CC",
+   "p": 1659.59,
+   "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
@@ -3503,15 +3521,6 @@
    "q": false
   },
   {
-   "c": 37,
-   "d": "TAPAS DE EMPANADAS DOÑA GRINGA X12",
-   "p": 900.0,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 42,
    "d": "SALCHICHAS GRANJA IRIS X12",
    "p": 3702.86,
@@ -3534,15 +3543,6 @@
    "d": "SALCHICHAS BARK CORTA X 6",
    "p": 790.65,
    "b": 24,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 498,
-   "d": "RAVIOLES DILEGNO POLLO Y VERDURA 1KG",
-   "p": 3210.0,
-   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
