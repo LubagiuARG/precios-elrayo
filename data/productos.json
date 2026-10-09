@@ -803,6 +803,15 @@
    "q": false
   },
   {
+   "c": 1134,
+   "d": "PEPAS TOCOÑATO X400GR",
+   "p": 999.99,
+   "b": 12,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1135,
    "d": "PEPAS TOCOÑATO X200GR",
    "p": 574.05,
@@ -825,6 +834,24 @@
    "d": "GALLE. MAROLIO MINI CRACKER 300G",
    "p": 623.29,
    "b": 32,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1177,
+   "d": "GALL ESTRELLITAS X400GR",
+   "p": 1108.1,
+   "b": 12,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1178,
+   "d": "GALLE TONITAS X400GR",
+   "p": 1108.1,
+   "b": 12,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -1478,15 +1505,6 @@
    "q": false
   },
   {
-   "c": 1150,
-   "d": "NUGGETS POLLO SADIA X300G",
-   "p": 3292.55,
-   "b": 16,
-   "cat": "Congelados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 57,
    "d": "DULCE DE LECHE LS CLASICO X400G",
    "p": 2398.98,
@@ -1523,18 +1541,18 @@
    "q": false
   },
   {
-   "c": 132,
-   "d": "DULCE DE LECHE LS CLASICO X250G",
-   "p": 2133.06,
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
    "q": false
   },
   {
-   "c": 161,
-   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "c": 1000,
+   "d": "DULCE DE LECHE LS AIREADO 300G",
+   "p": 3128.92,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1595,9 +1613,27 @@
    "q": false
   },
   {
+   "c": 1118,
+   "d": "PEPINILLOS ARILART X2KG",
+   "p": 16428.83,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1119,
    "d": "ACEITUNAS ARILART VERDES X100G",
    "p": 888.25,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1120,
+   "d": "ACEITUNAS ARILART NEGRAS X100G",
+   "p": 1483.9,
    "b": null,
    "cat": "Aceitunas y encurtidos",
    "s": true,
@@ -1622,6 +1658,42 @@
    "q": false
   },
   {
+   "c": 1123,
+   "d": "ACEITUNAS ARILART RELLENAS X160G",
+   "p": 1776.5,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1124,
+   "d": "ACEITUNAS ARILART VERDE X500G",
+   "p": 2915.55,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1125,
+   "d": "ACEITUNAS ARILART RODAJAS X400G",
+   "p": 2549.8,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1126,
+   "d": "ACEITUNAS ARILART SIN CAROZO X400G",
+   "p": 3302.2,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1127,
    "d": "ACEITUNAS ARILART RELLENAS X500G",
    "p": 3553.0,
@@ -1631,9 +1703,27 @@
    "q": false
   },
   {
+   "c": 1128,
+   "d": "ACEITUNAS ARILART RELLENAS X80G",
+   "p": 1003.2,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1129,
    "d": "ACEITUNAS ARILART VERDE X180G",
    "p": 1431.65,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1130,
+   "d": "ACEITUNAS ARILART NEGRA X180G",
+   "p": 2403.5,
    "b": null,
    "cat": "Aceitunas y encurtidos",
    "s": true,
@@ -1868,6 +1958,15 @@
    "c": 861,
    "d": "MANAOS MANZANA 2.25 X6",
    "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 981,
+   "d": "MANAOS COLA X600 X12",
+   "p": 6510.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2558,15 +2657,6 @@
    "q": false
   },
   {
-   "c": 739,
-   "d": "CEBOLLA DESHIDRATADA X25GRS CENTURION",
-   "p": 437.22,
-   "b": 50,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 741,
    "d": "LAUREL EN HOJA CENTURION X10G",
    "p": 626.3,
@@ -2954,15 +3044,6 @@
    "q": false
   },
   {
-   "c": 947,
-   "d": "LECHE CENTRAL LECHERA X1LT",
-   "p": 1264.22,
-   "b": 12,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1014,
    "d": "LECHE ARMONIA DESCREMADA 1L",
    "p": 1587.94,
@@ -3019,6 +3100,15 @@
   {
    "c": 29,
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
+   "p": 1258.95,
+   "b": null,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 30,
+   "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
    "b": null,
    "cat": "Yogures",
@@ -3413,6 +3503,15 @@
    "q": false
   },
   {
+   "c": 1091,
+   "d": "MANTECA TREMBLAY X100G",
+   "p": 1436.4,
+   "b": 20,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1092,
    "d": "CREMA TREMBLAY X200CC",
    "p": 1659.59,
@@ -3515,6 +3614,15 @@
    "c": 34,
    "d": "SORRENTINOS DI LEGNO JAMON Y MUZZA X800GRS",
    "p": 3210.0,
+   "b": null,
+   "cat": "Frescos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 37,
+   "d": "TAPAS DE EMPANADAS DOÑA GRINGA X12",
+   "p": 900.0,
    "b": null,
    "cat": "Frescos",
    "s": true,
