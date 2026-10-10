@@ -1,5 +1,5 @@
 {
- "fecha": "9/10/2026",
+ "fecha": "10/10/2026",
  "productos": [
   {
    "c": 176,
@@ -401,15 +401,6 @@
    "c": 1008,
    "d": "SARDO BLANCO LAS TRES R",
    "p": 9680.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1010,
-   "d": "MUZZARELLA LA LEONA",
-   "p": 7810.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -965,9 +956,18 @@
    "q": false
   },
   {
-   "c": 710,
-   "d": "PLACER 2.5 MANZANA",
-   "p": 7960.0,
+   "c": 713,
+   "d": "PLACER X 500 MANZANA X12",
+   "p": 5526.15,
+   "b": null,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 715,
+   "d": "PLACER X500 ANANA X12",
+   "p": 5526.15,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1147,7 +1147,7 @@
   {
    "c": 652,
    "d": "SIDRA ORO DULCE",
-   "p": 10699.5,
+   "p": 14062.2,
    "b": 6,
    "cat": "Sidras",
    "s": true,
@@ -1156,7 +1156,7 @@
   {
    "c": 653,
    "d": "ANANA FIZZ ORO DULCE",
-   "p": 12753.0,
+   "p": 16786.0,
    "b": 6,
    "cat": "Sidras",
    "s": true,
@@ -1370,15 +1370,6 @@
    "q": false
   },
   {
-   "c": 731,
-   "d": "VODKA SKYY BERRY X750ML",
-   "p": 8100.0,
-   "b": null,
-   "cat": "Aperitivos / bebidas con alcohol",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 869,
    "d": "FERNANDITO DOBLE X6",
    "p": 5250.0,
@@ -1541,9 +1532,9 @@
    "q": false
   },
   {
-   "c": 161,
-   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "c": 132,
+   "d": "DULCE DE LECHE LS CLASICO X250G",
+   "p": 2133.06,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1901,18 +1892,9 @@
    "q": false
   },
   {
-   "c": 261,
-   "d": "COCA COLA 2.5L PACK X6",
-   "p": 25080.0,
-   "b": null,
-   "cat": "Línea Coca-Cola",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 7649.99,
+   "p": 7650.12,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1939,7 +1921,7 @@
   {
    "c": 816,
    "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 7649.99,
+   "p": 7650.12,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2657,6 +2639,15 @@
    "q": false
   },
   {
+   "c": 739,
+   "d": "CEBOLLA DESHIDRATADA X25GRS CENTURION",
+   "p": 437.22,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 741,
    "d": "LAUREL EN HOJA CENTURION X10G",
    "p": 626.3,
@@ -3044,10 +3035,10 @@
    "q": false
   },
   {
-   "c": 1014,
-   "d": "LECHE ARMONIA DESCREMADA 1L",
-   "p": 1587.94,
-   "b": null,
+   "c": 947,
+   "d": "LECHE CENTRAL LECHERA X1LT",
+   "p": 1264.22,
+   "b": 12,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -3422,15 +3413,6 @@
    "q": false
   },
   {
-   "c": 38,
-   "d": "CREMA LS COCINAR X330ML",
-   "p": 3127.43,
-   "b": 12,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 39,
    "d": "CREMA LS COCINAR X200ML",
    "p": 2039.18,
@@ -3485,15 +3467,6 @@
    "q": false
   },
   {
-   "c": 49,
-   "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1565.03,
-   "b": 20,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
    "p": 3537.31,
@@ -3507,15 +3480,6 @@
    "d": "MANTECA TREMBLAY X100G",
    "p": 1436.4,
    "b": 20,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1092,
-   "d": "CREMA TREMBLAY X200CC",
-   "p": 1659.59,
-   "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
@@ -3589,15 +3553,6 @@
    "p": 499.99,
    "b": 12,
    "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 32,
-   "d": "TAPA PASCUALINA DOÑA GRINGA",
-   "p": 1039.5,
-   "b": null,
-   "cat": "Frescos",
    "s": true,
    "q": false
   },
