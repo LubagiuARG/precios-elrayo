@@ -85,7 +85,7 @@
   {
    "c": 99,
    "d": "PALETA DE CERDO ORFEBRE",
-   "p": 3410.0,
+   "p": 3135.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -139,7 +139,7 @@
   {
    "c": 108,
    "d": "SARDO NEGRO \"ELOGIO\"",
-   "p": 15570.1,
+   "p": 15784.86,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -209,6 +209,15 @@
    "q": false
   },
   {
+   "c": 126,
+   "d": "QUESO REGGIANITO NEGRO MELINCUE",
+   "p": 16830.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 128,
    "d": "MORTADELA BOCHA BIERZO",
    "p": 7957.89,
@@ -220,7 +229,7 @@
   {
    "c": 129,
    "d": "MORTADELA BOCHA \"CALCHAQUI\"",
-   "p": 8235.64,
+   "p": 8369.55,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -245,6 +254,15 @@
    "q": false
   },
   {
+   "c": 422,
+   "d": "QUESO CREMOSO D 70 XKG",
+   "p": 7192.5,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 488,
    "d": "FIAMBRE PARA EMPAREDADOS BIERZO",
    "p": 5502.53,
@@ -257,6 +275,15 @@
    "c": 490,
    "d": "MORTADELA BOCHA SELLO DE PLATA",
    "p": 4830.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 492,
+   "d": "JAMON 4 CONDES",
+   "p": 7262.05,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -282,7 +309,7 @@
   },
   {
    "c": 511,
-   "d": "JAMON COCIDO 4 CONDES BOLON",
+   "d": "JAMON 4 CONDES BOLON",
    "p": 7357.54,
    "b": null,
    "cat": "Fiambres / quesos",
@@ -508,7 +535,16 @@
   {
    "c": 1148,
    "d": "CREMOSO PILAR DEL NORTE",
-   "p": 6600.0,
+   "p": 6300.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1181,
+   "d": "JAMON 4 CONDES BOLON MINI",
+   "p": 7180.79,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -634,15 +670,6 @@
   {
    "c": 556,
    "d": "GALLE PARNOR COCO X170G",
-   "p": 720.02,
-   "b": 30,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 557,
-   "d": "GALLE PARNOR MARMOLADAS X170G",
    "p": 720.02,
    "b": 30,
    "cat": "Galletitas",
@@ -1057,7 +1084,7 @@
   {
    "c": 865,
    "d": "CEPILLO DE MANO CEPY JEANS",
-   "p": 1032.55,
+   "p": 3500.0,
    "b": null,
    "cat": "Limpieza",
    "s": true,
@@ -1148,15 +1175,6 @@
    "c": 652,
    "d": "SIDRA ORO DULCE",
    "p": 14062.2,
-   "b": 6,
-   "cat": "Sidras",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 653,
-   "d": "ANANA FIZZ ORO DULCE",
-   "p": 16786.0,
    "b": 6,
    "cat": "Sidras",
    "s": true,
@@ -1514,15 +1532,6 @@
    "q": false
   },
   {
-   "c": 130,
-   "d": "DULCE DE LECHE LS REPOSTERO X400G",
-   "p": 3308.73,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 131,
    "d": "DULCE DE LECHE LS COLONIAL X250G",
    "p": 2216.16,
@@ -1535,6 +1544,15 @@
    "c": 132,
    "d": "DULCE DE LECHE LS CLASICO X250G",
    "p": 2133.06,
+   "b": null,
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1883,15 +1901,6 @@
    "q": false
   },
   {
-   "c": 11,
-   "d": "FLAN CREMIGAL X120G",
-   "p": 491.36,
-   "b": 40,
-   "cat": "Cremigal",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
    "p": 7650.12,
@@ -2092,7 +2101,16 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1799.93,
+   "p": 1821.48,
+   "b": 12,
+   "cat": "Aceites",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 648,
+   "d": "ACEITE GIRASOL FINCA EL LAZO X 1.5L",
+   "p": 3536.27,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2175,6 +2193,15 @@
    "d": "PAN LACTAL SALVADO NEVARES",
    "p": 1460.0,
    "b": null,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1082,
+   "d": "PAN DE PANCHOS NEVARES",
+   "p": 824.55,
+   "b": 8,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2324,15 +2351,6 @@
    "q": false
   },
   {
-   "c": 545,
-   "d": "TE GREEN HILLS X25",
-   "p": 1253.89,
-   "b": 20,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 862,
    "d": "MATE COCIDO MAROLIO X25U",
    "p": 605.0,
@@ -2373,15 +2391,6 @@
    "d": "ENDULZANTE SI DIET X250",
    "p": 1204.73,
    "b": 6,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 938,
-   "d": "YERBA PLAYADITO X1KG",
-   "p": 3509.6,
-   "b": 5,
    "cat": "Infusiones",
    "s": true,
    "q": false
@@ -2648,15 +2657,6 @@
    "q": false
   },
   {
-   "c": 741,
-   "d": "LAUREL EN HOJA CENTURION X10G",
-   "p": 626.3,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 742,
    "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
    "p": 431.99,
@@ -2801,15 +2801,6 @@
    "q": false
   },
   {
-   "c": 662,
-   "d": "KETCHUP NATURA X250",
-   "p": 1428.9,
-   "b": 12,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1173,
    "d": "SAVORA X60GR CAJA X30",
    "p": 20760.3,
@@ -2936,6 +2927,15 @@
    "q": false
   },
   {
+   "c": 1179,
+   "d": "CASANCREM X2KG",
+   "p": 23980.56,
+   "b": null,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
    "p": 1683.54,
@@ -2999,10 +2999,28 @@
    "q": false
   },
   {
+   "c": 465,
+   "d": "LECHE LS SACHET N3 X 1 L.",
+   "p": 1683.54,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
    "p": 2085.43,
    "b": 6,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 588,
+   "d": "LECHE LS CAJA ENTERA N3 X1L",
+   "p": 1846.61,
+   "b": 12,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -3026,19 +3044,19 @@
    "q": false
   },
   {
-   "c": 752,
-   "d": "LECHE CHOCOLATADA CINDOR X1L",
-   "p": 4588.36,
+   "c": 947,
+   "d": "LECHE CENTRAL LECHERA X1LT",
+   "p": 1264.22,
    "b": 12,
    "cat": "Leches",
    "s": true,
    "q": false
   },
   {
-   "c": 947,
-   "d": "LECHE CENTRAL LECHERA X1LT",
-   "p": 1264.22,
-   "b": 12,
+   "c": 1014,
+   "d": "LECHE ARMONIA DESCREMADA 1L",
+   "p": 1587.94,
+   "b": null,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -3127,7 +3145,16 @@
   {
    "c": 473,
    "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
-   "p": 912.22,
+   "p": 928.65,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 474,
+   "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
+   "p": 928.65,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3136,7 +3163,7 @@
   {
    "c": 475,
    "d": "YOGURT X 120 VAINILLA CREMIGAL",
-   "p": 440.42,
+   "p": 448.37,
    "b": 40,
    "cat": "Yogures",
    "s": true,
@@ -3145,7 +3172,7 @@
   {
    "c": 476,
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
-   "p": 440.42,
+   "p": 448.37,
    "b": 40,
    "cat": "Yogures",
    "s": true,
@@ -3163,15 +3190,6 @@
   {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 643,
-   "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
    "cat": "Yogures",
@@ -3206,9 +3224,63 @@
    "q": false
   },
   {
+   "c": 1180,
+   "d": "YOG LS BEBIBLE RED AZUCAR FRUTILLA X900",
+   "p": 1754.89,
+   "b": null,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 377,
+   "d": "RED POINT BOX X20",
+   "p": 16480.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 378,
+   "d": "RED POINT COMUN X20",
+   "p": 14935.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 380,
    "d": "RED POINT BOX X10",
-   "p": 9888.0,
+   "p": 9167.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 382,
+   "d": "MASTER COMUN",
+   "p": 14214.0,
+   "b": 20,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 485,
+   "d": "RED POINT ON X20 (MENTOLADO)",
+   "p": 18025.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 933,
+   "d": "RED POINT ON X10 (MENTOLADO)",
+   "p": 10094.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3359,15 +3431,6 @@
    "q": false
   },
   {
-   "c": 930,
-   "d": "CHEESTICK QUESO X300G PEIPO",
-   "p": 2311.84,
-   "b": null,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1109,
    "d": "KRACHITOS PAPAS C AMERI 275G",
    "p": 4438.16,
@@ -3409,6 +3472,15 @@
    "p": 1581.3,
    "b": 18,
    "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 38,
+   "d": "CREMA LS COCINAR X330ML",
+   "p": 3127.43,
+   "b": 12,
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3462,6 +3534,15 @@
    "d": "MANTECA SERENISIMA X 200GRS",
    "p": 2839.46,
    "b": 10,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 49,
+   "d": "MANTECA SERENISIMA X100GRS",
+   "p": 1565.03,
+   "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
@@ -3553,6 +3634,15 @@
    "p": 499.99,
    "b": 12,
    "cat": "Conservas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 32,
+   "d": "TAPA PASCUALINA DOÑA GRINGA",
+   "p": 1039.5,
+   "b": null,
+   "cat": "Frescos",
    "s": true,
    "q": false
   },
