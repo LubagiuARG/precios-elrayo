@@ -344,15 +344,6 @@
    "q": false
   },
   {
-   "c": 660,
-   "d": "SALAME MILAN 1154",
-   "p": 10848.96,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 819,
    "d": "LOMO DE CERDO AHUMADO BIERZO",
    "p": 12407.41,
@@ -821,15 +812,6 @@
    "q": false
   },
   {
-   "c": 1134,
-   "d": "PEPAS TOCOÑATO X400GR",
-   "p": 999.99,
-   "b": 12,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1135,
    "d": "PEPAS TOCOÑATO X200GR",
    "p": 574.05,
@@ -1175,6 +1157,15 @@
    "c": 653,
    "d": "ANANA FIZZ ORO DULCE",
    "p": 16786.0,
+   "b": 6,
+   "cat": "Sidras",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 841,
+   "d": "CLERICO FIZZ ORO DULCE",
+   "p": 15340.0,
    "b": 6,
    "cat": "Sidras",
    "s": true,
@@ -1532,18 +1523,18 @@
    "q": false
   },
   {
-   "c": 132,
-   "d": "DULCE DE LECHE LS CLASICO X250G",
-   "p": 2133.06,
+   "c": 131,
+   "d": "DULCE DE LECHE LS COLONIAL X250G",
+   "p": 2216.16,
    "b": null,
    "cat": "Mastellone",
    "s": true,
    "q": false
   },
   {
-   "c": 161,
-   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "c": 132,
+   "d": "DULCE DE LECHE LS CLASICO X250G",
+   "p": 2133.06,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1897,15 +1888,6 @@
    "p": 491.36,
    "b": 40,
    "cat": "Cremigal",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 483,
-   "d": "MANAOS COLA 2.25 X6",
-   "p": 7650.12,
-   "b": null,
-   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -2684,15 +2666,6 @@
    "q": false
   },
   {
-   "c": 884,
-   "d": "LAUREL MOLIDO X25G CENTURION",
-   "p": 762.55,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 907,
    "d": "CALDO CENTURION VERDURAS X12 CUBOS",
    "p": 1290.2,
@@ -3062,18 +3035,18 @@
    "q": false
   },
   {
-   "c": 1014,
-   "d": "LECHE ARMONIA DESCREMADA 1L",
-   "p": 1587.94,
-   "b": null,
+   "c": 947,
+   "d": "LECHE CENTRAL LECHERA X1LT",
+   "p": 1264.22,
+   "b": 12,
    "cat": "Leches",
    "s": true,
    "q": false
   },
   {
-   "c": 1113,
-   "d": "LECHE LS SACHET ZERO LACTOSA 1L",
-   "p": 1727.04,
+   "c": 1014,
+   "d": "LECHE ARMONIA DESCREMADA 1L",
+   "p": 1587.94,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3404,15 +3377,6 @@
    "q": false
   },
   {
-   "c": 618,
-   "d": "KRACHITOS PAPAS C TRADI X50G",
-   "p": 1100.21,
-   "b": 24,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 896,
    "d": "PAPAS CORTE CLASICO NIKITOS X450GR",
    "p": 4272.08,
@@ -3449,6 +3413,15 @@
    "q": false
   },
   {
+   "c": 1109,
+   "d": "KRACHITOS PAPAS C AMERI 275G",
+   "p": 4438.16,
+   "b": 10,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1110,
    "d": "KRACHITOS JAMON X90G",
    "p": 1797.76,
@@ -3462,15 +3435,6 @@
    "d": "KRACHITOS MANI PELADO SALADO X280G",
    "p": 3974.52,
    "b": 15,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1137,
-   "d": "KRACHITOS PAPAS CT X275G",
-   "p": 4438.16,
-   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -3615,6 +3579,15 @@
    "d": "PURE DE TOMATE MAROLIO X520G",
    "p": 665.5,
    "b": 24,
+   "cat": "Conservas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 717,
+   "d": "DURAZNO EN MITADES MOLTO X 820GR",
+   "p": 2609.35,
+   "b": 12,
    "cat": "Conservas",
    "s": true,
    "q": false
@@ -3928,15 +3901,6 @@
   {
    "c": 1045,
    "d": "MONTE LIRIO DOBLADITOS N2",
-   "p": 1720.0,
-   "b": 10,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1103,
-   "d": "FIDEO MONTE LIRIO CABELLO DE ANGEL",
    "p": 1720.0,
    "b": 10,
    "cat": "Fideos",
