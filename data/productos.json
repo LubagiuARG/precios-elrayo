@@ -112,7 +112,7 @@
   {
    "c": 105,
    "d": "SALAME MILAN BIERZO",
-   "p": 13750.21,
+   "p": 13750.37,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -202,7 +202,7 @@
   {
    "c": 124,
    "d": "PALETA DE CERDO C/GRASITA BIERZO",
-   "p": 9748.79,
+   "p": 10426.49,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -338,6 +338,15 @@
    "c": 646,
    "d": "LONGANIZA BASTON 214",
    "p": 10700.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 660,
+   "d": "SALAME MILAN 1154",
+   "p": 10848.96,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1210,7 +1219,7 @@
   {
    "c": 256,
    "d": "VINO TINTO TERMIDOR X1L X12",
-   "p": 16823.04,
+   "p": 17160.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1246,7 +1255,7 @@
   {
    "c": 661,
    "d": "VINO UVITA BLANCO DULCE X1L X12",
-   "p": 14500.08,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1273,7 +1282,7 @@
   {
    "c": 890,
    "d": "VINO UVITA BLANCO X1L X12",
-   "p": 13453.02,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1282,7 +1291,7 @@
   {
    "c": 891,
    "d": "VINO UVITA TINTO X1L X12",
-   "p": 14200.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1300,7 +1309,7 @@
   {
    "c": 1104,
    "d": "VINO UVITA TINTO DULCE X1L X12",
-   "p": 14200.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1535,6 +1544,15 @@
    "c": 132,
    "d": "DULCE DE LECHE LS CLASICO X250G",
    "p": 2133.06,
+   "b": null,
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1795,7 +1813,7 @@
   {
    "c": 85,
    "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
-   "p": 4173.0,
+   "p": 4620.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -1892,11 +1910,20 @@
    "q": false
   },
   {
+   "c": 483,
+   "d": "MANAOS COLA 2.25 X6",
+   "p": 7650.12,
+   "b": null,
+   "cat": "Cremigal",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 806,
    "d": "MANAOS NARANJA X2.25 X6",
    "p": 7649.99,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1905,7 +1932,7 @@
    "d": "MANAOS POMELO BLANCO X2.25 X6",
    "p": 7649.99,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1914,7 +1941,7 @@
    "d": "MANAOS LIMA LIMON 2.25 X6",
    "p": 7650.12,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1923,7 +1950,7 @@
    "d": "SODA MANAOS X6",
    "p": 7102.0,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1932,7 +1959,7 @@
    "d": "MANAOS MANZANA 2.25 X6",
    "p": 7649.99,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1941,7 +1968,7 @@
    "d": "MANAOS COLA X600 X12",
    "p": 6510.0,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1950,7 +1977,7 @@
    "d": "MANAOS LIMA X600 X12",
    "p": 6510.0,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1959,7 +1986,7 @@
    "d": "MANAOS TONICA S/AZUCAR",
    "p": 2625.0,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1968,7 +1995,7 @@
    "d": "MANAOS LATA COLA X6",
    "p": 4119.5,
    "b": null,
-   "cat": "Manaos",
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -2380,7 +2407,7 @@
   {
    "c": 938,
    "d": "YERBA PLAYADITO X1KG",
-   "p": 3852.0,
+   "p": 3960.0,
    "b": 5,
    "cat": "Infusiones",
    "s": true,
@@ -2648,19 +2675,19 @@
    "q": false
   },
   {
-   "c": 741,
-   "d": "LAUREL EN HOJA CENTURION X10G",
-   "p": 626.3,
-   "b": 10,
+   "c": 742,
+   "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
+   "p": 431.99,
+   "b": 50,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
   {
-   "c": 742,
-   "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
-   "p": 431.99,
-   "b": 50,
+   "c": 744,
+   "d": "SALSA BLANCA CENTURION X40GRS",
+   "p": 330.45,
+   "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -3053,6 +3080,15 @@
    "q": false
   },
   {
+   "c": 1113,
+   "d": "LECHE LS SACHET ZERO LACTOSA 1L",
+   "p": 1727.04,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
    "p": 1597.03,
@@ -3431,10 +3467,10 @@
    "q": false
   },
   {
-   "c": 1137,
-   "d": "KRACHITOS PAPAS CT X275G",
-   "p": 4438.16,
-   "b": 10,
+   "c": 1157,
+   "d": "KRACHITOS BATATAS X70G",
+   "p": 1581.3,
+   "b": 18,
    "cat": "Snacks",
    "s": true,
    "q": false
