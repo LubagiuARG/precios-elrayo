@@ -1146,9 +1146,9 @@
   },
   {
    "c": 652,
-   "d": "SIDRA ORO DULCE",
+   "d": "SIDRA ORO DULCE X6",
    "p": 14800.0,
-   "b": 6,
+   "b": null,
    "cat": "Sidras",
    "s": true,
    "q": false
@@ -1210,7 +1210,7 @@
   {
    "c": 256,
    "d": "VINO TINTO TERMIDOR X1L X12",
-   "p": 16500.0,
+   "p": 16823.04,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1246,7 +1246,7 @@
   {
    "c": 661,
    "d": "VINO UVITA BLANCO DULCE X1L X12",
-   "p": 14500.0,
+   "p": 14500.08,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1273,7 +1273,7 @@
   {
    "c": 890,
    "d": "VINO UVITA BLANCO X1L X12",
-   "p": 14200.0,
+   "p": 13453.02,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1381,7 +1381,7 @@
   {
    "c": 901,
    "d": "PETACAS CRIADORES WHISKY X12",
-   "p": 23650.0,
+   "p": 22440.0,
    "b": null,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -2281,7 +2281,7 @@
   {
    "c": 186,
    "d": "YERBA CBSE HIERBAS SERRANAS X500GRS",
-   "p": 1594.99,
+   "p": 1595.0,
    "b": 12,
    "cat": "Infusiones",
    "s": true,
@@ -2373,6 +2373,15 @@
    "d": "ENDULZANTE SI DIET X250",
    "p": 1204.73,
    "b": 6,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 938,
+   "d": "YERBA PLAYADITO X1KG",
+   "p": 3852.0,
+   "b": 5,
    "cat": "Infusiones",
    "s": true,
    "q": false
@@ -2657,9 +2666,9 @@
    "q": false
   },
   {
-   "c": 744,
-   "d": "SALSA BLANCA CENTURION X40GRS",
-   "p": 330.45,
+   "c": 884,
+   "d": "LAUREL MOLIDO X25G CENTURION",
+   "p": 762.55,
    "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3044,20 +3053,11 @@
    "q": false
   },
   {
-   "c": 1113,
-   "d": "LECHE LS SACHET ZERO LACTOSA 1L",
-   "p": 1727.04,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
    "p": 1597.03,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3066,7 +3066,7 @@
    "d": "YOG LS FIRME X190G VAINILLA",
    "p": 1597.03,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3075,7 +3075,7 @@
    "d": "YOG LS FIRME X120G X2 VAINILLA",
    "p": 2101.05,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3084,7 +3084,7 @@
    "d": "YOG LS FIRME X120G X2 FRUTILLA",
    "p": 2101.05,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3093,7 +3093,7 @@
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
    "p": 1258.95,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3102,7 +3102,7 @@
    "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3111,7 +3111,7 @@
    "d": "YOG LS CON CEREAL CLASICO",
    "p": 1876.56,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3120,7 +3120,7 @@
    "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
    "p": 928.65,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3129,7 +3129,7 @@
    "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
    "p": 928.65,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3138,7 +3138,7 @@
    "d": "YOGURT X 120 VAINILLA CREMIGAL",
    "p": 448.37,
    "b": 40,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3147,7 +3147,7 @@
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 448.37,
    "b": 40,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3156,7 +3156,7 @@
    "d": "YOG LS CON ROCKLETS",
    "p": 2188.27,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3165,7 +3165,7 @@
    "d": "YOG LS BEBIBLE X900 VAINILLA",
    "p": 2029.8,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3174,7 +3174,7 @@
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3183,7 +3183,7 @@
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
    "p": 1718.82,
    "b": 10,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3192,7 +3192,7 @@
    "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
    "p": 1751.56,
    "b": 10,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3201,7 +3201,7 @@
    "d": "YOG LS BEBIBLE ALFAJOR X900",
    "p": 2193.61,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3210,7 +3210,7 @@
    "d": "YOG LS BEBIBLE RED AZUCAR FRUTILLA X900",
    "p": 1754.89,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3440,20 +3440,11 @@
    "q": false
   },
   {
-   "c": 1157,
-   "d": "KRACHITOS BATATAS X70G",
-   "p": 1581.3,
-   "b": 18,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 38,
    "d": "CREMA LS COCINAR X330ML",
    "p": 3127.43,
    "b": 12,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3462,7 +3453,7 @@
    "d": "CREMA LS COCINAR X200ML",
    "p": 2039.18,
    "b": 24,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3471,7 +3462,7 @@
    "d": "CREMA LS BATIR X330ML",
    "p": 3278.1,
    "b": 12,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3480,7 +3471,7 @@
    "d": "CREMA LS BATIR 200ML",
    "p": 2139.64,
    "b": 24,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3489,7 +3480,7 @@
    "d": "MANTECA SYS X200GRS",
    "p": 1819.0,
    "b": 30,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3498,7 +3489,7 @@
    "d": "MANTECA SYS X100 GRS",
    "p": 961.93,
    "b": 60,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3507,7 +3498,7 @@
    "d": "MANTECA SERENISIMA X 200GRS",
    "p": 2839.46,
    "b": 10,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3516,7 +3507,7 @@
    "d": "MANTECA SERENISIMA X100GRS",
    "p": 1565.03,
    "b": 20,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3525,7 +3516,7 @@
    "d": "RICOTA GARCIA X500G",
    "p": 3537.31,
    "b": null,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3534,7 +3525,7 @@
    "d": "MANTECA TREMBLAY X100G",
    "p": 1436.4,
    "b": 20,
-   "cat": "Snacks",
+   "cat": "Cremas / mantecas",
    "s": true,
    "q": false
   },
@@ -3836,6 +3827,15 @@
    "q": false
   },
   {
+   "c": 328,
+   "d": "SOL PAMPEANO MOSTACHOL LISO X500G",
+   "p": 766.8,
+   "b": 15,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 329,
    "d": "SOL PAMPEANO CELENTANO X500G",
    "p": 766.8,
@@ -3847,6 +3847,15 @@
   {
    "c": 330,
    "d": "SOL PAMPEANO DEDALITOS X 500G",
+   "p": 766.8,
+   "b": 15,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 572,
+   "d": "SOL PAMPEANO CODO X500GRS",
    "p": 766.8,
    "b": 15,
    "cat": "Fideos",
