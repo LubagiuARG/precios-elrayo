@@ -1,5 +1,5 @@
 {
- "fecha": "13/10/2026",
+ "fecha": "14/10/2026",
  "productos": [
   {
    "c": 176,
@@ -230,15 +230,6 @@
    "c": 129,
    "d": "MORTADELA BOCHA \"CALCHAQUI\"",
    "p": 8369.55,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 160,
-   "d": "QUESO RALLADO \"LA QUESERA\" X 20 SOBRES DE 40GRS",
-   "p": 11767.8,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -695,15 +686,6 @@
    "q": false
   },
   {
-   "c": 709,
-   "d": "MEDIA TARDE SANDWICH",
-   "p": 1308.07,
-   "b": 16,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 720,
    "d": "CHOCOLINAS X250G",
    "p": 2194.68,
@@ -825,15 +807,6 @@
    "d": "PEPAS TOCOÑATO X200GR",
    "p": 574.05,
    "b": 24,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1159,
-   "d": "GALLE. MAROLIO MINI CRACKER SALVADO 300G",
-   "p": 623.29,
-   "b": 32,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -1185,15 +1158,6 @@
    "d": "LEVADURA CALSA CUBITOS CAJA X 20",
    "p": 10707.69,
    "b": null,
-   "cat": "Varios",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 216,
-   "d": "GRASA ESANI X500GRS",
-   "p": 2269.79,
-   "b": 10,
    "cat": "Varios",
    "s": true,
    "q": false
@@ -1568,15 +1532,6 @@
    "q": false
   },
   {
-   "c": 1063,
-   "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1727.04,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 829,
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
@@ -1914,7 +1869,7 @@
    "d": "MANAOS COLA 2.25 X6",
    "p": 7650.12,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1923,16 +1878,7 @@
    "d": "MANAOS NARANJA X2.25 X6",
    "p": 7649.99,
    "b": null,
-   "cat": "Cremigal",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 807,
-   "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 7649.99,
-   "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1941,7 +1887,7 @@
    "d": "MANAOS LIMA LIMON 2.25 X6",
    "p": 7650.12,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1950,7 +1896,7 @@
    "d": "SODA MANAOS X6",
    "p": 7102.0,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1959,7 +1905,7 @@
    "d": "MANAOS MANZANA 2.25 X6",
    "p": 7649.99,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1968,7 +1914,7 @@
    "d": "MANAOS COLA X600 X12",
    "p": 6510.0,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1977,7 +1923,7 @@
    "d": "MANAOS LIMA X600 X12",
    "p": 6510.0,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1986,7 +1932,7 @@
    "d": "MANAOS TONICA S/AZUCAR",
    "p": 2625.0,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -1995,7 +1941,7 @@
    "d": "MANAOS LATA COLA X6",
    "p": 4119.5,
    "b": null,
-   "cat": "Cremigal",
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -2531,15 +2477,6 @@
    "q": false
   },
   {
-   "c": 683,
-   "d": "NUEZ MOSCADA MOLIDA 25GS. CENTURION",
-   "p": 747.71,
-   "b": 50,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 685,
    "d": "PIMIENTA NEGRA X25 GRS CENTURION",
    "p": 728.52,
@@ -2675,6 +2612,15 @@
    "q": false
   },
   {
+   "c": 741,
+   "d": "LAUREL EN HOJA CENTURION X10G",
+   "p": 626.3,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 742,
    "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
    "p": 431.99,
@@ -2711,15 +2657,6 @@
    "q": false
   },
   {
-   "c": 911,
-   "d": "AJO GRANULADO CENTURION X25G",
-   "p": 446.05,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1154,
    "d": "SAL FINA MAROLIO X500G",
    "p": 714.89,
@@ -2742,6 +2679,366 @@
    "d": "SAL PARRILLERA CELUSAL 1KG",
    "p": 2278.8,
    "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1183,
+   "d": "ADOBO P/ PIZZA 25G AROMAS & SABORES",
+   "p": 322.69,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1184,
+   "d": "AJI MOLIDO 25G AROMAS & SABORES",
+   "p": 349.14,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1185,
+   "d": "COMINO MOLIDO 25G AROMAS & SABORES",
+   "p": 331.2,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1186,
+   "d": "CONDIMENTO P/ ARROZ 25G AROMAS & SAB",
+   "p": 344.54,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1187,
+   "d": "CURCUMA MOLIDA 25G AROMAS & SABORES",
+   "p": 538.06,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1188,
+   "d": "ESPECIAS SURTIDAS 25G AROMAS & SABORES",
+   "p": 280.78,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1189,
+   "d": "NUEZ MOSCADA MOLIDA 25G AROMAS & SAB",
+   "p": 773.75,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1190,
+   "d": "LAUREL EN HOJAS 10G AROMAS & SABORES",
+   "p": 688.16,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1191,
+   "d": "OREGANO 25G AROMAS & SABORES",
+   "p": 344.08,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1192,
+   "d": "PIMENTON 25G AROMAS & SABORES",
+   "p": 337.0,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1193,
+   "d": "PIMENTON AHUMADO 25G AROMAS & SAB",
+   "p": 397.11,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1194,
+   "d": "PIMENTON DULCE 25G AROMAS & SABORES",
+   "p": 397.11,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1195,
+   "d": "PIMIENTA BLANCA MOLIDA 25G AROMAS & SAB",
+   "p": 973.73,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1196,
+   "d": "PIMIENTA NEGRA MOLIDA 25G AROMAS & SAB",
+   "p": 690.69,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1197,
+   "d": "AJO EN` POLVO 25G AROMAS & SABORES",
+   "p": 476.1,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1198,
+   "d": "AJO GRANULADO 25G AROMAS & SABORES",
+   "p": 523.71,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1199,
+   "d": "CHIMICHURRI 25G AROMAS & SABORES",
+   "p": 301.25,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1200,
+   "d": "PROVENZAL DESHIDRAT 25G AROMAS & SAB",
+   "p": 430.56,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1201,
+   "d": "PEREJIL DESHIDRAT 25G AROMAS & SAB",
+   "p": 684.11,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1202,
+   "d": "PESTO DESHIDRAT 25G AROMAS & SAB",
+   "p": 614.01,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1203,
+   "d": "AZUCAR IMPALPABLE 200G AROMAS & SAB",
+   "p": 900.22,
+   "b": 30,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1204,
+   "d": "BICARBONATO DE SODIO 50G AROMAS & SAB",
+   "p": 344.54,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1205,
+   "d": "POLVO P/ HORNEAR 50G AROMAS & SAB",
+   "p": 450.8,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1206,
+   "d": "COCO RALLADO 25G AROMAS & SAB",
+   "p": 388.06,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1207,
+   "d": "EXTRACTO DE VAINILLA 100CC AROMAS & SAB",
+   "p": 666.54,
+   "b": 36,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1208,
+   "d": "EXTRACTO DE VAINILLA 1LT AROMAS & SAB",
+   "p": 2254.0,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1209,
+   "d": "PASAS DE UVA SULTANINA 50G AROMAS & SAB",
+   "p": 814.2,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1210,
+   "d": "CHIMICHURRI LIQ SUAVE 250CC AROMAS & SAB",
+   "p": 950.67,
+   "b": 24,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1211,
+   "d": "SAL PARRILLERA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1212,
+   "d": "SAL DE AJO 250G AROMAS & SABORES",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1213,
+   "d": "SAL AMERICANA 250G AROMAS 6 SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1214,
+   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1215,
+   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1216,
+   "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1217,
+   "d": "ADOBO P/ PIZZAS 1KG AROMAS & SABORES",
+   "p": 5353.25,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1218,
+   "d": "AJI MOLIDO 1KG AROMAS & SABORES",
+   "p": 6008.75,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1219,
+   "d": "OREGANO 1KG AROMAS Y SABORES",
+   "p": 5080.13,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1220,
+   "d": "PIMENTON EXTRA 1KG AROMAS & SABORES",
+   "p": 6500.37,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1221,
+   "d": "PROVENZAL 1KG AROMAS & SABORES",
+   "p": 6227.25,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1222,
+   "d": "CHIMICHURRI 1KG AROMAS & SABORES",
+   "p": 5025.5,
+   "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -2778,15 +3075,6 @@
    "d": "MAYONESA NATURA X 250G",
    "p": 1444.39,
    "b": 12,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 395,
-   "d": "MAYONESA HELLMANNS X250G",
-   "p": 1186.91,
-   "b": 24,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -2867,15 +3155,6 @@
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4352.37,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1077,
-   "d": "QUESO CREMA NEVARES X290G",
-   "p": 1532.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3188,15 +3467,6 @@
    "q": false
   },
   {
-   "c": 502,
-   "d": "YOG LS CON ROCKLETS",
-   "p": 2188.27,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
    "p": 2029.8,
@@ -3462,6 +3732,15 @@
    "d": "KRACHITOS MANI PELADO SALADO X280G",
    "p": 3974.52,
    "b": 15,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1137,
+   "d": "KRACHITOS PAPAS CT X275G",
+   "p": 4438.16,
+   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
