@@ -1,5 +1,5 @@
 {
- "fecha": "14/10/2026",
+ "fecha": "15/10/2026",
  "productos": [
   {
    "c": 176,
@@ -290,15 +290,6 @@
    "q": false
   },
   {
-   "c": 510,
-   "d": "PALETA DE CERDO 4 CONDES",
-   "p": 6643.83,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 511,
    "d": "JAMON 4 CONDES BOLON",
    "p": 7357.54,
@@ -408,7 +399,7 @@
   },
   {
    "c": 994,
-   "d": "SALAMIN 214 P FINO",
+   "d": "SALAMIN CASERO",
    "p": 10000.0,
    "b": null,
    "cat": "Fiambres / quesos",
@@ -536,6 +527,15 @@
    "c": 1181,
    "d": "JAMON 4 CONDES BOLON MINI",
    "p": 7180.79,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1223,
+   "d": "SARDO LAS VARAS",
+   "p": 9460.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -812,8 +812,17 @@
    "q": false
   },
   {
+   "c": 1159,
+   "d": "GALLE MAROLIO MINI CRACKER SALVADO 300G",
+   "p": 623.29,
+   "b": 32,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1160,
-   "d": "GALLE. MAROLIO MINI CRACKER 300G",
+   "d": "GALLE MAROLIO MINI CRACKER 300G",
    "p": 623.29,
    "b": 32,
    "cat": "Galletitas",
@@ -1154,10 +1163,10 @@
    "q": false
   },
   {
-   "c": 50,
-   "d": "LEVADURA CALSA CUBITOS CAJA X 20",
-   "p": 10707.69,
-   "b": null,
+   "c": 216,
+   "d": "GRASA ESANI X500GRS",
+   "p": 2269.79,
+   "b": 10,
    "cat": "Varios",
    "s": true,
    "q": false
@@ -1523,9 +1532,9 @@
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1727.04,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1874,8 +1883,8 @@
    "q": false
   },
   {
-   "c": 806,
-   "d": "MANAOS NARANJA X2.25 X6",
+   "c": 807,
+   "d": "MANAOS POMELO BLANCO X2.25 X6",
    "p": 7649.99,
    "b": null,
    "cat": "Manaos",
@@ -2423,6 +2432,15 @@
    "q": false
   },
   {
+   "c": 1224,
+   "d": "MATE COCIDO UNION X50",
+   "p": 902.0,
+   "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 64,
    "d": "CALDOS DE GALLINA \"MOLTO\" X12CUBOS",
    "p": 1154.99,
@@ -2639,19 +2657,19 @@
    "q": false
   },
   {
-   "c": 884,
-   "d": "LAUREL MOLIDO X25G CENTURION",
-   "p": 762.55,
-   "b": 10,
+   "c": 907,
+   "d": "CALDO CENTURION VERDURAS X12 CUBOS",
+   "p": 1290.2,
+   "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
   {
-   "c": 907,
-   "d": "CALDO CENTURION VERDURAS X12 CUBOS",
-   "p": 1290.2,
-   "b": null,
+   "c": 911,
+   "d": "AJO GRANULADO CENTURION X25G",
+   "p": 446.05,
+   "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -2972,15 +2990,6 @@
    "q": false
   },
   {
-   "c": 1215,
-   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
-   "p": 2110.0,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1216,
    "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
@@ -3071,10 +3080,10 @@
    "q": false
   },
   {
-   "c": 394,
-   "d": "MAYONESA NATURA X 250G",
-   "p": 1444.39,
-   "b": 12,
+   "c": 395,
+   "d": "MAYONESA HELLMANNS X250G",
+   "p": 1186.91,
+   "b": 24,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3155,15 +3164,6 @@
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4352.37,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1078,
-   "d": "QUESO CREMA NEVARES LIGHT X290G",
-   "p": 1532.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3937,15 +3937,6 @@
   {
    "c": 33,
    "d": "RAVIOLES DI LEGNO JAMON Y MUZZA X 1KG",
-   "p": 3210.0,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 34,
-   "d": "SORRENTINOS DI LEGNO JAMON Y MUZZA X800GRS",
    "p": 3210.0,
    "b": null,
    "cat": "Frescos",
