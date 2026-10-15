@@ -1073,15 +1073,6 @@
    "q": false
   },
   {
-   "c": 466,
-   "d": "ECO FAMILY BCO 4X30MT",
-   "p": 946.86,
-   "b": 12,
-   "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 611,
    "d": "ECO FAMILY 6X30MT",
    "p": 1389.87,
@@ -1163,11 +1154,20 @@
    "q": false
   },
   {
-   "c": 216,
-   "d": "GRASA ESANI X500GRS",
-   "p": 2269.79,
-   "b": 10,
+   "c": 50,
+   "d": "LEVADURA CALSA CUBITOS CAJA X 20",
+   "p": 10707.69,
+   "b": null,
    "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 148,
+   "d": "VINO VIÑAS DE ALVEAR CLASICO TINTO 1.125ML",
+   "p": 12650.0,
+   "b": null,
+   "cat": "Vinos",
    "s": true,
    "q": false
   },
@@ -1532,9 +1532,9 @@
    "q": false
   },
   {
-   "c": 1063,
-   "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1727.04,
+   "c": 1000,
+   "d": "DULCE DE LECHE LS AIREADO 300G",
+   "p": 3128.92,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1883,8 +1883,8 @@
    "q": false
   },
   {
-   "c": 807,
-   "d": "MANAOS POMELO BLANCO X2.25 X6",
+   "c": 806,
+   "d": "MANAOS NARANJA X2.25 X6",
    "p": 7649.99,
    "b": null,
    "cat": "Manaos",
@@ -2433,7 +2433,7 @@
   },
   {
    "c": 1224,
-   "d": "MATE COCIDO UNION X50",
+   "d": "MATE COCIDO UNION X25",
    "p": 902.0,
    "b": 10,
    "cat": "Infusiones",
@@ -2657,10 +2657,10 @@
    "q": false
   },
   {
-   "c": 907,
-   "d": "CALDO CENTURION VERDURAS X12 CUBOS",
-   "p": 1290.2,
-   "b": null,
+   "c": 884,
+   "d": "LAUREL MOLIDO X25G CENTURION",
+   "p": 762.55,
+   "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -3080,10 +3080,10 @@
    "q": false
   },
   {
-   "c": 395,
-   "d": "MAYONESA HELLMANNS X250G",
-   "p": 1186.91,
-   "b": 24,
+   "c": 394,
+   "d": "MAYONESA NATURA X 250G",
+   "p": 1444.39,
+   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3449,18 +3449,18 @@
    "q": false
   },
   {
-   "c": 476,
-   "d": "YOGURT X 120 FRUTILLA CREMIGAL",
-   "p": 448.37,
-   "b": 40,
+   "c": 502,
+   "d": "YOG LS CON ROCKLETS",
+   "p": 2188.27,
+   "b": 20,
    "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
-   "c": 502,
-   "d": "YOG LS CON ROCKLETS",
-   "p": 2188.27,
+   "c": 642,
+   "d": "YOG LS BEBIBLE X900 VAINILLA",
+   "p": 2029.8,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3471,15 +3471,6 @@
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1095,
-   "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
-   "p": 1718.82,
-   "b": 10,
    "cat": "Yogures",
    "s": true,
    "q": false
@@ -3514,7 +3505,7 @@
   {
    "c": 377,
    "d": "RED POINT BOX X20",
-   "p": 16480.0,
+   "p": 16296.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3523,7 +3514,7 @@
   {
    "c": 378,
    "d": "RED POINT COMUN X20",
-   "p": 14935.0,
+   "p": 15078.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3532,7 +3523,7 @@
   {
    "c": 380,
    "d": "RED POINT BOX X10",
-   "p": 9167.0,
+   "p": 9156.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3541,7 +3532,7 @@
   {
    "c": 382,
    "d": "MASTER COMUN",
-   "p": 14214.0,
+   "p": 12772.0,
    "b": 20,
    "cat": "Cigarrillos",
    "s": true,
@@ -3550,7 +3541,16 @@
   {
    "c": 485,
    "d": "RED POINT ON X20 (MENTOLADO)",
-   "p": 18025.0,
+   "p": 18144.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 878,
+   "d": "RED POINT SIX X20",
+   "p": 18144.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3559,7 +3559,7 @@
   {
    "c": 933,
    "d": "RED POINT ON X10 (MENTOLADO)",
-   "p": 10094.0,
+   "p": 10080.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3568,7 +3568,7 @@
   {
    "c": 1070,
    "d": "RED POINT SIX X10",
-   "p": 9888.0,
+   "p": 10080.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3577,7 +3577,7 @@
   {
    "c": 1105,
    "d": "RED POINT DUO X20",
-   "p": 17798.4,
+   "p": 18144.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3777,15 +3777,6 @@
    "d": "MANTECA SYS X200GRS",
    "p": 1819.0,
    "b": 30,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 47,
-   "d": "MANTECA SYS X100 GRS",
-   "p": 961.93,
-   "b": 60,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
