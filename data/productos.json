@@ -292,7 +292,7 @@
   {
    "c": 511,
    "d": "JAMON 4 CONDES BOLON",
-   "p": 7357.54,
+   "p": 7382.12,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -526,7 +526,7 @@
   {
    "c": 1181,
    "d": "JAMON 4 CONDES BOLON MINI",
-   "p": 7180.79,
+   "p": 7382.12,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -3449,15 +3449,6 @@
    "q": false
   },
   {
-   "c": 475,
-   "d": "YOGURT X 120 VAINILLA CREMIGAL",
-   "p": 448.37,
-   "b": 40,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 476,
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 448.37,
@@ -3467,9 +3458,9 @@
    "q": false
   },
   {
-   "c": 642,
-   "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
+   "c": 502,
+   "d": "YOG LS CON ROCKLETS",
+   "p": 2188.27,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3678,15 +3669,6 @@
    "d": "PAPAS CORTE CLASICO NIKITOS X450GR",
    "p": 4272.08,
    "b": 7,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 917,
-   "d": "MANI PELADO X900 MANITOON",
-   "p": 5500.0,
-   "b": null,
    "cat": "Snacks",
    "s": true,
    "q": false
