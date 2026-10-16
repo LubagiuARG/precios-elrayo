@@ -40,7 +40,7 @@
   {
    "c": 574,
    "d": "CERVEZA 361 PACK X6 X1L",
-   "p": 8742.39,
+   "p": 8750.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -77,15 +77,6 @@
    "c": 96,
    "d": "BONDIOLA BIERZO X KG",
    "p": 21317.02,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 99,
-   "d": "PALETA DE CERDO ORFEBRE",
-   "p": 3135.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -524,18 +515,9 @@
    "q": false
   },
   {
-   "c": 1223,
-   "d": "SARDO LAS VARAS",
-   "p": 9460.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1225,
-   "d": "CREMOSO SAN CARLINA",
-   "p": 6050.0,
+   "d": "CREMOSO SANCARLINA",
+   "p": 6000.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1073,6 +1055,15 @@
    "q": false
   },
   {
+   "c": 1226,
+   "d": "JABON ALA MATIC X800ML",
+   "p": 2255.0,
+   "b": 12,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 611,
    "d": "ECO FAMILY 6X30MT",
    "p": 1389.87,
@@ -1236,7 +1227,7 @@
   },
   {
    "c": 787,
-   "d": "VINO ESTANCIA MENDOZA CHENIN DULCE",
+   "d": "VINO ESTANCIA MENDOZA CHENIN DULCE X6",
    "p": 14500.0,
    "b": null,
    "cat": "Vinos",
@@ -1327,7 +1318,7 @@
   {
    "c": 258,
    "d": "FERNET BRANCA 750ML",
-   "p": 14700.0,
+   "p": 14500.0,
    "b": 12,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1541,11 +1532,20 @@
    "q": false
   },
   {
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1727.04,
+   "b": null,
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 829,
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1554,7 +1554,7 @@
    "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
    "p": 27326.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1563,7 +1563,7 @@
    "d": "ACEITUNAS ARILART VERD ENT CHICA X5KG",
    "p": 22446.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1572,7 +1572,7 @@
    "d": "ACEITUNAS ARILART VERD RODAJAS X4KG",
    "p": 24662.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1581,7 +1581,7 @@
    "d": "PICKLES MIXTOS ARILART X2KG",
    "p": 10138.4,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1590,7 +1590,7 @@
    "d": "ACEITUNAS ARILART VERDES X100G",
    "p": 888.25,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1599,7 +1599,7 @@
    "d": "ACEITUNAS ARILART NEGRAS X100G",
    "p": 1551.35,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1608,7 +1608,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X80G",
    "p": 877.8,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1617,7 +1617,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X80G",
    "p": 971.85,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1626,7 +1626,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X160G",
    "p": 1857.25,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1635,7 +1635,7 @@
    "d": "ACEITUNAS ARILART VERDE X500G",
    "p": 2915.55,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1644,7 +1644,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X400G",
    "p": 2665.7,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1653,7 +1653,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X400G",
    "p": 3452.3,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1662,7 +1662,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X500G",
    "p": 3553.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1671,7 +1671,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X80G",
    "p": 1003.2,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1680,7 +1680,7 @@
    "d": "ACEITUNAS ARILART VERDE X180G",
    "p": 1431.65,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1689,7 +1689,7 @@
    "d": "ACEITUNAS ARILART NEGRA X180G",
    "p": 2512.75,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1698,7 +1698,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X150G",
    "p": 1452.55,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1707,7 +1707,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X150G",
    "p": 1640.65,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1861,6 +1861,15 @@
    "p": 491.36,
    "b": 40,
    "cat": "Cremigal",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 483,
+   "d": "MANAOS COLA 2.25 X6",
+   "p": 7650.12,
+   "b": null,
+   "cat": "Manaos",
    "s": true,
    "q": false
   },
@@ -3206,6 +3215,15 @@
    "q": false
   },
   {
+   "c": 27,
+   "d": "LECHE LS SACHET N1 X 1 L.",
+   "p": 1683.54,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
    "p": 1932.5,
@@ -3467,20 +3485,11 @@
    "q": false
   },
   {
-   "c": 1180,
-   "d": "YOG LS BEBIBLE RED AZUCAR FRUTILLA X900",
-   "p": 1754.89,
-   "b": null,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 377,
    "d": "RED POINT BOX X20",
    "p": 16296.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3489,7 +3498,7 @@
    "d": "RED POINT COMUN X20",
    "p": 15078.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3498,7 +3507,7 @@
    "d": "RED POINT BOX X10",
    "p": 9156.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3507,7 +3516,7 @@
    "d": "MASTER COMUN",
    "p": 12772.0,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3516,7 +3525,7 @@
    "d": "RED POINT ON X20 (MENTOLADO)",
    "p": 18144.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3525,7 +3534,7 @@
    "d": "RED POINT SIX X20",
    "p": 18144.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3534,7 +3543,7 @@
    "d": "RED POINT ON X10 (MENTOLADO)",
    "p": 10080.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3543,7 +3552,7 @@
    "d": "RED POINT SIX X10",
    "p": 10080.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3552,7 +3561,7 @@
    "d": "RED POINT DUO X20",
    "p": 18144.0,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
@@ -3748,7 +3757,7 @@
   {
    "c": 46,
    "d": "MANTECA SYS X200GRS",
-   "p": 1819.0,
+   "p": 1870.0,
    "b": 30,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3757,7 +3766,7 @@
   {
    "c": 47,
    "d": "MANTECA SYS X100 GRS",
-   "p": 909.5,
+   "p": 935.0,
    "b": 60,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3930,15 +3939,6 @@
    "d": "SALCHICHAS BARK CORTA X 6",
    "p": 790.65,
    "b": 24,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 499,
-   "d": "ÑOQUIS DE PAPA DILEGNO X 800GR",
-   "p": 3210.0,
-   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
