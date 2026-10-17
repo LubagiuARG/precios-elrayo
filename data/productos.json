@@ -1,5 +1,5 @@
 {
- "fecha": "16/10/2026",
+ "fecha": "17/10/2026",
  "productos": [
   {
    "c": 176,
@@ -221,6 +221,15 @@
    "c": 129,
    "d": "MORTADELA BOCHA \"CALCHAQUI\"",
    "p": 8369.55,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 160,
+   "d": "QUESO RALLADO \"LA QUESERA\" X 20 SOBRES DE 40GRS",
+   "p": 11880.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1064,15 +1073,6 @@
    "q": false
   },
   {
-   "c": 611,
-   "d": "ECO FAMILY 6X30MT",
-   "p": 1389.87,
-   "b": 12,
-   "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 635,
    "d": "FAMILY COCINA ROSS 3X150",
    "p": 1245.6,
@@ -1858,7 +1858,7 @@
   {
    "c": 11,
    "d": "FLAN CREMIGAL X120G",
-   "p": 491.36,
+   "p": 540.5,
    "b": 40,
    "cat": "Cremigal",
    "s": true,
@@ -1930,7 +1930,7 @@
   {
    "c": 1018,
    "d": "MANAOS TONICA S/AZUCAR",
-   "p": 2625.0,
+   "p": 3500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2048,15 +2048,6 @@
    "c": 199,
    "d": "ACEITE DE GIRASOL CAÑUELAS X 1.5L",
    "p": 5199.99,
-   "b": 12,
-   "cat": "Aceites",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 645,
-   "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1799.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2675,9 +2666,9 @@
    "q": false
   },
   {
-   "c": 1174,
-   "d": "SAL FINA DOS ANCLAS X500",
-   "p": 1011.89,
+   "c": 1154,
+   "d": "SAL FINA MAROLIO X500G",
+   "p": 714.89,
    "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3044,15 +3035,6 @@
    "q": false
   },
   {
-   "c": 222,
-   "d": "VINAGRE MAROLIO X 1L",
-   "p": 958.3,
-   "b": 12,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 223,
    "d": "MAYONESA NATURA X 125GRS CAJA X20",
    "p": 12399.99,
@@ -3098,19 +3080,19 @@
    "q": false
   },
   {
-   "c": 632,
-   "d": "MOSTAZA NATURA X250 GRS",
-   "p": 1078.81,
-   "b": 12,
+   "c": 631,
+   "d": "SAVORA X250GRS",
+   "p": 1429.89,
+   "b": 24,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
   {
-   "c": 1173,
-   "d": "SAVORA X60GR CAJA X30",
-   "p": 20760.3,
-   "b": null,
+   "c": 632,
+   "d": "MOSTAZA NATURA X250 GRS",
+   "p": 1078.81,
+   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3262,7 +3244,7 @@
   {
    "c": 157,
    "d": "LECHE CREMIGAL LARGA VIDA SACHET",
-   "p": 1391.25,
+   "p": 1579.58,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3341,15 +3323,6 @@
    "q": false
   },
   {
-   "c": 1113,
-   "d": "LECHE LS SACHET ZERO LACTOSA 1L",
-   "p": 1727.04,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
    "p": 1597.03,
@@ -3404,15 +3377,6 @@
    "q": false
   },
   {
-   "c": 471,
-   "d": "YOG LS CON CEREAL CLASICO",
-   "p": 1876.56,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 473,
    "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
    "p": 912.22,
@@ -3444,6 +3408,15 @@
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 502,
+   "d": "YOG LS CON ROCKLETS",
+   "p": 2188.27,
+   "b": 20,
    "cat": "Yogures",
    "s": true,
    "q": false
@@ -3485,11 +3458,11 @@
    "q": false
   },
   {
-   "c": 377,
-   "d": "RED POINT BOX X20",
-   "p": 16296.0,
+   "c": 1180,
+   "d": "YOG LS BEBIBLE RED AZUCAR FRUTILLA X900",
+   "p": 1754.89,
    "b": null,
-   "cat": "Cigarrillos",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3586,15 +3559,6 @@
   {
    "c": 164,
    "d": "MANI CERVECERO QUESO X900GRS MANITOON",
-   "p": 4540.0,
-   "b": null,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 167,
-   "d": "MANI CERVECERO JAMON X900GRS MANITOON",
    "p": 4540.0,
    "b": null,
    "cat": "Snacks",
@@ -3791,15 +3755,6 @@
    "q": false
   },
   {
-   "c": 320,
-   "d": "RICOTA GARCIA X500G",
-   "p": 3537.31,
-   "b": null,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1091,
    "d": "MANTECA TREMBLAY X100G",
    "p": 1436.4,
@@ -3917,15 +3872,6 @@
    "q": false
   },
   {
-   "c": 42,
-   "d": "SALCHICHAS GRANJA IRIS X12",
-   "p": 3702.86,
-   "b": 10,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 43,
    "d": "SALCHICHAS GRANJA IRIS X6",
    "p": 2041.0,
@@ -3939,6 +3885,15 @@
    "d": "SALCHICHAS BARK CORTA X 6",
    "p": 790.65,
    "b": 24,
+   "cat": "Frescos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 499,
+   "d": "ÑOQUIS DE PAPA DILEGNO X 800GR",
+   "p": 3210.0,
+   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
