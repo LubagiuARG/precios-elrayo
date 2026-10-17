@@ -3244,7 +3244,7 @@
   {
    "c": 157,
    "d": "LECHE CREMIGAL LARGA VIDA SACHET",
-   "p": 1579.58,
+   "p": 1391.25,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3758,6 +3758,15 @@
    "c": 1091,
    "d": "MANTECA TREMBLAY X100G",
    "p": 1436.4,
+   "b": 20,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1228,
+   "d": "CREMA DE LECHE CREMIGAL 190G",
+   "p": 1579.58,
    "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
