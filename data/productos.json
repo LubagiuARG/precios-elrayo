@@ -1,5 +1,5 @@
 {
- "fecha": "19/10/2026",
+ "fecha": "20/10/2026",
  "productos": [
   {
    "c": 176,
@@ -148,7 +148,7 @@
   {
    "c": 117,
    "d": "SALAMIN PICADO FINO BIERZO",
-   "p": 17452.42,
+   "p": 17563.82,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -301,7 +301,7 @@
   {
    "c": 525,
    "d": "LONGANIZA BASTON BIERZO",
-   "p": 16776.97,
+   "p": 18458.09,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -839,6 +839,15 @@
    "q": false
   },
   {
+   "c": 1238,
+   "d": "GALLE MAROLIO MINI CRACKER S/ SAL 300G",
+   "p": 623.29,
+   "b": 32,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1170,
    "d": "TURRON NEVARES PASTA MANI",
    "p": 413.23,
@@ -983,15 +992,6 @@
    "q": false
   },
   {
-   "c": 880,
-   "d": "BAGGIO FRESH MULTIFRUTA X200",
-   "p": 353.72,
-   "b": 18,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 946,
    "d": "AGUA CORAZON X500 X12",
    "p": 1500.0,
@@ -1100,6 +1100,15 @@
    "q": false
   },
   {
+   "c": 1237,
+   "d": "PAPEL HIGIENICO MILI 4X30MT",
+   "p": 2400.0,
+   "b": 24,
+   "cat": "Papeles higiénicos / cocina",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 460,
    "d": "FRESA FIZZ DEL VALLE",
    "p": 12744.0,
@@ -1154,9 +1163,9 @@
    "q": false
   },
   {
-   "c": 254,
-   "d": "VINO PATERO SANTA FILOMENA",
-   "p": 14107.5,
+   "c": 256,
+   "d": "VINO TINTO TERMIDOR X1L X12",
+   "p": 17160.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1166,15 +1175,6 @@
    "c": 260,
    "d": "VINO VIÑAS DE BALBO TINTO 6X1.125ML",
    "p": 13200.0,
-   "b": null,
-   "cat": "Vinos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 580,
-   "d": "VINO FAMILIA GASCON MALBEC X6",
-   "p": 26400.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1703,6 +1703,60 @@
    "q": false
   },
   {
+   "c": 1231,
+   "d": "ALFAJOR RASTA NEGRO",
+   "p": 950.0,
+   "b": 18,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1232,
+   "d": "ALFAJOR RASTA BLANCO",
+   "p": 950.0,
+   "b": 18,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1233,
+   "d": "ALFAJOR RASTA TRICOLOR",
+   "p": 1314.29,
+   "b": 14,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1234,
+   "d": "ALFAJOR RASTA MAICENA",
+   "p": 1314.29,
+   "b": 14,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1235,
+   "d": "ALFAJOR RASTA MINI X6 BLANCO",
+   "p": 3100.0,
+   "b": 6,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1236,
+   "d": "ALFAJOR RASTA MINI X6 NEGRO",
+   "p": 3100.0,
+   "b": 6,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1822,7 +1876,7 @@
   {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 7650.12,
+   "p": 7649.99,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1841,24 +1895,6 @@
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
    "p": 7649.99,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 816,
-   "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 7650.12,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 854,
-   "d": "SODA MANAOS X6",
-   "p": 7102.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1895,6 +1931,15 @@
    "c": 1018,
    "d": "MANAOS TONICA S/AZUCAR",
    "p": 3500.0,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1155,
+   "d": "MANAOS LATA COLA X6",
+   "p": 4119.5,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1957,7 +2002,7 @@
   {
    "c": 823,
    "d": "HARINA PUREZA 0000",
-   "p": 1097.49,
+   "p": 1077.89,
    "b": null,
    "cat": "Harinas",
    "s": true,
@@ -2003,6 +2048,15 @@
    "c": 199,
    "d": "ACEITE DE GIRASOL CAÑUELAS X 1.5L",
    "p": 5199.99,
+   "b": 12,
+   "cat": "Aceites",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 645,
+   "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
+   "p": 1799.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2084,15 +2138,6 @@
    "c": 567,
    "d": "PAN DE HAMBURGUESAS PANAZO X4",
    "p": 1221.33,
-   "b": null,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 889,
-   "d": "PAN LACTAL SALVADO NEVARES",
-   "p": 1460.0,
    "b": null,
    "cat": "Panificados",
    "s": true,
@@ -2630,15 +2675,6 @@
    "q": false
   },
   {
-   "c": 1176,
-   "d": "SAL PARRILLERA CELUSAL 1KG",
-   "p": 2278.8,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1183,
    "d": "ADOBO P/ PIZZA 25G AROMAS & SABORES",
    "p": 322.69,
@@ -2669,6 +2705,15 @@
    "c": 1186,
    "d": "CONDIMENTO P/ ARROZ 25G AROMAS & SAB",
    "p": 344.54,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1187,
+   "d": "CURCUMA MOLIDA 25G AROMAS & SABORES",
+   "p": 538.06,
    "b": 50,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3057,7 +3102,7 @@
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3313.87,
    "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3066,25 +3111,7 @@
    "d": "FINLANDIA CLASICO X180G",
    "p": 2441.0,
    "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 17,
-   "d": "FINLANDIA LIGHT X180G",
-   "p": 2441.0,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 19,
-   "d": "CASANCREM ENTERO 290G",
-   "p": 4352.37,
-   "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3093,7 +3120,7 @@
    "d": "QUESO CREMA CLASIC TREMBLAY X290",
    "p": 2730.61,
    "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3102,16 +3129,7 @@
    "d": "UNTABLE TREMBLAY CLAS X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1099,
-   "d": "UNTABLE TREMBLAY POR SALUT X180G",
-   "p": 1802.79,
-   "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3120,7 +3138,7 @@
    "d": "UNTABLE TREMBLAY SALAME X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3129,7 +3147,7 @@
    "d": "UNTABLE TREMBLAY AZUL X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3138,7 +3156,7 @@
    "d": "UNTABLE TREMBLAY CHEDDAR X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Quesos untables",
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3458,9 +3476,9 @@
    "q": false
   },
   {
-   "c": 378,
-   "d": "RED POINT COMUN X20",
-   "p": 15078.0,
+   "c": 380,
+   "d": "RED POINT BOX X10",
+   "p": 9156.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3728,15 +3746,6 @@
    "q": false
   },
   {
-   "c": 49,
-   "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1565.03,
-   "b": 20,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
    "p": 3537.31,
@@ -3803,6 +3812,24 @@
    "c": 215,
    "d": "PURE DE TOMATE MAROLIO X520G",
    "p": 665.5,
+   "b": 24,
+   "cat": "Conservas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 217,
+   "d": "PURE DE TOMATE MOLTO X 520GRS",
+   "p": 695.0,
+   "b": 24,
+   "cat": "Conservas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 315,
+   "d": "ARVEJAS MOLTO X 340G",
+   "p": 528.0,
    "b": 24,
    "cat": "Conservas",
    "s": true,
