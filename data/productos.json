@@ -1,5 +1,5 @@
 {
- "fecha": "20/10/2026",
+ "fecha": "21/10/2026",
  "productos": [
   {
    "c": 176,
@@ -65,6 +65,15 @@
    "q": false
   },
   {
+   "c": 1239,
+   "d": "CERVEZA LATA MOEMA 473ML X12",
+   "p": 12851.3,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 95,
    "d": "PANCETA AHUMADA C/ CUERO BIERZO X KG",
    "p": 18142.47,
@@ -77,6 +86,15 @@
    "c": 96,
    "d": "BONDIOLA BIERZO X KG",
    "p": 21317.02,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 99,
+   "d": "PALETA DE CERDO ORFEBRE",
+   "p": 3179.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -290,9 +308,9 @@
    "q": false
   },
   {
-   "c": 511,
-   "d": "JAMON 4 CONDES BOLON",
-   "p": 7382.12,
+   "c": 510,
+   "d": "PALETA DE CERDO 4 CONDES",
+   "p": 7039.46,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -444,7 +462,7 @@
   },
   {
    "c": 1079,
-   "d": "SALAME TIPO CRIOLLO 214",
+   "d": "SALAME TIPO CRIOLLO",
    "p": 10000.0,
    "b": null,
    "cat": "Fiambres / quesos",
@@ -659,8 +677,26 @@
    "q": false
   },
   {
+   "c": 557,
+   "d": "GALLE PARNOR MARMOLADAS X170G",
+   "p": 720.02,
+   "b": 30,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 558,
    "d": "GALLE PARNOR COQUITOS X170G",
+   "p": 720.02,
+   "b": 30,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 559,
+   "d": "GALLE PARNOR BARRIT MEMBRILLO X160G",
    "p": 720.02,
    "b": 30,
    "cat": "Galletitas",
@@ -1163,6 +1199,15 @@
    "q": false
   },
   {
+   "c": 254,
+   "d": "VINO PATERO SANTA FILOMENA",
+   "p": 14107.5,
+   "b": null,
+   "cat": "Vinos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 256,
    "d": "VINO TINTO TERMIDOR X1L X12",
    "p": 17160.0,
@@ -1442,15 +1487,6 @@
    "q": false
   },
   {
-   "c": 57,
-   "d": "DULCE DE LECHE LS CLASICO X400G",
-   "p": 2398.98,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 58,
    "d": "DULCE DE LECHE LS COLONIALX400G",
    "p": 2816.02,
@@ -1518,7 +1554,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1527,7 +1563,16 @@
    "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
    "p": 27326.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1115,
+   "d": "ACEITUNAS ARILART VERD ENT CHICA X5KG",
+   "p": 22446.0,
+   "b": null,
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1536,7 +1581,7 @@
    "d": "ACEITUNAS ARILART VERD RODAJAS X4KG",
    "p": 24662.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1545,7 +1590,7 @@
    "d": "PICKLES MIXTOS ARILART X2KG",
    "p": 10138.4,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1554,7 +1599,7 @@
    "d": "ACEITUNAS ARILART VERDES X100G",
    "p": 888.25,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1563,7 +1608,7 @@
    "d": "ACEITUNAS ARILART NEGRAS X100G",
    "p": 1551.35,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1572,7 +1617,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X80G",
    "p": 877.8,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1581,7 +1626,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X80G",
    "p": 971.85,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1590,7 +1635,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X160G",
    "p": 1857.25,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1599,7 +1644,7 @@
    "d": "ACEITUNAS ARILART VERDE X500G",
    "p": 2915.55,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1608,7 +1653,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X400G",
    "p": 2665.7,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1617,7 +1662,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X400G",
    "p": 3452.3,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1626,7 +1671,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X500G",
    "p": 3553.0,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1635,7 +1680,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X80G",
    "p": 1003.2,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1644,7 +1689,7 @@
    "d": "ACEITUNAS ARILART VERDE X180G",
    "p": 1431.65,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1653,7 +1698,7 @@
    "d": "ACEITUNAS ARILART NEGRA X180G",
    "p": 2512.75,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1662,7 +1707,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X150G",
    "p": 1452.55,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
    "s": true,
    "q": false
   },
@@ -1671,7 +1716,16 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X150G",
    "p": 1640.65,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 520,
+   "d": "FIAMBRE COCIDO PATA DE CERDO BIERZO",
+   "p": 10718.82,
+   "b": null,
+   "cat": "Bierzo",
    "s": true,
    "q": false
   },
@@ -1847,29 +1901,11 @@
    "q": false
   },
   {
-   "c": 838,
-   "d": "JUGO TANG NARANJA DULCE",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 995,
    "d": "JUGO TANG NARANJA-DURAZNO",
    "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 11,
-   "d": "FLAN CREMIGAL X120G",
-   "p": 540.5,
-   "b": 40,
-   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -1895,6 +1931,24 @@
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
    "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 816,
+   "d": "MANAOS LIMA LIMON 2.25 X6",
+   "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 854,
+   "d": "SODA MANAOS X6",
+   "p": 7102.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2163,7 +2217,7 @@
   },
   {
    "c": 1167,
-   "d": "PAN DULCE BOUN NATALE FRUTAS",
+   "d": "PAN DULCE BUON NATALE FRUTAS",
    "p": 1726.85,
    "b": 12,
    "cat": "Panificados",
@@ -2612,15 +2666,6 @@
    "q": false
   },
   {
-   "c": 742,
-   "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
-   "p": 431.99,
-   "b": 50,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 744,
    "d": "SALSA BLANCA CENTURION X40GRS",
    "p": 330.45,
@@ -2669,6 +2714,15 @@
    "c": 1174,
    "d": "SAL FINA DOS ANCLAS X500",
    "p": 1011.89,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1176,
+   "d": "SAL PARRILLERA CELUSAL 1KG",
+   "p": 2278.8,
    "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3102,7 +3156,7 @@
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3313.87,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3111,7 +3165,34 @@
    "d": "FINLANDIA CLASICO X180G",
    "p": 2441.0,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 17,
+   "d": "FINLANDIA LIGHT X180G",
+   "p": 2441.0,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 18,
+   "d": "CASANCREM LIGHT 290G",
+   "p": 4352.37,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 19,
+   "d": "CASANCREM ENTERO 290G",
+   "p": 4352.37,
+   "b": 12,
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3120,16 +3201,7 @@
    "d": "QUESO CREMA CLASIC TREMBLAY X290",
    "p": 2730.61,
    "b": 12,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1098,
-   "d": "UNTABLE TREMBLAY CLAS X180G",
-   "p": 1802.79,
-   "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3138,7 +3210,7 @@
    "d": "UNTABLE TREMBLAY SALAME X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3147,7 +3219,7 @@
    "d": "UNTABLE TREMBLAY AZUL X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3156,7 +3228,7 @@
    "d": "UNTABLE TREMBLAY CHEDDAR X180G",
    "p": 1802.79,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Quesos untables",
    "s": true,
    "q": false
   },
@@ -3422,15 +3494,6 @@
    "q": false
   },
   {
-   "c": 642,
-   "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
@@ -3470,6 +3533,15 @@
    "c": 377,
    "d": "RED POINT BOX X20",
    "p": 16296.0,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 378,
+   "d": "RED POINT COMUN X20",
+   "p": 15078.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3746,6 +3818,15 @@
    "q": false
   },
   {
+   "c": 49,
+   "d": "MANTECA SERENISIMA X100GRS",
+   "p": 1565.03,
+   "b": 20,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
    "p": 3537.31,
@@ -3930,15 +4011,6 @@
    "d": "SALCHICHAS GRANJA IRIS X6",
    "p": 2041.0,
    "b": 20,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 44,
-   "d": "SALCHICHAS BARK CORTA X 6",
-   "p": 790.65,
-   "b": 24,
    "cat": "Frescos",
    "s": true,
    "q": false
