@@ -155,15 +155,6 @@
    "q": false
   },
   {
-   "c": 111,
-   "d": "QUESO DE CERDO BIERZO",
-   "p": 4846.3,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 117,
    "d": "SALAMIN PICADO FINO BIERZO",
    "p": 17563.82,
@@ -536,6 +527,15 @@
    "c": 1181,
    "d": "JAMON 4 CONDES BOLON MINI",
    "p": 7382.12,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1223,
+   "d": "SARDO LAS VARAS",
+   "p": 9460.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1298,15 +1298,6 @@
    "q": false
   },
   {
-   "c": 1140,
-   "d": "COLON SELECTO DURAZNO",
-   "p": 8800.0,
-   "b": 6,
-   "cat": "Vinos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1158,
    "d": "VINO ESTANCIA MENDOZA MALBEC 750CC X6",
    "p": 16500.0,
@@ -1554,7 +1545,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1563,16 +1554,7 @@
    "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
    "p": 27326.0,
    "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1115,
-   "d": "ACEITUNAS ARILART VERD ENT CHICA X5KG",
-   "p": 22446.0,
-   "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1581,7 +1563,7 @@
    "d": "ACEITUNAS ARILART VERD RODAJAS X4KG",
    "p": 24662.0,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1590,7 +1572,7 @@
    "d": "PICKLES MIXTOS ARILART X2KG",
    "p": 10138.4,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1599,7 +1581,7 @@
    "d": "ACEITUNAS ARILART VERDES X100G",
    "p": 888.25,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1608,7 +1590,7 @@
    "d": "ACEITUNAS ARILART NEGRAS X100G",
    "p": 1551.35,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1617,7 +1599,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X80G",
    "p": 877.8,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1626,7 +1608,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X80G",
    "p": 971.85,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1635,7 +1617,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X160G",
    "p": 1857.25,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1644,7 +1626,7 @@
    "d": "ACEITUNAS ARILART VERDE X500G",
    "p": 2915.55,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1653,7 +1635,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X400G",
    "p": 2665.7,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1662,7 +1644,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X400G",
    "p": 3452.3,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1671,7 +1653,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X500G",
    "p": 3553.0,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1680,7 +1662,7 @@
    "d": "ACEITUNAS ARILART RELLENAS X80G",
    "p": 1003.2,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1689,7 +1671,7 @@
    "d": "ACEITUNAS ARILART VERDE X180G",
    "p": 1431.65,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1698,7 +1680,7 @@
    "d": "ACEITUNAS ARILART NEGRA X180G",
    "p": 2512.75,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1707,7 +1689,7 @@
    "d": "ACEITUNAS ARILART RODAJAS X150G",
    "p": 1452.55,
    "b": null,
-   "cat": "Mastellone",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1716,16 +1698,7 @@
    "d": "ACEITUNAS ARILART SIN CAROZO X150G",
    "p": 1640.65,
    "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 520,
-   "d": "FIAMBRE COCIDO PATA DE CERDO BIERZO",
-   "p": 10718.82,
-   "b": null,
-   "cat": "Bierzo",
+   "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
   },
@@ -1910,6 +1883,15 @@
    "q": false
   },
   {
+   "c": 11,
+   "d": "FLAN CREMIGAL X120G",
+   "p": 540.5,
+   "b": 40,
+   "cat": "Cremigal",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
    "p": 7649.99,
@@ -1930,15 +1912,6 @@
   {
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 7649.99,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 816,
-   "d": "MANAOS LIMA LIMON 2.25 X6",
    "p": 7649.99,
    "b": null,
    "cat": "Manaos",
@@ -2110,7 +2083,7 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1799.99,
+   "p": 1829.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2119,7 +2092,7 @@
   {
    "c": 648,
    "d": "ACEITE GIRASOL FINCA EL LAZO X 1.5L",
-   "p": 3499.99,
+   "p": 3622.6,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2180,15 +2153,6 @@
    "q": false
   },
   {
-   "c": 271,
-   "d": "PAN LACTAL DE MESA BLANCO NEVARES",
-   "p": 1280.0,
-   "b": null,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 567,
    "d": "PAN DE HAMBURGUESAS PANAZO X4",
    "p": 1221.33,
@@ -2202,6 +2166,15 @@
    "d": "PAN DE PANCHOS NEVARES",
    "p": 824.55,
    "b": 8,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1164,
+   "d": "BUDIN NEVARES CHOCOLATE",
+   "p": 1109.64,
+   "b": 10,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2666,6 +2639,15 @@
    "q": false
   },
   {
+   "c": 742,
+   "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
+   "p": 431.99,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 744,
    "d": "SALSA BLANCA CENTURION X40GRS",
    "p": 330.45,
@@ -2705,15 +2687,6 @@
    "c": 1154,
    "d": "SAL FINA MAROLIO X500G",
    "p": 714.89,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1174,
-   "d": "SAL FINA DOS ANCLAS X500",
-   "p": 1011.89,
    "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3143,15 +3116,6 @@
    "q": false
   },
   {
-   "c": 1173,
-   "d": "SAVORA X60GR CAJA X30",
-   "p": 20760.3,
-   "b": null,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3313.87,
@@ -3191,6 +3155,24 @@
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4352.37,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1077,
+   "d": "QUESO CREMA NEVARES X290G",
+   "p": 1532.0,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1078,
+   "d": "QUESO CREMA NEVARES LIGHT X290G",
+   "p": 1532.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3494,6 +3476,15 @@
    "q": false
   },
   {
+   "c": 642,
+   "d": "YOG LS BEBIBLE X900 VAINILLA",
+   "p": 2029.8,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
@@ -3506,15 +3497,6 @@
    "c": 1095,
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
    "p": 1718.82,
-   "b": 10,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1096,
-   "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
-   "p": 1751.56,
    "b": 10,
    "cat": "Yogures",
    "s": true,
