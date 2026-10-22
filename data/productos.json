@@ -1,5 +1,5 @@
 {
- "fecha": "21/10/2026",
+ "fecha": "22/10/2026",
  "productos": [
   {
    "c": 176,
@@ -194,15 +194,6 @@
    "c": 123,
    "d": "JAMON NATURAL",
    "p": 9273.69,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 124,
-   "d": "PALETA DE CERDO C/GRASITA BIERZO",
-   "p": 10426.49,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1550,15 +1541,6 @@
    "q": false
   },
   {
-   "c": 1114,
-   "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
-   "p": 27326.0,
-   "b": null,
-   "cat": "Aceitunas y encurtidos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1116,
    "d": "ACEITUNAS ARILART VERD RODAJAS X4KG",
    "p": 24662.0,
@@ -1919,9 +1901,9 @@
    "q": false
   },
   {
-   "c": 854,
-   "d": "SODA MANAOS X6",
-   "p": 7102.0,
+   "c": 816,
+   "d": "MANAOS LIMA LIMON 2.25 X6",
+   "p": 7649.99,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2261,28 +2243,10 @@
    "q": false
   },
   {
-   "c": 181,
-   "d": "YERBA UNION SUAVE X 500GRS",
-   "p": 1758.9,
-   "b": 10,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 186,
    "d": "YERBA CBSE HIERBAS SERRANAS X500GRS",
    "p": 1595.0,
    "b": 12,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 187,
-   "d": "YERBA CBSE LIMON X500 GRS",
-   "p": 1444.5,
-   "b": null,
    "cat": "Infusiones",
    "s": true,
    "q": false
@@ -2693,6 +2657,15 @@
    "q": false
   },
   {
+   "c": 1174,
+   "d": "SAL FINA DOS ANCLAS X500",
+   "p": 1011.89,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1176,
    "d": "SAL PARRILLERA CELUSAL 1KG",
    "p": 2278.8,
@@ -2705,15 +2678,6 @@
    "c": 1183,
    "d": "ADOBO P/ PIZZA 25G AROMAS & SABORES",
    "p": 322.69,
-   "b": 50,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1184,
-   "d": "AJI MOLIDO 25G AROMAS & SABORES",
-   "p": 349.14,
    "b": 50,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3125,15 +3089,6 @@
    "q": false
   },
   {
-   "c": 16,
-   "d": "FINLANDIA CLASICO X180G",
-   "p": 2441.0,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 17,
    "d": "FINLANDIA LIGHT X180G",
    "p": 2441.0,
@@ -3503,20 +3458,20 @@
    "q": false
   },
   {
-   "c": 1143,
-   "d": "YOG LS BEBIBLE ALFAJOR X900",
-   "p": 2193.61,
-   "b": null,
+   "c": 1096,
+   "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
+   "p": 1751.56,
+   "b": 10,
    "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
-   "c": 377,
-   "d": "RED POINT BOX X20",
-   "p": 16296.0,
+   "c": 1143,
+   "d": "YOG LS BEBIBLE ALFAJOR X900",
+   "p": 2193.61,
    "b": null,
-   "cat": "Cigarrillos",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
