@@ -1,5 +1,5 @@
 {
- "fecha": "22/10/2026",
+ "fecha": "23/10/2026",
  "productos": [
   {
    "c": 176,
@@ -57,7 +57,7 @@
   },
   {
    "c": 1162,
-   "d": "CERVEZA BRAHMA BOTELLA 1LT",
+   "d": "CERVEZA BRAHMA CAJON BOTELLA 1 L",
    "p": 34500.0,
    "b": null,
    "cat": "Cervezas",
@@ -68,6 +68,33 @@
    "c": 1239,
    "d": "CERVEZA LATA MOEMA 473ML X12",
    "p": 12851.3,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1240,
+   "d": "CERVEZA MILLER CAJON 1 L",
+   "p": 35500.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1241,
+   "d": "CERVEZA HEINEKEN CAJON 1 L",
+   "p": 47200.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1243,
+   "d": "CERVEZA PALERMO CAJON 1 L",
+   "p": 25500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -1109,15 +1136,6 @@
    "q": false
   },
   {
-   "c": 914,
-   "d": "SERVILLETA ELEGANTE 3X50P",
-   "p": 1330.89,
-   "b": 8,
-   "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1083,
    "d": "PAÑUELITOS ELEGANTE DH X6",
    "p": 799.27,
@@ -1132,15 +1150,6 @@
    "p": 2400.0,
    "b": 24,
    "cat": "Papeles higiénicos / cocina",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 460,
-   "d": "FRESA FIZZ DEL VALLE",
-   "p": 12744.0,
-   "b": 6,
-   "cat": "Sidras",
    "s": true,
    "q": false
   },
@@ -1168,6 +1177,15 @@
    "p": 15340.0,
    "b": 6,
    "cat": "Sidras",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 50,
+   "d": "LEVADURA CALSA CUBITOS CAJA X 20",
+   "p": 10707.69,
+   "b": null,
+   "cat": "Varios",
    "s": true,
    "q": false
   },
@@ -1469,6 +1487,15 @@
    "q": false
   },
   {
+   "c": 57,
+   "d": "DULCE DE LECHE LS CLASICO X400G",
+   "p": 2398.98,
+   "b": null,
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 58,
    "d": "DULCE DE LECHE LS COLONIALX400G",
    "p": 2816.02,
@@ -1535,6 +1562,15 @@
    "c": 829,
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1114,
+   "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
+   "p": 27326.0,
    "b": null,
    "cat": "Aceitunas y encurtidos",
    "s": true,
@@ -1766,6 +1802,15 @@
    "q": false
   },
   {
+   "c": 1242,
+   "d": "CERVEZA IGUANA CAJON 1 L",
+   "p": 25000.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1813,15 +1858,6 @@
   {
    "c": 88,
    "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 89,
-   "d": "JUGO RINDE 2 NAR-MANGO X10 SOBRES",
    "p": 4620.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -1910,8 +1946,26 @@
    "q": false
   },
   {
+   "c": 854,
+   "d": "SODA MANAOS X6",
+   "p": 7102.0,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 861,
    "d": "MANAOS MANZANA 2.25 X6",
+   "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 892,
+   "d": "MANAOS POMELO ROSADO X2.25 X6",
    "p": 7649.99,
    "b": null,
    "cat": "Manaos",
@@ -2684,6 +2738,15 @@
    "q": false
   },
   {
+   "c": 1184,
+   "d": "AJI MOLIDO 25G AROMAS & SABORES",
+   "p": 349.14,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1185,
    "d": "COMINO MOLIDO 25G AROMAS & SABORES",
    "p": 331.2,
@@ -2964,7 +3027,7 @@
   },
   {
    "c": 1217,
-   "d": "ADOBO P/ PIZZAS 1KG AROMAS & SABORES",
+   "d": "ADOBO P/ PIZZAS 1KG EL MENDOCINO",
    "p": 5353.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
@@ -2973,7 +3036,7 @@
   },
   {
    "c": 1218,
-   "d": "AJI MOLIDO 1KG AROMAS & SABORES",
+   "d": "AJI MOLIDO 1KG EL MENDOCINO",
    "p": 6008.75,
    "b": null,
    "cat": "Condimentos / saborizantes",
@@ -2982,7 +3045,7 @@
   },
   {
    "c": 1219,
-   "d": "OREGANO 1KG AROMAS Y SABORES",
+   "d": "OREGANO 1KG EL MENDOCINO",
    "p": 5080.13,
    "b": null,
    "cat": "Condimentos / saborizantes",
@@ -2991,7 +3054,7 @@
   },
   {
    "c": 1220,
-   "d": "PIMENTON EXTRA 1KG AROMAS & SABORES",
+   "d": "PIMENTON EXTRA 1KG EL MENDOCINO",
    "p": 6500.37,
    "b": null,
    "cat": "Condimentos / saborizantes",
@@ -3000,7 +3063,7 @@
   },
   {
    "c": 1221,
-   "d": "PROVENZAL 1KG AROMAS & SABORES",
+   "d": "PROVENZAL 1KG EL MENDOCINO",
    "p": 6227.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
@@ -3030,15 +3093,6 @@
    "d": "MAYONESA HELLMANN´S X500G",
    "p": 2079.99,
    "b": 15,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 394,
-   "d": "MAYONESA NATURA X 250G",
-   "p": 1444.39,
-   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3083,6 +3137,15 @@
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3313.87,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 16,
+   "d": "FINLANDIA CLASICO X180G",
+   "p": 2441.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3422,15 +3485,6 @@
    "q": false
   },
   {
-   "c": 502,
-   "d": "YOG LS CON ROCKLETS",
-   "p": 2188.27,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
    "p": 2029.8,
@@ -3472,6 +3526,15 @@
    "p": 2193.61,
    "b": null,
    "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 377,
+   "d": "RED POINT BOX X20",
+   "p": 16296.0,
+   "b": null,
+   "cat": "Cigarrillos",
    "s": true,
    "q": false
   },
