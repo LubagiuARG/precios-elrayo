@@ -1847,15 +1847,6 @@
    "q": false
   },
   {
-   "c": 87,
-   "d": "JUGO RINDE 2 MANZANA X10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 88,
    "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
    "p": 4620.0,
@@ -3098,10 +3089,10 @@
    "q": false
   },
   {
-   "c": 395,
-   "d": "MAYONESA HELLMANNS X250G",
-   "p": 1186.91,
-   "b": 24,
+   "c": 394,
+   "d": "MAYONESA NATURA X 250G",
+   "p": 1444.39,
+   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3181,7 +3172,7 @@
   {
    "c": 1077,
    "d": "QUESO CREMA NEVARES X290G",
-   "p": 1532.0,
+   "p": 1600.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3190,7 +3181,7 @@
   {
    "c": 1078,
    "d": "QUESO CREMA NEVARES LIGHT X290G",
-   "p": 1532.0,
+   "p": 1600.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3235,7 +3226,7 @@
   {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1683.54,
+   "p": 1710.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3244,7 +3235,7 @@
   {
    "c": 28,
    "d": "LECHE ARMONIA ENTERA 1L",
-   "p": 1603.21,
+   "p": 1618.48,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3298,7 +3289,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1683.54,
+   "p": 1710.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3415,7 +3406,7 @@
   {
    "c": 29,
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
-   "p": 1258.95,
+   "p": 1250.0,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3485,9 +3476,9 @@
    "q": false
   },
   {
-   "c": 642,
-   "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
+   "c": 502,
+   "d": "YOG LS CON ROCKLETS",
+   "p": 2188.27,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3757,7 +3748,7 @@
   {
    "c": 38,
    "d": "CREMA LS COCINAR X330ML",
-   "p": 3127.43,
+   "p": 3157.21,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3766,7 +3757,7 @@
   {
    "c": 39,
    "d": "CREMA LS COCINAR X200ML",
-   "p": 2039.18,
+   "p": 2058.6,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3775,7 +3766,7 @@
   {
    "c": 40,
    "d": "CREMA LS BATIR X330ML",
-   "p": 3278.1,
+   "p": 3309.32,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3784,7 +3775,7 @@
   {
    "c": 41,
    "d": "CREMA LS BATIR 200ML",
-   "p": 2139.64,
+   "p": 2160.02,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3811,7 +3802,7 @@
   {
    "c": 48,
    "d": "MANTECA SERENISIMA X 200GRS",
-   "p": 2839.46,
+   "p": 2866.51,
    "b": 10,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3820,7 +3811,7 @@
   {
    "c": 49,
    "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1565.03,
+   "p": 1579.48,
    "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -4245,15 +4236,6 @@
    "d": "SOL PAMPEANO CABELLITO X500G",
    "p": 766.8,
    "b": 15,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1016,
-   "d": "MONTE LIRIO MOÑO",
-   "p": 1867.4,
-   "b": 10,
    "cat": "Fideos",
    "s": true,
    "q": false
