@@ -1,5 +1,5 @@
 {
- "fecha": "23/10/2026",
+ "fecha": "26/10/2026",
  "productos": [
   {
    "c": 176,
@@ -148,7 +148,7 @@
   {
    "c": 105,
    "d": "SALAME MILAN BIERZO",
-   "p": 13750.37,
+   "p": 14152.15,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -176,6 +176,15 @@
    "c": 108,
    "d": "SARDO NEGRO \"ELOGIO\"",
    "p": 15784.86,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 111,
+   "d": "QUESO DE CERDO BIERZO",
+   "p": 4846.3,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -227,6 +236,15 @@
    "q": false
   },
   {
+   "c": 124,
+   "d": "PALETA DE CERDO C/GRASITA BIERZO",
+   "p": 9793.3,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 126,
    "d": "QUESO REGGIANITO NEGRO MELINCUE",
    "p": 16830.0,
@@ -238,7 +256,7 @@
   {
    "c": 128,
    "d": "MORTADELA BOCHA BIERZO",
-   "p": 7957.89,
+   "p": 7957.7,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -247,7 +265,7 @@
   {
    "c": 129,
    "d": "MORTADELA BOCHA \"CALCHAQUI\"",
-   "p": 8369.55,
+   "p": 8978.78,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -284,15 +302,6 @@
    "c": 488,
    "d": "FIAMBRE PARA EMPAREDADOS BIERZO",
    "p": 5502.53,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 490,
-   "d": "MORTADELA BOCHA SELLO DE PLATA",
-   "p": 4830.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -355,7 +364,7 @@
   {
    "c": 660,
    "d": "SALAME MILAN 1154",
-   "p": 10848.96,
+   "p": 11214.93,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -364,7 +373,7 @@
   {
    "c": 819,
    "d": "LOMO DE CERDO AHUMADO BIERZO",
-   "p": 12407.41,
+   "p": 13048.53,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -437,6 +446,15 @@
    "c": 1008,
    "d": "SARDO BLANCO LAS TRES R",
    "p": 9680.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1010,
+   "d": "MUZZARELLA LA LEONA",
+   "p": 7810.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -589,8 +607,26 @@
   {
    "c": 227,
    "d": "GALLE PITUSAS BLACK X130G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 291,
+   "d": "PEPAS TRIO X500GRS",
+   "p": 1627.99,
+   "b": 10,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 294,
+   "d": "PEPAS TRICHOC \"TRIO\" X500GRS",
+   "p": 1749.0,
+   "b": 10,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -598,7 +634,7 @@
   {
    "c": 369,
    "d": "GALLE PITUSAS VAINILLA X160G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -607,7 +643,7 @@
   {
    "c": 370,
    "d": "GALLE PITUSAS JALEA FRAMB X140G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -616,7 +652,7 @@
   {
    "c": 372,
    "d": "GALLE PITUSAS FRUTILLA X160G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -625,7 +661,7 @@
   {
    "c": 373,
    "d": "GALLE PITUSAS CHOCOLATE X160G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -634,7 +670,7 @@
   {
    "c": 374,
    "d": "GALLE PITUSAS MERENGUE X120G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -643,7 +679,7 @@
   {
    "c": 386,
    "d": "GALLE PITUSAS LIMON X160G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -652,7 +688,7 @@
   {
    "c": 546,
    "d": "GALLE PITUSAS MOUSE X160GRS",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -661,7 +697,7 @@
   {
    "c": 552,
    "d": "GALLE PARNOR MOROCHITAS X140G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -670,7 +706,7 @@
   {
    "c": 553,
    "d": "GALLE PARNOR PEPITAS X160G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -679,7 +715,7 @@
   {
    "c": 555,
    "d": "GALLE PARNOR MANTECADAS X170G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -688,7 +724,7 @@
   {
    "c": 556,
    "d": "GALLE PARNOR COCO X170G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -697,7 +733,7 @@
   {
    "c": 557,
    "d": "GALLE PARNOR MARMOLADAS X170G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -706,7 +742,7 @@
   {
    "c": 558,
    "d": "GALLE PARNOR COQUITOS X170G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -715,7 +751,7 @@
   {
    "c": 559,
    "d": "GALLE PARNOR BARRIT MEMBRILLO X160G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -724,7 +760,7 @@
   {
    "c": 560,
    "d": "GALLE PARNOR SUAVECITAS X140G",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -742,7 +778,7 @@
   {
    "c": 749,
    "d": "GALLE PARNOR MINI CHIPS X120G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -751,7 +787,7 @@
   {
    "c": 834,
    "d": "GALLE PARNOR FRUTOS DEL BOSQUE",
-   "p": 720.02,
+   "p": 739.52,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -832,7 +868,7 @@
   {
    "c": 1086,
    "d": "GALLE PARNOR MINI CHIPS BLACK X120G",
-   "p": 764.04,
+   "p": 799.96,
    "b": 30,
    "cat": "Galletitas",
    "s": true,
@@ -940,7 +976,7 @@
   {
    "c": 268,
    "d": "AGUA VILLAMANAOS X2L PACK X 6",
-   "p": 3355.0,
+   "p": 3410.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1363,7 +1399,7 @@
   {
    "c": 869,
    "d": "FERNANDITO DOBLE X6",
-   "p": 5250.0,
+   "p": 5301.96,
    "b": null,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1433,15 +1469,6 @@
    "q": false
   },
   {
-   "c": 444,
-   "d": "PATY EXPRESS X4",
-   "p": 3622.67,
-   "b": 24,
-   "cat": "Congelados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 563,
    "d": "HAMBURGUESA WHIM ROJO X 4",
    "p": 2809.91,
@@ -1464,15 +1491,6 @@
    "d": "CAJA DE HAMBURGUESAS KANDY X 40 X 110GR.",
    "p": 19291.6,
    "b": null,
-   "cat": "Congelados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 644,
-   "d": "PATY EXPRESS X2 FINITA",
-   "p": 1318.24,
-   "b": 48,
    "cat": "Congelados",
    "s": true,
    "q": false
@@ -1517,15 +1535,6 @@
    "c": 131,
    "d": "DULCE DE LECHE LS COLONIAL X250G",
    "p": 2216.16,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 132,
-   "d": "DULCE DE LECHE LS CLASICO X250G",
-   "p": 2133.06,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1721,6 +1730,15 @@
    "q": false
   },
   {
+   "c": 520,
+   "d": "FIAMBRE COCIDO PATA DE CERDO BIERZO",
+   "p": 10748.12,
+   "b": null,
+   "cat": "Bierzo",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1051,
    "d": "ALFAJOR MATILDA",
    "p": 1495.55,
@@ -1804,7 +1822,7 @@
   {
    "c": 1242,
    "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 25000.0,
+   "p": 25500.0,
    "b": null,
    "cat": "Alfajores",
    "s": true,
@@ -1856,15 +1874,6 @@
    "q": false
   },
   {
-   "c": 90,
-   "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 540,
    "d": "JUGO RINDE 2 LIMON X10 SOBRES",
    "p": 4620.0,
@@ -1876,15 +1885,6 @@
   {
    "c": 832,
    "d": "JUGO TANG NARANJA",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 995,
-   "d": "JUGO TANG NARANJA-DURAZNO",
    "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -2054,15 +2054,6 @@
    "q": false
   },
   {
-   "c": 823,
-   "d": "HARINA PUREZA 0000",
-   "p": 1077.89,
-   "b": null,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 939,
    "d": "POLENTA MOLINOS ALA X500G",
    "p": 626.99,
@@ -2094,6 +2085,24 @@
    "d": "HARINA MORIXE PIZZA X1KG",
    "p": 1373.9,
    "b": 10,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1244,
+   "d": "PAN RALLADO MOLTO X 500",
+   "p": 685.33,
+   "b": 12,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1245,
+   "d": "REBOZADOR MOLTO 500G",
+   "p": 685.33,
+   "b": 12,
    "cat": "Harinas",
    "s": true,
    "q": false
@@ -2621,15 +2630,6 @@
    "q": false
   },
   {
-   "c": 718,
-   "d": "ROMERO CENTURION X25GS",
-   "p": 642.6,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 739,
    "d": "CEBOLLA DESHIDRATADA X25GRS CENTURION",
    "p": 437.22,
@@ -3075,7 +3075,7 @@
    "d": "MAYONESA NATURA X 125GRS CAJA X20",
    "p": 12399.99,
    "b": null,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3084,7 +3084,7 @@
    "d": "MAYONESA HELLMANN´S X500G",
    "p": 2079.99,
    "b": 15,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3093,7 +3093,16 @@
    "d": "MAYONESA NATURA X 250G",
    "p": 1444.39,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 395,
+   "d": "MAYONESA HELLMANNS X250G",
+   "p": 1186.91,
+   "b": 24,
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3102,7 +3111,7 @@
    "d": "VINAGRE MOLTO X1L",
    "p": 958.3,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3111,7 +3120,7 @@
    "d": "SAVORA X250GRS",
    "p": 1429.89,
    "b": 24,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3120,7 +3129,7 @@
    "d": "MOSTAZA NATURA X250 GRS",
    "p": 1078.81,
    "b": 12,
-   "cat": "Aderezos / condimentos",
+   "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
@@ -3440,15 +3449,6 @@
    "q": false
   },
   {
-   "c": 473,
-   "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
-   "p": 912.22,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 474,
    "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
    "p": 912.22,
@@ -3485,8 +3485,8 @@
    "q": false
   },
   {
-   "c": 643,
-   "d": "YOG LS BEBIBLE X900 FRUTILLA",
+   "c": 642,
+   "d": "YOG LS BEBIBLE X900 VAINILLA",
    "p": 2029.8,
    "b": 20,
    "cat": "Yogures",
@@ -3873,7 +3873,7 @@
   },
   {
    "c": 214,
-   "d": "PURE DE TOMATE LA HUERTA X530G",
+   "d": "PURE DE TOMATE LA HUERTA X520G",
    "p": 770.0,
    "b": 12,
    "cat": "Conservas",
@@ -4244,6 +4244,51 @@
    "c": 1045,
    "d": "MONTE LIRIO DOBLADITOS N2",
    "p": 1720.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1065,
+   "d": "FUSARELLO AL HUEVO N2",
+   "p": 1320.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1066,
+   "d": "FUSARELLO AL HUEVO N3",
+   "p": 1320.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1068,
+   "d": "FUSARELLO ESPINACA",
+   "p": 1320.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1069,
+   "d": "FUSARELLO MORRON",
+   "p": 1320.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1080,
+   "d": "FUSARELLO AL HUEVO N1",
+   "p": 1320.0,
    "b": 10,
    "cat": "Fideos",
    "s": true,
