@@ -1,5 +1,5 @@
 {
- "fecha": "27/10/2026",
+ "fecha": "28/10/2026",
  "productos": [
   {
    "c": 176,
@@ -25,6 +25,15 @@
    "p": 726.0,
    "b": 10,
    "cat": "Arroz",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 235,
+   "d": "CERVEZA BRAHMA LATA X24",
+   "p": 38000.0,
+   "b": null,
+   "cat": "Cervezas",
    "s": true,
    "q": false
   },
@@ -482,6 +491,24 @@
    "c": 1079,
    "d": "SALAME TIPO CRIOLLO",
    "p": 10000.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1094,
+   "d": "MOZZARELLA CILINDRO TREMBLAY",
+   "p": 8101.1,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1101,
+   "d": "CUARTIROLO TREMBLAY",
+   "p": 7982.19,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -992,15 +1019,6 @@
    "q": false
   },
   {
-   "c": 493,
-   "d": "BAGGIO X 200ML MULTIFRUTA",
-   "p": 446.11,
-   "b": 18,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 673,
    "d": "AGUA VILLA MANAOS X600ML X12",
    "p": 3937.5,
@@ -1163,19 +1181,19 @@
    "q": false
   },
   {
-   "c": 652,
-   "d": "SIDRA ORO DULCE X6",
-   "p": 14800.0,
+   "c": 653,
+   "d": "ANANA FIZZ ORO DULCE X6",
+   "p": 16786.0,
    "b": null,
    "cat": "Sidras",
    "s": true,
    "q": false
   },
   {
-   "c": 653,
-   "d": "ANANA FIZZ ORO DULCE X6",
-   "p": 16786.0,
-   "b": null,
+   "c": 841,
+   "d": "CLERICO FIZZ ORO DULCE",
+   "p": 15340.0,
+   "b": 6,
    "cat": "Sidras",
    "s": true,
    "q": false
@@ -1514,18 +1532,18 @@
    "q": false
   },
   {
-   "c": 161,
-   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "c": 1000,
+   "d": "DULCE DE LECHE LS AIREADO 300G",
+   "p": 3128.92,
    "b": null,
    "cat": "Mastellone",
    "s": true,
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1727.04,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1571,7 +1589,7 @@
    "c": 1119,
    "d": "ACEITUNAS ARILART VERDES X100G",
    "p": 888.25,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1580,7 +1598,7 @@
    "c": 1120,
    "d": "ACEITUNAS ARILART NEGRAS X100G",
    "p": 1551.35,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1589,7 +1607,7 @@
    "c": 1121,
    "d": "ACEITUNAS ARILART RODAJAS X80G",
    "p": 877.8,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1598,7 +1616,7 @@
    "c": 1122,
    "d": "ACEITUNAS ARILART SIN CAROZO X80G",
    "p": 971.85,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1607,7 +1625,7 @@
    "c": 1123,
    "d": "ACEITUNAS ARILART RELLENAS X160G",
    "p": 1857.25,
-   "b": null,
+   "b": 8,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1616,7 +1634,7 @@
    "c": 1124,
    "d": "ACEITUNAS ARILART VERDE X500G",
    "p": 2915.55,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1625,7 +1643,7 @@
    "c": 1125,
    "d": "ACEITUNAS ARILART RODAJAS X400G",
    "p": 2665.7,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1634,7 +1652,7 @@
    "c": 1126,
    "d": "ACEITUNAS ARILART SIN CAROZO X400G",
    "p": 3452.3,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1643,7 +1661,7 @@
    "c": 1127,
    "d": "ACEITUNAS ARILART RELLENAS X500G",
    "p": 3553.0,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1652,7 +1670,7 @@
    "c": 1128,
    "d": "ACEITUNAS ARILART RELLENAS X80G",
    "p": 1003.2,
-   "b": null,
+   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1661,7 +1679,7 @@
    "c": 1129,
    "d": "ACEITUNAS ARILART VERDE X180G",
    "p": 1431.65,
-   "b": null,
+   "b": 8,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1670,7 +1688,7 @@
    "c": 1130,
    "d": "ACEITUNAS ARILART NEGRA X180G",
    "p": 2512.75,
-   "b": null,
+   "b": 8,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1679,7 +1697,7 @@
    "c": 1131,
    "d": "ACEITUNAS ARILART RODAJAS X150G",
    "p": 1452.55,
-   "b": null,
+   "b": 8,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1688,7 +1706,7 @@
    "c": 1132,
    "d": "ACEITUNAS ARILART SIN CAROZO X150G",
    "p": 1640.65,
-   "b": null,
+   "b": 8,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1699,6 +1717,42 @@
    "p": 10748.12,
    "b": null,
    "cat": "Bierzo",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 196,
+   "d": "ALFAJ GUAYMALLEN TRIPLE NGRO X24U",
+   "p": 9500.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 197,
+   "d": "ALFAJ GUAYMALLEN TRIPLE BCO X24U",
+   "p": 9500.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 198,
+   "d": "ALFAJOR GUAYMALLEN BLANCO X40U",
+   "p": 9500.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 659,
+   "d": "ALFAJOR GUAYMALLEN NEGRO X40U",
+   "p": 9500.0,
+   "b": null,
+   "cat": "Alfajores",
    "s": true,
    "q": false
   },
@@ -1829,15 +1883,6 @@
    "q": false
   },
   {
-   "c": 88,
-   "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 540,
    "d": "JUGO RINDE 2 LIMON X10 SOBRES",
    "p": 4620.0,
@@ -1861,6 +1906,33 @@
    "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 11,
+   "d": "FLAN CREMIGAL X120G",
+   "p": 540.5,
+   "b": 40,
+   "cat": "Cremigal",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 619,
+   "d": "POSTRE CREMIGAL CHOCOLATE",
+   "p": 551.34,
+   "b": 40,
+   "cat": "Cremigal",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 620,
+   "d": "POSTRE CREMIGAL DULCE DE LECHE",
+   "p": 551.34,
+   "b": 40,
+   "cat": "Cremigal",
    "s": true,
    "q": false
   },
@@ -2621,6 +2693,15 @@
    "q": false
   },
   {
+   "c": 741,
+   "d": "LAUREL EN HOJA CENTURION X10G",
+   "p": 626.3,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 742,
    "d": "PEREJIL DESHIDRATADO X20GRS CENTURION",
    "p": 431.99,
@@ -2990,15 +3071,6 @@
    "q": false
   },
   {
-   "c": 1217,
-   "d": "ADOBO P/ PIZZAS 1KG EL MENDOCINO",
-   "p": 5353.25,
-   "b": null,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1218,
    "d": "AJI MOLIDO 1KG EL MENDOCINO",
    "p": 6008.75,
@@ -3040,6 +3112,15 @@
    "p": 5025.5,
    "b": null,
    "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 223,
+   "d": "MAYONESA NATURA X 125GRS CAJA X20",
+   "p": 12399.99,
+   "b": null,
+   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3098,6 +3179,15 @@
    "q": false
   },
   {
+   "c": 853,
+   "d": "DIFERENCIA DE PRECIO",
+   "p": 1.0,
+   "b": null,
+   "cat": "Administrativos items",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3313.87,
@@ -3152,18 +3242,36 @@
    "q": false
   },
   {
-   "c": 1078,
-   "d": "QUESO CREMA NEVARES LIGHT X290G",
-   "p": 1600.0,
+   "c": 1097,
+   "d": "QUESO CREMA CLASIC TREMBLAY X290",
+   "p": 2730.61,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
    "q": false
   },
   {
-   "c": 1097,
-   "d": "QUESO CREMA CLASIC TREMBLAY X290",
-   "p": 2730.61,
+   "c": 1098,
+   "d": "UNTABLE TREMBLAY CLAS X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1099,
+   "d": "UNTABLE TREMBLAY POR SALUT X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1100,
+   "d": "UNTABLE TREMBLAY JAMON X180G",
+   "p": 1802.79,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3184,15 +3292,6 @@
    "p": 1802.79,
    "b": 12,
    "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 27,
-   "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1710.0,
-   "b": null,
-   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3244,7 +3343,7 @@
   {
    "c": 157,
    "d": "LECHE CREMIGAL LARGA VIDA SACHET",
-   "p": 1391.25,
+   "p": 1391.26,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3314,10 +3413,10 @@
    "q": false
   },
   {
-   "c": 1014,
-   "d": "LECHE ARMONIA DESCREMADA 1L",
-   "p": 1587.94,
-   "b": null,
+   "c": 1089,
+   "d": "LECHE ENTERA EL PUENTE 1LT",
+   "p": 1230.5,
+   "b": 15,
    "cat": "Leches",
    "s": true,
    "q": false
@@ -3370,7 +3469,7 @@
   {
    "c": 29,
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
-   "p": 1250.0,
+   "p": 1258.95,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3380,15 +3479,6 @@
    "c": 30,
    "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
-   "b": null,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 319,
-   "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
-   "p": 12685.49,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3424,6 +3514,15 @@
   {
    "c": 475,
    "d": "YOGURT X 120 VAINILLA CREMIGAL",
+   "p": 440.43,
+   "b": 40,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 476,
+   "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
    "cat": "Yogures",
@@ -3577,15 +3676,6 @@
   {
    "c": 163,
    "d": "MANI CERVECERO SALAME X900GRS MANITOON",
-   "p": 4540.0,
-   "b": null,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 164,
-   "d": "MANI CERVECERO QUESO X900GRS MANITOON",
    "p": 4540.0,
    "b": null,
    "cat": "Snacks",
@@ -3764,15 +3854,6 @@
    "q": false
   },
   {
-   "c": 49,
-   "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1579.48,
-   "b": 20,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
    "p": 3537.31,
@@ -3785,6 +3866,24 @@
    "c": 1091,
    "d": "MANTECA TREMBLAY X100G",
    "p": 1436.4,
+   "b": 20,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1092,
+   "d": "CREMA TREMBLAY X200CC",
+   "p": 1659.59,
+   "b": 12,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1228,
+   "d": "CREMA DE LECHE CREMIGAL 190G",
+   "p": 1565.26,
    "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3813,6 +3912,15 @@
    "d": "DULCE DE BATATA \"CAYFAR\" LATA X 5KG",
    "p": 13243.34,
    "b": null,
+   "cat": "Dulces / mermeladas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1093,
+   "d": "DULCE DE LECHE TREMBLAY X400G",
+   "p": 2700.0,
+   "b": 12,
    "cat": "Dulces / mermeladas",
    "s": true,
    "q": false
@@ -3847,7 +3955,7 @@
   {
    "c": 315,
    "d": "ARVEJAS MOLTO X 340G",
-   "p": 604.99,
+   "p": 650.0,
    "b": 24,
    "cat": "Conservas",
    "s": true,
@@ -3883,7 +3991,7 @@
   {
    "c": 1007,
    "d": "LENTEJA SABORES DEL VALLE 340G",
-   "p": 604.99,
+   "p": 650.0,
    "b": 12,
    "cat": "Conservas",
    "s": true,
@@ -3984,15 +4092,6 @@
    "d": "RAVIOLES DILEGNO ESPINACAS 1KG",
    "p": 3300.0,
    "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1136,
-   "d": "SALCHICHAS WELTY X6",
-   "p": 891.25,
-   "b": 24,
    "cat": "Frescos",
    "s": true,
    "q": false
