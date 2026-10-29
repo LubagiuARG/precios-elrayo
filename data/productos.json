@@ -1,5 +1,5 @@
 {
- "fecha": "28/10/2026",
+ "fecha": "29/10/2026",
  "productos": [
   {
    "c": 176,
@@ -131,15 +131,6 @@
    "c": 103,
    "d": "BARRA DAMBO PUNTA DE AGUA",
    "p": 10368.3,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 104,
-   "d": "SALCHICHON PRIMAVERA BIERZO",
-   "p": 4747.59,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1181,9 +1172,9 @@
    "q": false
   },
   {
-   "c": 653,
-   "d": "ANANA FIZZ ORO DULCE X6",
-   "p": 16786.0,
+   "c": 652,
+   "d": "SIDRA ORO DULCE X6",
+   "p": 14800.0,
    "b": null,
    "cat": "Sidras",
    "s": true,
@@ -1532,9 +1523,9 @@
    "q": false
   },
   {
-   "c": 1000,
-   "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3128.92,
+   "c": 161,
+   "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
+   "p": 11999.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1883,8 +1874,8 @@
    "q": false
   },
   {
-   "c": 540,
-   "d": "JUGO RINDE 2 LIMON X10 SOBRES",
+   "c": 88,
+   "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
    "p": 4620.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -2630,15 +2621,6 @@
    "q": false
   },
   {
-   "c": 701,
-   "d": "TOMILLO CENTURION X25GRS",
-   "p": 632.4,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 702,
    "d": "CANELA EN RAMA CENTURION X10G CENTURION",
    "p": 1245.15,
@@ -3071,9 +3053,9 @@
    "q": false
   },
   {
-   "c": 1218,
-   "d": "AJI MOLIDO 1KG EL MENDOCINO",
-   "p": 6008.75,
+   "c": 1217,
+   "d": "ADOBO P/ PIZZAS 1KG EL MENDOCINO",
+   "p": 5353.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3233,15 +3215,6 @@
    "q": false
   },
   {
-   "c": 1077,
-   "d": "QUESO CREMA NEVARES X290G",
-   "p": 1600.0,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1097,
    "d": "QUESO CREMA CLASIC TREMBLAY X290",
    "p": 2730.61,
@@ -3292,6 +3265,15 @@
    "p": 1802.79,
    "b": 12,
    "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 27,
+   "d": "LECHE LS SACHET N1 X 1 L.",
+   "p": 1710.0,
+   "b": null,
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3431,15 +3413,6 @@
    "q": false
   },
   {
-   "c": 12,
-   "d": "YOG LS FIRME X190G FRUTILLA",
-   "p": 1597.03,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 14,
    "d": "YOG LS FIRME X190G VAINILLA",
    "p": 1597.03,
@@ -3559,7 +3532,7 @@
   {
    "c": 1095,
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
-   "p": 1718.82,
+   "p": 1750.0,
    "b": 10,
    "cat": "Yogures",
    "s": true,
@@ -3568,7 +3541,7 @@
   {
    "c": 1096,
    "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
-   "p": 1751.56,
+   "p": 1750.0,
    "b": 10,
    "cat": "Yogures",
    "s": true,
@@ -4079,19 +4052,19 @@
    "q": false
   },
   {
-   "c": 637,
-   "d": "TUBO ROTISERO X48 DOÑA GRINGA",
-   "p": 5092.5,
+   "c": 906,
+   "d": "RAVIOLES DILEGNO ESPINACAS 1KG",
+   "p": 3300.0,
    "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
   },
   {
-   "c": 906,
-   "d": "RAVIOLES DILEGNO ESPINACAS 1KG",
-   "p": 3300.0,
-   "b": null,
+   "c": 1136,
+   "d": "SALCHICHAS WELTY X6",
+   "p": 891.25,
+   "b": 24,
    "cat": "Frescos",
    "s": true,
    "q": false
