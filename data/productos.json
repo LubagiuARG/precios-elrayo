@@ -1,10 +1,10 @@
 {
- "fecha": "30/10/2026",
+ "fecha": "31/10/2026",
  "productos": [
   {
    "c": 176,
    "d": "ARROZ ALA LARGO FINO X1KG",
-   "p": 1187.99,
+   "p": 1309.0,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -13,7 +13,7 @@
   {
    "c": 177,
    "d": "ARROZ ALA LARGO FINO X500GRS",
-   "p": 692.99,
+   "p": 726.0,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -22,7 +22,16 @@
   {
    "c": 1163,
    "d": "ARROZ ALA DORADO X500GR",
-   "p": 726.0,
+   "p": 739.2,
+   "b": 10,
+   "cat": "Arroz",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1248,
+   "d": "ARROZ ALA DORADO X1KG",
+   "p": 1332.8,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -265,7 +274,7 @@
   {
    "c": 160,
    "d": "QUESO RALLADO \"LA QUESERA\" X 20 SOBRES DE 40GRS",
-   "p": 11880.0,
+   "p": 12100.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -569,6 +578,15 @@
    "q": false
   },
   {
+   "c": 1249,
+   "d": "BARRA TYBO SANCARLINA",
+   "p": 8195.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 194,
    "d": "BISCOCHOS DON SATUR X200GRS",
    "p": 967.99,
@@ -606,7 +624,7 @@
   },
   {
    "c": 294,
-   "d": "PEPAS TRICHOC \"TRIO\" X500GRS",
+   "d": "PEPAS TRICHOC TRIO X500GRS",
    "p": 1749.0,
    "b": 10,
    "cat": "Galletitas",
@@ -911,15 +929,6 @@
    "q": false
   },
   {
-   "c": 1238,
-   "d": "GALLE MAROLIO MINI CRACKER S/ SAL 300G",
-   "p": 623.29,
-   "b": 32,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1170,
    "d": "TURRON NEVARES PASTA MANI",
    "p": 413.23,
@@ -1001,6 +1010,15 @@
    "q": false
   },
   {
+   "c": 493,
+   "d": "BAGGIO X 200ML MULTIFRUTA",
+   "p": 446.11,
+   "b": 18,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 673,
    "d": "AGUA VILLA MANAOS X600ML X12",
    "p": 3937.5,
@@ -1022,15 +1040,6 @@
    "c": 715,
    "d": "PLACER X500 ANANA X12",
    "p": 5526.15,
-   "b": null,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 716,
-   "d": "PLACER X500 PERA X12",
-   "p": 5500.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1172,10 +1181,10 @@
    "q": false
   },
   {
-   "c": 653,
-   "d": "ANANA FIZZ ORO DULCE X6",
-   "p": 16786.0,
-   "b": null,
+   "c": 841,
+   "d": "CLERICO FIZZ ORO DULCE",
+   "p": 15340.0,
+   "b": 6,
    "cat": "Sidras",
    "s": true,
    "q": false
@@ -1235,6 +1244,15 @@
    "q": false
   },
   {
+   "c": 580,
+   "d": "VINO FAMILIA GASCON MALBEC X6",
+   "p": 26400.0,
+   "b": null,
+   "cat": "Vinos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 581,
    "d": "VINO ALMA MORA MALBEC X6",
    "p": 25999.99,
@@ -1282,7 +1300,7 @@
   {
    "c": 891,
    "d": "VINO UVITA TINTO X1L X12",
-   "p": 14500.0,
+   "p": 14500.08,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1433,6 +1451,15 @@
    "q": false
   },
   {
+   "c": 444,
+   "d": "PATY EXPRESS X4",
+   "p": 3622.67,
+   "b": 24,
+   "cat": "Congelados",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 563,
    "d": "HAMBURGUESA WHIM ROJO X 4",
    "p": 2809.91,
@@ -1505,15 +1532,6 @@
    "q": false
   },
   {
-   "c": 132,
-   "d": "DULCE DE LECHE LS CLASICO X250G",
-   "p": 2194.01,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 161,
    "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
    "p": 11999.99,
@@ -1526,6 +1544,15 @@
    "c": 1000,
    "d": "DULCE DE LECHE LS AIREADO 300G",
    "p": 3218.31,
+   "b": null,
+   "cat": "Mastellone",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1727.04,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1739,6 +1766,15 @@
    "q": false
   },
   {
+   "c": 797,
+   "d": "ALFAJOR GUAYMALLEN FRUTA X40U",
+   "p": 9500.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1051,
    "d": "ALFAJOR MATILDA",
    "p": 1495.55,
@@ -1847,15 +1883,6 @@
    "q": false
   },
   {
-   "c": 85,
-   "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 88,
    "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
    "p": 4620.0,
@@ -1865,17 +1892,17 @@
    "q": false
   },
   {
-   "c": 540,
-   "d": "JUGO RINDE 2 LIMON X10 SOBRES",
-   "p": 4620.0,
+   "c": 832,
+   "d": "JUGO TANG NARANJA",
+   "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
    "q": false
   },
   {
-   "c": 832,
-   "d": "JUGO TANG NARANJA",
+   "c": 995,
+   "d": "JUGO TANG NARANJA-DURAZNO",
    "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -2171,15 +2198,6 @@
    "q": false
   },
   {
-   "c": 647,
-   "d": "AZUCAR FINCA EL LAZO",
-   "p": 929.99,
-   "b": 10,
-   "cat": "Azúcar / endulzantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1081,
    "d": "AZUCAR SAN JOAQUIN 1K",
    "p": 995.99,
@@ -2202,6 +2220,33 @@
    "d": "PAN DE HAMBURGUESAS PANAZO X4",
    "p": 1221.33,
    "b": null,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 663,
+   "d": "PAN DULCE BENJAMIN C/FRUTA 400GR.",
+   "p": 2055.63,
+   "b": 8,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 664,
+   "d": "PAN DULCE BENJAMIN C/CHIP 400GR",
+   "p": 2186.25,
+   "b": 8,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 666,
+   "d": "PAN DULCE BENJAMIN S/FRUTA 400 GR.",
+   "p": 2034.99,
+   "b": 8,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2576,15 +2621,6 @@
    "q": false
   },
   {
-   "c": 690,
-   "d": "BICARBONATO X50G CENTURION",
-   "p": 318.26,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 692,
    "d": "COCO RALLADO X25G CENTURION",
    "p": 442.91,
@@ -2615,6 +2651,15 @@
    "c": 702,
    "d": "CANELA EN RAMA CENTURION X10G CENTURION",
    "p": 1245.15,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 704,
+   "d": "CURCUMA X25G CENTURION",
+   "p": 574.5,
    "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3017,15 +3062,6 @@
    "q": false
   },
   {
-   "c": 1214,
-   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
-   "p": 2110.0,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1216,
    "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
@@ -3056,6 +3092,15 @@
    "c": 1219,
    "d": "OREGANO 1KG EL MENDOCINO",
    "p": 5080.13,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1220,
+   "d": "PIMENTON EXTRA 1KG EL MENDOCINO",
+   "p": 6500.37,
    "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3145,6 +3190,15 @@
   {
    "c": 853,
    "d": "DIFERENCIA DE PRECIO",
+   "p": 1.0,
+   "b": null,
+   "cat": "Administrativos items",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 858,
+   "d": "ANULACION DE REMITO POR ERROR",
    "p": 1.0,
    "b": null,
    "cat": "Administrativos items",
@@ -3381,7 +3435,7 @@
    "d": "YOG LS FIRME X190G FRUTILLA",
    "p": 1597.03,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3390,7 +3444,7 @@
    "d": "YOG LS FIRME X190G VAINILLA",
    "p": 1597.03,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3399,7 +3453,7 @@
    "d": "YOG LS FIRME X120G X2 VAINILLA",
    "p": 2101.05,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3408,7 +3462,16 @@
    "d": "YOG LS FIRME X120G X2 FRUTILLA",
    "p": 2101.05,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 29,
+   "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
+   "p": 1258.95,
+   "b": null,
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3417,7 +3480,7 @@
    "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3426,7 +3489,7 @@
    "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
    "p": 12685.49,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3435,7 +3498,7 @@
    "d": "YOG LS CON CEREAL CLASICO",
    "p": 1876.56,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3444,7 +3507,7 @@
    "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
    "p": 912.22,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3453,7 +3516,7 @@
    "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
    "p": 912.22,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3462,7 +3525,7 @@
    "d": "YOGURT X 120 VAINILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3471,7 +3534,7 @@
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3480,7 +3543,7 @@
    "d": "YOG LS CON ROCKLETS",
    "p": 2188.27,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3489,7 +3552,7 @@
    "d": "YOG LS BEBIBLE X900 VAINILLA",
    "p": 2029.8,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3498,7 +3561,7 @@
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2029.8,
    "b": 20,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3507,7 +3570,7 @@
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
    "p": 1750.0,
    "b": 10,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3516,7 +3579,7 @@
    "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
    "p": 1750.0,
    "b": 10,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3525,7 +3588,7 @@
    "d": "YOG LS BEBIBLE ALFAJOR X900",
    "p": 2193.61,
    "b": null,
-   "cat": "Yogures",
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3651,15 +3714,6 @@
    "d": "KRACHITOS PAPAS CT X420G",
    "p": 6910.09,
    "b": 7,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 613,
-   "d": "KRACHITOS BASTONITOS DE QUESO 240G",
-   "p": 3702.27,
-   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -3946,7 +4000,7 @@
   {
    "c": 979,
    "d": "PURE DE TOMATE LA HUERTA X210G",
-   "p": 418.49,
+   "p": 429.0,
    "b": 18,
    "cat": "Conservas",
    "s": true,
@@ -4020,15 +4074,6 @@
    "d": "SALCHICHAS GRANJA IRIS X6",
    "p": 2041.0,
    "b": 20,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 498,
-   "d": "RAVIOLES DILEGNO POLLO Y VERDURA 1KG",
-   "p": 3300.0,
-   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
@@ -4151,15 +4196,6 @@
    "q": false
   },
   {
-   "c": 314,
-   "d": "SOL PAMPEANO TALLARIN X500G",
-   "p": 766.8,
-   "b": 20,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 326,
    "d": "SOL PAMPEANO MOSTACHOL TRICOLOR",
    "p": 961.96,
@@ -4250,6 +4286,15 @@
    "q": false
   },
   {
+   "c": 1016,
+   "d": "MONTE LIRIO MOÑO",
+   "p": 1867.4,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1045,
    "d": "MONTE LIRIO DOBLADITOS N2",
    "p": 1720.0,
@@ -4305,7 +4350,16 @@
   },
   {
    "c": 1103,
-   "d": "FIDEO MONTE LIRIO CABELLO DE ANGEL",
+   "d": "MONTE LIRIO CABELLO DE ANGEL",
+   "p": 1720.0,
+   "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1103,
+   "d": "MONTE LIRIO CABELLO DE ANGEL",
    "p": 1720.0,
    "b": 10,
    "cat": "Fideos",
