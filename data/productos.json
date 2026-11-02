@@ -1,5 +1,5 @@
 {
- "fecha": "31/10/2026",
+ "fecha": "2/11/2026",
  "productos": [
   {
    "c": 176,
@@ -101,6 +101,15 @@
    "q": false
   },
   {
+   "c": 1242,
+   "d": "CERVEZA IGUANA CAJON 1 L",
+   "p": 25500.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1243,
    "d": "CERVEZA PALERMO CAJON 1 L",
    "p": 25500.0,
@@ -157,7 +166,7 @@
   {
    "c": 106,
    "d": "CHEDDAR FINLANDIA LS X KG",
-   "p": 12516.7,
+   "p": 13017.37,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -166,7 +175,7 @@
   {
    "c": 107,
    "d": "FIAMBRIN LS X KG",
-   "p": 12849.17,
+   "p": 13363.14,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1172,9 +1181,9 @@
    "q": false
   },
   {
-   "c": 652,
-   "d": "SIDRA ORO DULCE X6",
-   "p": 14800.0,
+   "c": 653,
+   "d": "ANANA FIZZ ORO DULCE X6",
+   "p": 16786.0,
    "b": null,
    "cat": "Sidras",
    "s": true,
@@ -1192,7 +1201,7 @@
   {
    "c": 50,
    "d": "LEVADURA CALSA CUBITOS CAJA X 20",
-   "p": 10707.69,
+   "p": 11136.0,
    "b": null,
    "cat": "Varios",
    "s": true,
@@ -1352,15 +1361,6 @@
    "q": false
   },
   {
-   "c": 258,
-   "d": "FERNET BRANCA 750ML",
-   "p": 14500.0,
-   "b": 12,
-   "cat": "Aperitivos / bebidas con alcohol",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 726,
    "d": "VODKA SKYY COSMIC X750 ML",
    "p": 9000.0,
@@ -1498,7 +1498,7 @@
   {
    "c": 57,
    "d": "DULCE DE LECHE LS CLASICO X400G",
-   "p": 2467.76,
+   "p": 2566.47,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1507,7 +1507,7 @@
   {
    "c": 58,
    "d": "DULCE DE LECHE LS COLONIALX400G",
-   "p": 2816.02,
+   "p": 2928.66,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1516,7 +1516,7 @@
   {
    "c": 130,
    "d": "DULCE DE LECHE LS REPOSTERO X400G",
-   "p": 3308.73,
+   "p": 3441.08,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1525,7 +1525,7 @@
   {
    "c": 131,
    "d": "DULCE DE LECHE LS COLONIAL X250G",
-   "p": 2233.88,
+   "p": 2323.24,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1534,7 +1534,7 @@
   {
    "c": 161,
    "d": "QUESO RALLADO REGGIANITO LS X35G X10U",
-   "p": 11999.99,
+   "p": 12479.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1543,7 +1543,7 @@
   {
    "c": 1000,
    "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3218.31,
+   "p": 3347.04,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1552,7 +1552,7 @@
   {
    "c": 1063,
    "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1727.04,
+   "p": 1796.12,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1590,15 +1590,6 @@
    "d": "PICKLES MIXTOS ARILART X2KG",
    "p": 10138.4,
    "b": null,
-   "cat": "Aceitunas y encurtidos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1119,
-   "d": "ACEITUNAS ARILART VERDES X100G",
-   "p": 888.25,
-   "b": 12,
    "cat": "Aceitunas y encurtidos",
    "s": true,
    "q": false
@@ -1847,15 +1838,6 @@
    "q": false
   },
   {
-   "c": 1242,
-   "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 25500.0,
-   "b": null,
-   "cat": "Alfajores",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1877,6 +1859,15 @@
    "c": 81,
    "d": "JUGO TANG MANZANA",
    "p": 6420.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 85,
+   "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
+   "p": 4620.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2180,15 +2171,6 @@
    "q": false
   },
   {
-   "c": 1035,
-   "d": "ACEITE CORTIJO X900ML",
-   "p": 2046.0,
-   "b": 15,
-   "cat": "Aceites",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 178,
    "d": "AZUCAR LEDESMA X 1KG",
    "p": 1308.99,
@@ -2310,15 +2292,6 @@
    "d": "PAN DULCE NEVARES CON FRUTA X500GR",
    "p": 2350.0,
    "b": 10,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1175,
-   "d": "PAN DE HAMBURGUESA NEVARES",
-   "p": 824.55,
-   "b": 9,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2615,6 +2588,15 @@
    "c": 689,
    "d": "PROVENZAL CENTURION X25G CENTURION",
    "p": 448.84,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 690,
+   "d": "BICARBONATO X50G CENTURION",
+   "p": 318.26,
    "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3062,6 +3044,15 @@
    "q": false
   },
   {
+   "c": 1214,
+   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1216,
    "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
@@ -3101,15 +3092,6 @@
    "c": 1220,
    "d": "PIMENTON EXTRA 1KG EL MENDOCINO",
    "p": 6500.37,
-   "b": null,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1221,
-   "d": "PROVENZAL 1KG EL MENDOCINO",
-   "p": 6227.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3208,7 +3190,7 @@
   {
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
-   "p": 3313.87,
+   "p": 3446.42,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3217,7 +3199,7 @@
   {
    "c": 16,
    "d": "FINLANDIA CLASICO X180G",
-   "p": 2441.0,
+   "p": 2538.64,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3226,7 +3208,7 @@
   {
    "c": 17,
    "d": "FINLANDIA LIGHT X180G",
-   "p": 2441.0,
+   "p": 2538.64,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3235,7 +3217,7 @@
   {
    "c": 18,
    "d": "CASANCREM LIGHT 290G",
-   "p": 4352.37,
+   "p": 4526.46,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3244,7 +3226,7 @@
   {
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
-   "p": 4352.37,
+   "p": 4526.46,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3298,7 +3280,7 @@
   {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1710.0,
+   "p": 1778.4,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3307,7 +3289,7 @@
   {
    "c": 28,
    "d": "LECHE ARMONIA ENTERA 1L",
-   "p": 1618.48,
+   "p": 1683.22,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3316,7 +3298,7 @@
   {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
-   "p": 1932.5,
+   "p": 2009.8,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3325,7 +3307,7 @@
   {
    "c": 154,
    "d": "LECHE LS BOTELLA ZERO LACTOSA 1L.",
-   "p": 2085.43,
+   "p": 2168.85,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3334,7 +3316,16 @@
   {
    "c": 155,
    "d": "LECHE LS BOTELLA ENTERA N3 X1L",
-   "p": 1970.86,
+   "p": 2049.69,
+   "b": 6,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 156,
+   "d": "LECHE LS BOTELLA DESCREM N1 X1L",
+   "p": 2049.69,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3352,7 +3343,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1710.0,
+   "p": 1778.4,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3361,7 +3352,7 @@
   {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
-   "p": 2085.43,
+   "p": 2168.85,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3370,7 +3361,7 @@
   {
    "c": 588,
    "d": "LECHE LS CAJA ENTERA N3 X1L",
-   "p": 1846.61,
+   "p": 1920.47,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3388,7 +3379,7 @@
   {
    "c": 737,
    "d": "LECHE NUTRILON 1 X200ML",
-   "p": 2374.81,
+   "p": 2469.8,
    "b": 24,
    "cat": "Leches",
    "s": true,
@@ -3397,7 +3388,7 @@
   {
    "c": 752,
    "d": "LECHE CHOCOLATADA CINDOR X1L",
-   "p": 4588.36,
+   "p": 4771.89,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3424,7 +3415,7 @@
   {
    "c": 1113,
    "d": "LECHE LS SACHET ZERO LACTOSA 1L",
-   "p": 1727.04,
+   "p": 1796.12,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3433,36 +3424,27 @@
   {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
-   "p": 1597.03,
+   "p": 1660.91,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 14,
    "d": "YOG LS FIRME X190G VAINILLA",
-   "p": 1597.03,
+   "p": 1660.91,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 20,
    "d": "YOG LS FIRME X120G X2 VAINILLA",
-   "p": 2101.05,
+   "p": 2185.09,
    "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 21,
-   "d": "YOG LS FIRME X120G X2 FRUTILLA",
-   "p": 2101.05,
-   "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3471,7 +3453,7 @@
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
    "p": 1258.95,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3480,25 +3462,25 @@
    "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 319,
    "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
-   "p": 12685.49,
+   "p": 13192.91,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 471,
    "d": "YOG LS CON CEREAL CLASICO",
-   "p": 1876.56,
+   "p": 1951.62,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3507,7 +3489,7 @@
    "d": "YOGURT C/CEREAL VAINILLA CREMIGAL",
    "p": 912.22,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3516,7 +3498,7 @@
    "d": "YOGURT C/CEREAL FRUTILLA CREMIGAL",
    "p": 912.22,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3525,7 +3507,7 @@
    "d": "YOGURT X 120 VAINILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3534,34 +3516,34 @@
    "d": "YOGURT X 120 FRUTILLA CREMIGAL",
    "p": 440.43,
    "b": 40,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
-   "p": 2188.27,
+   "p": 2275.8,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2029.8,
+   "p": 2110.99,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
-   "p": 2029.8,
+   "p": 2110.99,
    "b": 20,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3570,7 +3552,7 @@
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
    "p": 1750.0,
    "b": 10,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3579,16 +3561,16 @@
    "d": "YOG BEBIBLE TREMBLAY X900 FRUTILLA",
    "p": 1750.0,
    "b": 10,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
   {
    "c": 1143,
    "d": "YOG LS BEBIBLE ALFAJOR X900",
-   "p": 2193.61,
+   "p": 2281.35,
    "b": null,
-   "cat": "Leches",
+   "cat": "Yogures",
    "s": true,
    "q": false
   },
@@ -3802,7 +3784,7 @@
   {
    "c": 38,
    "d": "CREMA LS COCINAR X330ML",
-   "p": 3157.21,
+   "p": 3283.5,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3811,7 +3793,7 @@
   {
    "c": 39,
    "d": "CREMA LS COCINAR X200ML",
-   "p": 2058.6,
+   "p": 2140.94,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3820,7 +3802,7 @@
   {
    "c": 40,
    "d": "CREMA LS BATIR X330ML",
-   "p": 3309.32,
+   "p": 3441.69,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3829,7 +3811,7 @@
   {
    "c": 41,
    "d": "CREMA LS BATIR 200ML",
-   "p": 2160.02,
+   "p": 2246.42,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3856,7 +3838,7 @@
   {
    "c": 48,
    "d": "MANTECA SERENISIMA X 200GRS",
-   "p": 2866.51,
+   "p": 2981.17,
    "b": 10,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3865,7 +3847,7 @@
   {
    "c": 49,
    "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1579.48,
+   "p": 1642.66,
    "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3874,7 +3856,7 @@
   {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
-   "p": 3537.31,
+   "p": 3678.8,
    "b": null,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -4063,7 +4045,7 @@
   {
    "c": 42,
    "d": "SALCHICHAS GRANJA IRIS X12",
-   "p": 3702.86,
+   "p": 3850.97,
    "b": 10,
    "cat": "Frescos",
    "s": true,
@@ -4072,8 +4054,17 @@
   {
    "c": 43,
    "d": "SALCHICHAS GRANJA IRIS X6",
-   "p": 2041.0,
+   "p": 2122.64,
    "b": 20,
+   "cat": "Frescos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 498,
+   "d": "RAVIOLES DILEGNO POLLO Y VERDURA 1KG",
+   "p": 3300.0,
+   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
@@ -4171,7 +4162,7 @@
   {
    "c": 311,
    "d": "SOL PAMPEANO MOÑO X500G",
-   "p": 1139.05,
+   "p": 1139.08,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4191,6 +4182,24 @@
    "d": "MONTE LIRIO AL HUEVO N3 NIDO",
    "p": 1720.0,
    "b": 10,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 314,
+   "d": "SOL PAMPEANO TALLARIN X500G",
+   "p": 766.8,
+   "b": 20,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 325,
+   "d": "SOL PAMPEANO CODITO X500G",
+   "p": 766.8,
+   "b": 15,
    "cat": "Fideos",
    "s": true,
    "q": false
@@ -4236,6 +4245,15 @@
    "d": "SOL PAMPEANO DEDALITOS X 500G",
    "p": 766.8,
    "b": 15,
+   "cat": "Fideos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 538,
+   "d": "SOL PAMPEANO FORATTI X 20",
+   "p": 803.33,
+   "b": null,
    "cat": "Fideos",
    "s": true,
    "q": false
@@ -4343,15 +4361,6 @@
    "c": 1080,
    "d": "FUSARELLO AL HUEVO N1",
    "p": 1320.0,
-   "b": 10,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1103,
-   "d": "MONTE LIRIO CABELLO DE ANGEL",
-   "p": 1720.0,
    "b": 10,
    "cat": "Fideos",
    "s": true,
