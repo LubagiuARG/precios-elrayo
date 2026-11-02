@@ -166,7 +166,7 @@
   {
    "c": 106,
    "d": "CHEDDAR FINLANDIA LS X KG",
-   "p": 13017.37,
+   "p": 13017.36,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -175,7 +175,7 @@
   {
    "c": 107,
    "d": "FIAMBRIN LS X KG",
-   "p": 13363.14,
+   "p": 13363.13,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1507,7 +1507,7 @@
   {
    "c": 58,
    "d": "DULCE DE LECHE LS COLONIALX400G",
-   "p": 2928.66,
+   "p": 2844.99,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1516,7 +1516,7 @@
   {
    "c": 130,
    "d": "DULCE DE LECHE LS REPOSTERO X400G",
-   "p": 3441.08,
+   "p": 3539.4,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1543,7 +1543,7 @@
   {
    "c": 1000,
    "d": "DULCE DE LECHE LS AIREADO 300G",
-   "p": 3347.04,
+   "p": 3316.06,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -2128,7 +2128,7 @@
   {
    "c": 199,
    "d": "ACEITE DE GIRASOL CAÑUELAS X 1.5L",
-   "p": 5199.99,
+   "p": 5345.01,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -3199,7 +3199,7 @@
   {
    "c": 16,
    "d": "FINLANDIA CLASICO X180G",
-   "p": 2538.64,
+   "p": 2586.99,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3208,7 +3208,7 @@
   {
    "c": 17,
    "d": "FINLANDIA LIGHT X180G",
-   "p": 2538.64,
+   "p": 2586.99,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3298,7 +3298,7 @@
   {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
-   "p": 2009.8,
+   "p": 2009.81,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3307,7 +3307,7 @@
   {
    "c": 154,
    "d": "LECHE LS BOTELLA ZERO LACTOSA 1L.",
-   "p": 2168.85,
+   "p": 2085.43,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3316,7 +3316,7 @@
   {
    "c": 155,
    "d": "LECHE LS BOTELLA ENTERA N3 X1L",
-   "p": 2049.69,
+   "p": 2088.74,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3325,7 +3325,7 @@
   {
    "c": 156,
    "d": "LECHE LS BOTELLA DESCREM N1 X1L",
-   "p": 2049.69,
+   "p": 2088.74,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3352,7 +3352,7 @@
   {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
-   "p": 2168.85,
+   "p": 2085.43,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3469,7 +3469,7 @@
   {
    "c": 319,
    "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
-   "p": 13192.91,
+   "p": 13444.21,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3685,15 +3685,6 @@
   {
    "c": 479,
    "d": "KRACHITOS PAPAS CA X420GR",
-   "p": 6910.09,
-   "b": 7,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 480,
-   "d": "KRACHITOS PAPAS CT X420G",
    "p": 6910.09,
    "b": 7,
    "cat": "Snacks",
