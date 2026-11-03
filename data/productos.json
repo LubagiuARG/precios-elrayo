@@ -1,5 +1,5 @@
 {
- "fecha": "2/11/2026",
+ "fecha": "3/11/2026",
  "productos": [
   {
    "c": 176,
@@ -121,7 +121,7 @@
   {
    "c": 95,
    "d": "PANCETA AHUMADA C/ CUERO BIERZO X KG",
-   "p": 18142.47,
+   "p": 18141.79,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -149,6 +149,15 @@
    "c": 103,
    "d": "BARRA DAMBO PUNTA DE AGUA",
    "p": 10368.3,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 104,
+   "d": "SALCHICHON PRIMAVERA BIERZO",
+   "p": 4747.59,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -185,15 +194,6 @@
    "c": 108,
    "d": "SARDO NEGRO \"ELOGIO\"",
    "p": 15784.86,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 111,
-   "d": "QUESO DE CERDO BIERZO",
-   "p": 4846.3,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1244,15 +1244,6 @@
    "q": false
   },
   {
-   "c": 260,
-   "d": "VINO VIÑAS DE BALBO TINTO 6X1.125ML",
-   "p": 13200.0,
-   "b": null,
-   "cat": "Vinos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 580,
    "d": "VINO FAMILIA GASCON MALBEC X6",
    "p": 26400.0,
@@ -1453,7 +1444,7 @@
   {
    "c": 444,
    "d": "PATY EXPRESS X4",
-   "p": 3622.67,
+   "p": 4156.9,
    "b": 24,
    "cat": "Congelados",
    "s": true,
@@ -1471,7 +1462,7 @@
   {
    "c": 565,
    "d": "MEDALLON BARFY X4",
-   "p": 2714.29,
+   "p": 2768.7,
    "b": 24,
    "cat": "Congelados",
    "s": true,
@@ -1553,15 +1544,6 @@
    "c": 1000,
    "d": "DULCE DE LECHE LS AIREADO 300G",
    "p": 3316.06,
-   "b": null,
-   "cat": "Mastellone",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1063,
-   "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1796.12,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1910,15 +1892,6 @@
    "q": false
   },
   {
-   "c": 11,
-   "d": "FLAN CREMIGAL X120G",
-   "p": 540.5,
-   "b": 40,
-   "cat": "Cremigal",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 619,
    "d": "POSTRE CREMIGAL CHOCOLATE",
    "p": 551.34,
@@ -2054,6 +2027,15 @@
    "q": false
   },
   {
+   "c": 184,
+   "d": "HARINA BURZACO 000 X1KG",
+   "p": 710.0,
+   "b": 10,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 289,
    "d": "REBOZADOR MAROLIO X500GR",
    "p": 715.1,
@@ -2073,7 +2055,7 @@
   },
   {
    "c": 477,
-   "d": "HARINA 0000 BURZACO 1KG",
+   "d": "HARINA BURZACO 0000 1KG",
    "p": 836.52,
    "b": 10,
    "cat": "Harinas",
@@ -2130,6 +2112,24 @@
    "d": "REBOZADOR MOLTO 500G",
    "p": 685.33,
    "b": 12,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1250,
+   "d": "HARINA BURZACO 000 X25KG",
+   "p": 16500.0,
+   "b": null,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1251,
+   "d": "HARINA BURZACO 0000 X25KG",
+   "p": 20000.0,
+   "b": null,
    "cat": "Harinas",
    "s": true,
    "q": false
@@ -2219,15 +2219,6 @@
    "c": 663,
    "d": "PAN DULCE BENJAMIN C/FRUTA 400GR.",
    "p": 2055.63,
-   "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 664,
-   "d": "PAN DULCE BENJAMIN C/CHIP 400GR",
-   "p": 2186.25,
    "b": 8,
    "cat": "Panificados",
    "s": true,
@@ -2353,15 +2344,6 @@
   {
    "c": 189,
    "d": "YERBA TARAGUI X 500GRS",
-   "p": 1758.9,
-   "b": 10,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 190,
-   "d": "YERBA MAÑANITA X500GRS",
    "p": 1758.9,
    "b": 10,
    "cat": "Infusiones",
@@ -2660,15 +2642,6 @@
    "c": 705,
    "d": "CONDIMENTO P/ GUISOS X25G CENTURION",
    "p": 558.9,
-   "b": 10,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 706,
-   "d": "CONDIMENTO P/ EMPANADAS X25G CENTURION",
-   "p": 600.49,
    "b": 10,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3107,20 +3080,11 @@
    "q": false
   },
   {
-   "c": 1222,
-   "d": "CHIMICHURRI 1KG AROMAS & SABORES",
-   "p": 5025.5,
+   "c": 1221,
+   "d": "PROVENZAL 1KG EL MENDOCINO",
+   "p": 6227.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 223,
-   "d": "MAYONESA NATURA X 125GRS CAJA X20",
-   "p": 12399.99,
-   "b": null,
-   "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
   },
@@ -3289,7 +3253,7 @@
   {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1778.4,
+   "p": 1715.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3352,7 +3316,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1778.4,
+   "p": 1715.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3413,6 +3377,15 @@
    "q": false
   },
   {
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1796.12,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1089,
    "d": "LECHE ENTERA EL PUENTE 1LT",
    "p": 1230.5,
@@ -3458,9 +3431,9 @@
    "q": false
   },
   {
-   "c": 29,
-   "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
-   "p": 1258.95,
+   "c": 21,
+   "d": "YOG LS FIRME X120G X2 FRUTILLA",
+   "p": 2185.09,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3470,15 +3443,6 @@
    "c": 30,
    "d": "YOGUR BEBIBLE CREMIGAL FRUTILLA X 900CC.",
    "p": 1258.95,
-   "b": null,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 319,
-   "d": "ACTIMEL LS MULTIFRUTA X100G X 6",
-   "p": 13444.21,
    "b": null,
    "cat": "Yogures",
    "s": true,
@@ -3539,15 +3503,6 @@
    "q": false
   },
   {
-   "c": 642,
-   "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2110.99,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2110.99,
@@ -3586,7 +3541,7 @@
   {
    "c": 377,
    "d": "RED POINT BOX X20",
-   "p": 16296.0,
+   "p": 16761.6,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3595,7 +3550,7 @@
   {
    "c": 378,
    "d": "RED POINT COMUN X20",
-   "p": 15078.0,
+   "p": 15508.8,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3604,17 +3559,8 @@
   {
    "c": 380,
    "d": "RED POINT BOX X10",
-   "p": 9156.0,
+   "p": 9504.8,
    "b": null,
-   "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 382,
-   "d": "MASTER COMUN",
-   "p": 12772.0,
-   "b": 20,
    "cat": "Cigarrillos",
    "s": true,
    "q": false
@@ -3622,7 +3568,7 @@
   {
    "c": 485,
    "d": "RED POINT ON X20 (MENTOLADO)",
-   "p": 18144.0,
+   "p": 18662.4,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3631,7 +3577,7 @@
   {
    "c": 878,
    "d": "RED POINT SIX X20",
-   "p": 18144.0,
+   "p": 18662.4,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3640,7 +3586,7 @@
   {
    "c": 933,
    "d": "RED POINT ON X10 (MENTOLADO)",
-   "p": 10080.0,
+   "p": 10368.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3649,7 +3595,7 @@
   {
    "c": 1070,
    "d": "RED POINT SIX X10",
-   "p": 10080.0,
+   "p": 10368.0,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -3658,7 +3604,7 @@
   {
    "c": 1105,
    "d": "RED POINT DUO X20",
-   "p": 18144.0,
+   "p": 18662.4,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
