@@ -1100,15 +1100,6 @@
    "q": false
   },
   {
-   "c": 342,
-   "d": "LAVANDINA AYUDIN ORIGINAL X1L",
-   "p": 966.9,
-   "b": 15,
-   "cat": "Limpieza",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 865,
    "d": "CEPILLO DE MANO CEPY JEANS",
    "p": 3500.0,
@@ -1122,15 +1113,6 @@
    "d": "DETERGENTE CIF LIMON X300ML",
    "p": 1538.9,
    "b": 12,
-   "cat": "Limpieza",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1043,
-   "d": "LAVANDINA AYUDIN ORIGINAL X2L",
-   "p": 1709.51,
-   "b": 8,
    "cat": "Limpieza",
    "s": true,
    "q": false
@@ -1175,6 +1157,15 @@
    "c": 652,
    "d": "SIDRA ORO DULCE X6",
    "p": 14800.0,
+   "b": null,
+   "cat": "Sidras",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 653,
+   "d": "ANANA FIZZ ORO DULCE X6",
+   "p": 16786.0,
    "b": null,
    "cat": "Sidras",
    "s": true,
@@ -1550,6 +1541,15 @@
    "q": false
   },
   {
+   "c": 1114,
+   "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
+   "p": 27326.0,
+   "b": null,
+   "cat": "Aceitunas y encurtidos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1116,
    "d": "ACEITUNAS ARILART VERD RODAJAS X4KG",
    "p": 24662.0,
@@ -1874,15 +1874,6 @@
    "q": false
   },
   {
-   "c": 85,
-   "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
-   "p": 4620.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 86,
    "d": "JUGO RINDE 2 ANANA X10 SOBRES",
    "p": 4940.1,
@@ -1903,6 +1894,15 @@
   {
    "c": 88,
    "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 89,
+   "d": "JUGO RINDE 2 NAR-MANGO X10 SOBRES",
    "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
@@ -2306,15 +2306,6 @@
    "q": false
   },
   {
-   "c": 663,
-   "d": "PAN DULCE BENJAMIN C/FRUTA 400GR.",
-   "p": 2055.63,
-   "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 666,
    "d": "PAN DULCE BENJAMIN S/FRUTA 400 GR.",
    "p": 2034.99,
@@ -2333,15 +2324,6 @@
    "q": false
   },
   {
-   "c": 1082,
-   "d": "PAN DE PANCHOS NEVARES",
-   "p": 824.55,
-   "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1164,
    "d": "BUDIN NEVARES CHOCOLATE",
    "p": 1109.64,
@@ -2355,15 +2337,6 @@
    "d": "BUDIN NEVARES LIMON",
    "p": 1109.64,
    "b": 10,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1167,
-   "d": "PAN DULCE BUON NATALE FRUTAS",
-   "p": 1726.85,
-   "b": 12,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2625,6 +2598,15 @@
    "d": "PIMENTON CENTURION X25G",
    "p": 372.03,
    "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 685,
+   "d": "PIMIENTA NEGRA X25 GRS CENTURION",
+   "p": 728.52,
+   "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
@@ -3071,6 +3053,15 @@
    "q": false
   },
   {
+   "c": 1209,
+   "d": "PASAS DE UVA SULTANINA 50G AROMAS & SAB",
+   "p": 814.2,
+   "b": 50,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1210,
    "d": "CHIMICHURRI LIQ SUAVE 250CC AROMAS & SAB",
    "p": 950.67,
@@ -3100,15 +3091,6 @@
   {
    "c": 1214,
    "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
-   "p": 2110.0,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1216,
-   "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
    "b": 12,
    "cat": "Condimentos / saborizantes",
@@ -3244,7 +3226,7 @@
   {
    "c": 1173,
    "d": "SAVORA X60GR CAJA X30",
-   "p": 19965.0,
+   "p": 20760.3,
    "b": null,
    "cat": "Aderezos / condimentos",
    "s": true,
@@ -3440,6 +3422,15 @@
    "q": false
   },
   {
+   "c": 588,
+   "d": "LECHE LS CAJA ENTERA N3 X1L",
+   "p": 1920.47,
+   "b": 12,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 655,
    "d": "LECHE SACHET LA NUEVA ROMIPAL",
    "p": 1329.99,
@@ -3476,15 +3467,6 @@
    "q": false
   },
   {
-   "c": 1063,
-   "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1796.12,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1089,
    "d": "LECHE ENTERA EL PUENTE 1LT",
    "p": 1230.5,
@@ -3516,24 +3498,6 @@
    "d": "YOG LS FIRME X190G VAINILLA",
    "p": 1660.91,
    "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 20,
-   "d": "YOG LS FIRME X120G X2 VAINILLA",
-   "p": 2185.09,
-   "b": null,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 21,
-   "d": "YOG LS FIRME X120G X2 FRUTILLA",
-   "p": 2185.09,
-   "b": null,
    "cat": "Yogures",
    "s": true,
    "q": false
@@ -3605,15 +3569,6 @@
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
    "p": 2275.8,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 643,
-   "d": "YOG LS BEBIBLE X900 FRUTILLA",
-   "p": 2110.99,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3804,6 +3759,15 @@
    "d": "KRACHITOS JAMON X90G",
    "p": 1797.76,
    "b": 16,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1112,
+   "d": "KRACHITOS MANI PELADO SALADO X280G",
+   "p": 3974.52,
+   "b": 15,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -4045,7 +4009,7 @@
   {
    "c": 32,
    "d": "TAPA PASCUALINA DOÑA GRINGA",
-   "p": 1111.0,
+   "p": 1149.98,
    "b": null,
    "cat": "Frescos",
    "s": true,
