@@ -1,5 +1,5 @@
 {
- "fecha": "4/11/2026",
+ "fecha": "5/11/2026",
  "productos": [
   {
    "c": 176,
@@ -77,15 +77,6 @@
    "c": 1239,
    "d": "CERVEZA LATA MOEMA 473ML X12",
    "p": 12851.3,
-   "b": null,
-   "cat": "Cervezas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1240,
-   "d": "CERVEZA MILLER CAJON 1 L",
-   "p": 35500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -609,15 +600,6 @@
    "d": "GALLE PITUSAS BLACK X130G",
    "p": 799.96,
    "b": 30,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 291,
-   "d": "PEPAS TRIO X500GRS",
-   "p": 1627.99,
-   "b": 10,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -1177,15 +1159,6 @@
    "p": 15340.0,
    "b": 6,
    "cat": "Sidras",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 50,
-   "d": "LEVADURA CALSA CUBITOS CAJA X 20",
-   "p": 11136.0,
-   "b": null,
-   "cat": "Varios",
    "s": true,
    "q": false
   },
@@ -1937,15 +1910,6 @@
    "q": false
   },
   {
-   "c": 832,
-   "d": "JUGO TANG NARANJA",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 838,
    "d": "JUGO TANG NARANJA DULCE",
    "p": 6420.0,
@@ -2666,15 +2630,6 @@
    "q": false
   },
   {
-   "c": 694,
-   "d": "CHIMICHURRI PICANTE CENTURION X250ML",
-   "p": 1237.19,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 701,
    "d": "TOMILLO CENTURION X25GRS",
    "p": 632.4,
@@ -3098,18 +3053,18 @@
    "q": false
   },
   {
-   "c": 1217,
-   "d": "ADOBO P/ PIZZAS 1KG EL MENDOCINO",
-   "p": 5353.25,
-   "b": null,
+   "c": 1216,
+   "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
    "q": false
   },
   {
-   "c": 1218,
-   "d": "AJI MOLIDO 1KG EL MENDOCINO",
-   "p": 6008.75,
+   "c": 1217,
+   "d": "ADOBO P/ PIZZAS 1KG EL MENDOCINO",
+   "p": 5353.25,
    "b": null,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3233,15 +3188,6 @@
    "q": false
   },
   {
-   "c": 853,
-   "d": "DIFERENCIA DE PRECIO",
-   "p": 1.0,
-   "b": null,
-   "cat": "Administrativos items",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 858,
    "d": "ANULACION DE REMITO POR ERROR",
    "p": 1.0,
@@ -3325,15 +3271,6 @@
   {
    "c": 1145,
    "d": "UNTABLE TREMBLAY SALAME X180G",
-   "p": 1802.79,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1146,
-   "d": "UNTABLE TREMBLAY AZUL X180G",
    "p": 1802.79,
    "b": 12,
    "cat": "Quesos untables",
@@ -3467,6 +3404,15 @@
    "q": false
   },
   {
+   "c": 1063,
+   "d": "LECHE LS SACHET PROTEIN 1L",
+   "p": 1796.12,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1089,
    "d": "LECHE ENTERA EL PUENTE 1LT",
    "p": 1230.5,
@@ -3503,6 +3449,24 @@
    "q": false
   },
   {
+   "c": 20,
+   "d": "YOG LS FIRME X120G X2 VAINILLA",
+   "p": 2196.45,
+   "b": null,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 21,
+   "d": "YOG LS FIRME X120G X2 FRUTILLA",
+   "p": 2196.45,
+   "b": null,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 29,
    "d": "YOGUR BEBIBLE CREMIGAL VAINILLA X 900CC.",
    "p": 1258.95,
@@ -3523,7 +3487,7 @@
   {
    "c": 471,
    "d": "YOG LS CON CEREAL CLASICO",
-   "p": 1951.62,
+   "p": 1961.76,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3569,6 +3533,24 @@
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
    "p": 2275.8,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 642,
+   "d": "YOG LS BEBIBLE X900 VAINILLA",
+   "p": 2110.99,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 643,
+   "d": "YOG LS BEBIBLE X900 FRUTILLA",
+   "p": 2110.99,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -4120,6 +4102,24 @@
    "p": 1419.0,
    "b": null,
    "cat": "Frescos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 251,
+   "d": "SPEED XL X12",
+   "p": 25885.44,
+   "b": null,
+   "cat": "Bebidas energizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1253,
+   "d": "SPEED XL ZERO X12",
+   "p": 25885.44,
+   "b": null,
+   "cat": "Bebidas energizantes",
    "s": true,
    "q": false
   },
