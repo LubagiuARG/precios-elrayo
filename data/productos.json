@@ -1462,7 +1462,7 @@
   {
    "c": 57,
    "d": "DULCE DE LECHE LS CLASICO X400G",
-   "p": 2566.47,
+   "p": 2717.39,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1471,7 +1471,7 @@
   {
    "c": 58,
    "d": "DULCE DE LECHE LS COLONIALX400G",
-   "p": 2844.99,
+   "p": 3012.43,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1480,7 +1480,7 @@
   {
    "c": 130,
    "d": "DULCE DE LECHE LS REPOSTERO X400G",
-   "p": 3539.4,
+   "p": 3539.76,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1489,7 +1489,7 @@
   {
    "c": 131,
    "d": "DULCE DE LECHE LS COLONIAL X250G",
-   "p": 2323.24,
+   "p": 2371.31,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -1498,7 +1498,7 @@
   {
    "c": 132,
    "d": "DULCE DE LECHE LS CLASICO X250G",
-   "p": 2281.77,
+   "p": 2282.03,
    "b": null,
    "cat": "Mastellone",
    "s": true,
@@ -3217,7 +3217,7 @@
   {
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
-   "p": 3446.42,
+   "p": 3414.62,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3244,7 +3244,7 @@
   {
    "c": 18,
    "d": "CASANCREM LIGHT 290G",
-   "p": 4526.46,
+   "p": 4484.69,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3253,7 +3253,7 @@
   {
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
-   "p": 4526.46,
+   "p": 4484.69,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3307,7 +3307,7 @@
   {
    "c": 28,
    "d": "LECHE ARMONIA ENTERA 1L",
-   "p": 1683.22,
+   "p": 1667.14,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3316,7 +3316,7 @@
   {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
-   "p": 2009.81,
+   "p": 1965.68,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3325,7 +3325,7 @@
   {
    "c": 154,
    "d": "LECHE LS BOTELLA ZERO LACTOSA 1L.",
-   "p": 2085.43,
+   "p": 2121.15,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3334,7 +3334,7 @@
   {
    "c": 155,
    "d": "LECHE LS BOTELLA ENTERA N3 X1L",
-   "p": 2088.74,
+   "p": 2042.46,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3343,7 +3343,7 @@
   {
    "c": 156,
    "d": "LECHE LS BOTELLA DESCREM N1 X1L",
-   "p": 2088.74,
+   "p": 2042.46,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3370,7 +3370,7 @@
   {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
-   "p": 2085.43,
+   "p": 2121.15,
    "b": 6,
    "cat": "Leches",
    "s": true,
@@ -3379,7 +3379,7 @@
   {
    "c": 588,
    "d": "LECHE LS CAJA ENTERA N3 X1L",
-   "p": 1920.47,
+   "p": 1965.66,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3406,7 +3406,7 @@
   {
    "c": 752,
    "d": "LECHE CHOCOLATADA CINDOR X1L",
-   "p": 4771.89,
+   "p": 4751.85,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3424,7 +3424,7 @@
   {
    "c": 1063,
    "d": "LECHE LS SACHET PROTEIN 1L",
-   "p": 1796.12,
+   "p": 1814.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3442,7 +3442,7 @@
   {
    "c": 1113,
    "d": "LECHE LS SACHET ZERO LACTOSA 1L",
-   "p": 1796.12,
+   "p": 1814.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3451,7 +3451,7 @@
   {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
-   "p": 1660.91,
+   "p": 1669.53,
    "b": 20,
    "cat": "Leches",
    "s": true,
@@ -3460,7 +3460,7 @@
   {
    "c": 14,
    "d": "YOG LS FIRME X190G VAINILLA",
-   "p": 1660.91,
+   "p": 1669.53,
    "b": 20,
    "cat": "Leches",
    "s": true,
@@ -3550,7 +3550,7 @@
   {
    "c": 502,
    "d": "YOG LS CON ROCKLETS",
-   "p": 2275.8,
+   "p": 2287.62,
    "b": 20,
    "cat": "Leches",
    "s": true,
@@ -3595,7 +3595,7 @@
   {
    "c": 1143,
    "d": "YOG LS BEBIBLE ALFAJOR X900",
-   "p": 2281.35,
+   "p": 1939.15,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3793,7 +3793,7 @@
   {
    "c": 38,
    "d": "CREMA LS COCINAR X330ML",
-   "p": 3283.5,
+   "p": 3465.82,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3802,7 +3802,7 @@
   {
    "c": 39,
    "d": "CREMA LS COCINAR X200ML",
-   "p": 2140.94,
+   "p": 2259.8,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3811,7 +3811,7 @@
   {
    "c": 40,
    "d": "CREMA LS BATIR X330ML",
-   "p": 3441.69,
+   "p": 3633.52,
    "b": 12,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3820,7 +3820,7 @@
   {
    "c": 41,
    "d": "CREMA LS BATIR 200ML",
-   "p": 2246.42,
+   "p": 2371.61,
    "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3847,7 +3847,7 @@
   {
    "c": 48,
    "d": "MANTECA SERENISIMA X 200GRS",
-   "p": 2981.17,
+   "p": 3354.4,
    "b": 10,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3856,7 +3856,7 @@
   {
    "c": 49,
    "d": "MANTECA SERENISIMA X100GRS",
-   "p": 1642.66,
+   "p": 1847.9,
    "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -3865,7 +3865,7 @@
   {
    "c": 320,
    "d": "RICOTA GARCIA X500G",
-   "p": 3678.8,
+   "p": 3680.11,
    "b": null,
    "cat": "Cremas / mantecas",
    "s": true,
@@ -4063,7 +4063,7 @@
   {
    "c": 43,
    "d": "SALCHICHAS GRANJA IRIS X6",
-   "p": 2122.64,
+   "p": 2123.14,
    "b": 20,
    "cat": "Frescos",
    "s": true,
