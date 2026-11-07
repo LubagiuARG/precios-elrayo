@@ -1,5 +1,5 @@
 {
- "fecha": "6/11/2026",
+ "fecha": "7/11/2026",
  "productos": [
   {
    "c": 176,
@@ -40,7 +40,7 @@
   {
    "c": 235,
    "d": "CERVEZA BRAHMA LATA X24",
-   "p": 38000.0,
+   "p": 39900.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -49,7 +49,7 @@
   {
    "c": 574,
    "d": "CERVEZA 361 PACK X6 X1L",
-   "p": 8750.0,
+   "p": 9188.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -58,7 +58,7 @@
   {
    "c": 672,
    "d": "CERVEZA 361 LATA X24",
-   "p": 22260.0,
+   "p": 23373.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -67,7 +67,7 @@
   {
    "c": 1162,
    "d": "CERVEZA BRAHMA CAJON BOTELLA 1 L",
-   "p": 34500.0,
+   "p": 36225.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -76,7 +76,7 @@
   {
    "c": 1239,
    "d": "CERVEZA LATA MOEMA 473ML X12",
-   "p": 12851.3,
+   "p": 13494.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -85,7 +85,7 @@
   {
    "c": 1241,
    "d": "CERVEZA HEINEKEN CAJON 1 L",
-   "p": 47200.0,
+   "p": 49560.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -94,7 +94,7 @@
   {
    "c": 1242,
    "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 25500.0,
+   "p": 26775.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -103,7 +103,7 @@
   {
    "c": 1243,
    "d": "CERVEZA PALERMO CAJON 1 L",
-   "p": 25500.0,
+   "p": 26775.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -920,6 +920,33 @@
    "q": false
   },
   {
+   "c": 1254,
+   "d": "BIZCOCHO SALADO DON CARONTE 200G",
+   "p": 717.6,
+   "b": 25,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1255,
+   "d": "BIZCOCHO AGRIDULCE DON CARONTE 200G",
+   "p": 717.6,
+   "b": 25,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1256,
+   "d": "GALL DON CARONTE CRACKERS X3 300G",
+   "p": 1104.0,
+   "b": 16,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1170,
    "d": "TURRON NEVARES PASTA MANI",
    "p": 413.23,
@@ -1181,6 +1208,15 @@
    "q": false
   },
   {
+   "c": 905,
+   "d": "ENCENDEDORES TOKYO X50",
+   "p": 10810.0,
+   "b": null,
+   "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 148,
    "d": "VINO VIÑAS DE ALVEAR CLASICO TINTO 1.125ML",
    "p": 12650.0,
@@ -1352,15 +1388,6 @@
    "q": false
   },
   {
-   "c": 901,
-   "d": "PETACAS CRIADORES WHISKY X12",
-   "p": 22440.0,
-   "b": null,
-   "cat": "Aperitivos / bebidas con alcohol",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 988,
    "d": "PLATO VOLADOR CHICLE 750CC",
    "p": 8100.0,
@@ -1526,15 +1553,6 @@
    "c": 829,
    "d": "ACEITUNAS ARILART RELLENAS X2KG",
    "p": 16375.0,
-   "b": null,
-   "cat": "Aceitunas y encurtidos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1114,
-   "d": "ACEITUNAS ARILART VERD ENT CLAS X5KG",
-   "p": 27326.0,
    "b": null,
    "cat": "Aceitunas y encurtidos",
    "s": true,
@@ -1910,8 +1928,8 @@
    "q": false
   },
   {
-   "c": 91,
-   "d": "JUGO RINDE 2 NARANJA X10 SOBRES",
+   "c": 540,
+   "d": "JUGO RINDE 2 LIMON X10 SOBRES",
    "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
@@ -1939,15 +1957,6 @@
   {
    "c": 842,
    "d": "JUGO TANG FRUTILLA",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 995,
-   "d": "JUGO TANG NARANJA-DURAZNO",
    "p": 6420.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -2639,6 +2648,15 @@
    "q": false
   },
   {
+   "c": 692,
+   "d": "COCO RALLADO X25G CENTURION",
+   "p": 442.91,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 694,
    "d": "CHIMICHURRI PICANTE CENTURION X250ML",
    "p": 1237.19,
@@ -3080,6 +3098,15 @@
    "q": false
   },
   {
+   "c": 1219,
+   "d": "OREGANO 1KG EL MENDOCINO",
+   "p": 5080.13,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1220,
    "d": "PIMENTON EXTRA 1KG EL MENDOCINO",
    "p": 6500.37,
@@ -3138,6 +3165,15 @@
    "d": "MAYONESA HELLMANNS X250G",
    "p": 1186.91,
    "b": 24,
+   "cat": "Aderezos / condimentos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 489,
+   "d": "MAYONESA HELLMANS X118GR CAJA X20",
+   "p": 11506.0,
+   "b": null,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3236,6 +3272,24 @@
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4484.69,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1077,
+   "d": "QUESO CREMA NEVARES X290G",
+   "p": 1600.0,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1078,
+   "d": "QUESO CREMA NEVARES LIGHT X290G",
+   "p": 1600.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3424,6 +3478,15 @@
   {
    "c": 12,
    "d": "YOG LS FIRME X190G FRUTILLA",
+   "p": 1669.53,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 14,
+   "d": "YOG LS FIRME X190G VAINILLA",
    "p": 1669.53,
    "b": 20,
    "cat": "Yogures",
