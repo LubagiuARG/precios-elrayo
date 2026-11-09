@@ -1,5 +1,5 @@
 {
- "fecha": "7/11/2026",
+ "fecha": "9/11/2026",
  "productos": [
   {
    "c": 176,
@@ -524,15 +524,6 @@
    "q": false
   },
   {
-   "c": 1142,
-   "d": "BARRA TYBO NEVARES",
-   "p": 10594.07,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1148,
    "d": "CREMOSO PILAR DEL NORTE",
    "p": 6300.0,
@@ -579,7 +570,7 @@
   },
   {
    "c": 194,
-   "d": "BISCOCHOS DON SATUR X200GRS",
+   "d": "BIZCOCHOS DON SATUR X200GRS",
    "p": 967.99,
    "b": 30,
    "cat": "Galletitas",
@@ -1210,7 +1201,7 @@
   {
    "c": 905,
    "d": "ENCENDEDORES TOKYO X50",
-   "p": 10810.0,
+   "p": 12500.0,
    "b": null,
    "cat": "Varios",
    "s": true,
@@ -1910,15 +1901,6 @@
    "q": false
   },
   {
-   "c": 89,
-   "d": "JUGO RINDE 2 NAR-MANGO X10 SOBRES",
-   "p": 4940.1,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 90,
    "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
    "p": 4940.1,
@@ -1975,15 +1957,6 @@
   {
    "c": 619,
    "d": "POSTRE CREMIGAL CHOCOLATE",
-   "p": 551.34,
-   "b": 40,
-   "cat": "Cremigal",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 620,
-   "d": "POSTRE CREMIGAL DULCE DE LECHE",
    "p": 551.34,
    "b": 40,
    "cat": "Cremigal",
@@ -3244,7 +3217,7 @@
   {
    "c": 16,
    "d": "FINLANDIA CLASICO X180G",
-   "p": 2586.99,
+   "p": 2550.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3253,16 +3226,7 @@
   {
    "c": 17,
    "d": "FINLANDIA LIGHT X180G",
-   "p": 2586.99,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 18,
-   "d": "CASANCREM LIGHT 290G",
-   "p": 4484.69,
+   "p": 2550.0,
    "b": 12,
    "cat": "Quesos untables",
    "s": true,
@@ -3319,15 +3283,6 @@
    "p": 1802.79,
    "b": 12,
    "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 27,
-   "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1767.39,
-   "b": null,
-   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3741,6 +3696,15 @@
    "d": "KRACHITOS PAPAS CA X420GR",
    "p": 6910.09,
    "b": 7,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 613,
+   "d": "KRACHITOS BASTONITOS DE QUESO 240G",
+   "p": 3702.27,
+   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -4308,15 +4272,6 @@
    "d": "SOL PAMPEANO DEDALITOS X 500G",
    "p": 766.8,
    "b": 15,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 538,
-   "d": "SOL PAMPEANO FORATTI X 20",
-   "p": 803.33,
-   "b": null,
    "cat": "Fideos",
    "s": true,
    "q": false
