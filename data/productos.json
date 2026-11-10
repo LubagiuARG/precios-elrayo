@@ -1,5 +1,5 @@
 {
- "fecha": "9/11/2026",
+ "fecha": "10/11/2026",
  "productos": [
   {
    "c": 176,
@@ -1901,15 +1901,6 @@
    "q": false
   },
   {
-   "c": 90,
-   "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
-   "p": 4940.1,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 540,
    "d": "JUGO RINDE 2 LIMON X10 SOBRES",
    "p": 4940.1,
@@ -2189,15 +2180,6 @@
    "q": false
   },
   {
-   "c": 645,
-   "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1829.99,
-   "b": 12,
-   "cat": "Aceites",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 877,
    "d": "ACEITE GIRASOL FINCA EL LAZO X5LT",
    "p": 10989.99,
@@ -2378,6 +2360,15 @@
    "q": false
   },
   {
+   "c": 190,
+   "d": "YERBA MAÑANITA X500GRS",
+   "p": 1758.9,
+   "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 522,
    "d": "YERBA PLAYADITO X 500GR",
    "p": 2139.89,
@@ -2390,15 +2381,6 @@
    "c": 533,
    "d": "YERBA AMANDA X 500 GR.",
    "p": 1579.99,
-   "b": 10,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 863,
-   "d": "TE MAROLIO X25U",
-   "p": 689.9,
    "b": 10,
    "cat": "Infusiones",
    "s": true,
@@ -3017,15 +2999,6 @@
    "q": false
   },
   {
-   "c": 1212,
-   "d": "SAL DE AJO 250G AROMAS & SABORES",
-   "p": 2110.0,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1213,
    "d": "SAL AMERICANA 250G AROMAS 6 SAB",
    "p": 2110.0,
@@ -3037,15 +3010,6 @@
   {
    "c": 1214,
    "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
-   "p": 2110.0,
-   "b": 12,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1216,
-   "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
    "b": 12,
    "cat": "Condimentos / saborizantes",
@@ -3145,17 +3109,8 @@
   {
    "c": 489,
    "d": "MAYONESA HELLMANS X118GR CAJA X20",
-   "p": 11506.0,
+   "p": 12029.0,
    "b": null,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 536,
-   "d": "VINAGRE MOLTO X1L",
-   "p": 958.3,
-   "b": 12,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3674,15 +3629,6 @@
    "q": false
   },
   {
-   "c": 163,
-   "d": "MANI CERVECERO SALAME X900GRS MANITOON",
-   "p": 4540.0,
-   "b": null,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 272,
    "d": "KRACHITOS CHIZITO X240",
    "p": 3507.78,
@@ -3836,15 +3782,6 @@
    "q": false
   },
   {
-   "c": 47,
-   "d": "MANTECA SYS X100 GRS",
-   "p": 935.0,
-   "b": 60,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 48,
    "d": "MANTECA SERENISIMA X 200GRS",
    "p": 3354.4,
@@ -3867,15 +3804,6 @@
    "d": "RICOTA GARCIA X500G",
    "p": 3680.11,
    "b": null,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1091,
-   "d": "MANTECA TREMBLAY X100G",
-   "p": 1436.4,
-   "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
