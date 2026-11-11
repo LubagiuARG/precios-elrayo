@@ -461,15 +461,6 @@
    "q": false
   },
   {
-   "c": 1034,
-   "d": "CREMOSO LAS VARAS",
-   "p": 7400.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1057,
    "d": "PATEGRAS LAS TRES R",
    "p": 10340.0,
@@ -3359,20 +3350,11 @@
    "q": false
   },
   {
-   "c": 12,
-   "d": "YOG LS FIRME X190G FRUTILLA",
-   "p": 1669.53,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 14,
-   "d": "YOG LS FIRME X190G VAINILLA",
-   "p": 1669.53,
-   "b": 20,
-   "cat": "Yogures",
+   "c": 1261,
+   "d": "LECHE LA CAMPECHANA",
+   "p": 1320.0,
+   "b": 8,
+   "cat": "Leches",
    "s": true,
    "q": false
   },
@@ -3831,15 +3813,6 @@
    "d": "MANTECA SERENISIMA X100GRS",
    "p": 1847.9,
    "b": 20,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 320,
-   "d": "RICOTA GARCIA X500G",
-   "p": 3680.11,
-   "b": null,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
