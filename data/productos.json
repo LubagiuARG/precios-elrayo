@@ -1,5 +1,5 @@
 {
- "fecha": "11/11/2026",
+ "fecha": "12/11/2026",
  "productos": [
   {
    "c": 176,
@@ -3777,15 +3777,6 @@
    "d": "CREMA LS BATIR X330ML",
    "p": 3633.52,
    "b": 12,
-   "cat": "Cremas / mantecas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 41,
-   "d": "CREMA LS BATIR 200ML",
-   "p": 2371.61,
-   "b": 24,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
