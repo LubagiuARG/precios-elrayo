@@ -526,7 +526,7 @@
   {
    "c": 1225,
    "d": "CREMOSO SANCARLINA",
-   "p": 6000.0,
+   "p": 6200.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -2162,15 +2162,6 @@
    "q": false
   },
   {
-   "c": 663,
-   "d": "PAN DULCE BENJAMIN C/FRUTA 400GR.",
-   "p": 2055.63,
-   "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 664,
    "d": "PAN DULCE BENJAMIN C/CHIP 400GR",
    "p": 2186.25,
@@ -3197,15 +3188,6 @@
    "q": false
   },
   {
-   "c": 465,
-   "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1767.39,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
    "p": 2121.15,
@@ -3586,7 +3568,7 @@
   {
    "c": 272,
    "d": "KRACHITOS CHIZITO X240",
-   "p": 3507.78,
+   "p": 3654.05,
    "b": 10,
    "cat": "Snacks",
    "s": true,
@@ -3595,8 +3577,26 @@
   {
    "c": 479,
    "d": "KRACHITOS PAPAS CA X420GR",
-   "p": 6910.09,
+   "p": 7532.0,
    "b": 7,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 480,
+   "d": "KRACHITOS PAPAS CT X420G",
+   "p": 7532.0,
+   "b": 7,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 481,
+   "d": "KRACHITOS PAPA CHEDDAR X330GR",
+   "p": 5501.18,
+   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -3604,7 +3604,7 @@
   {
    "c": 613,
    "d": "KRACHITOS BASTONITOS DE QUESO 240G",
-   "p": 3702.27,
+   "p": 3856.66,
    "b": 10,
    "cat": "Snacks",
    "s": true,
@@ -3613,8 +3613,35 @@
   {
    "c": 614,
    "d": "KRACHITOS PALITOS SALADOS 500G",
-   "p": 5482.58,
+   "p": 5964.5,
    "b": 10,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 618,
+   "d": "KRACHITOS PAPAS C TRADI X50G",
+   "p": 1205.28,
+   "b": 24,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 755,
+   "d": "KRACHITOS PALITOS SALADOS 70G",
+   "p": 930.96,
+   "b": 24,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 756,
+   "d": "KRACHITOS CHEDDAR X55GRS",
+   "p": 1172.46,
+   "b": 24,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -3678,6 +3705,24 @@
    "d": "KRACHITOS JAMON X90G",
    "p": 1797.76,
    "b": 16,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1111,
+   "d": "KRACHITOS PAPAS PAY X150G",
+   "p": 2495.17,
+   "b": 24,
+   "cat": "Snacks",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1112,
+   "d": "KRACHITOS MANI PELADO SALADO X280G",
+   "p": 4327.07,
+   "b": 15,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -4117,7 +4162,7 @@
   {
    "c": 313,
    "d": "MONTE LIRIO AL HUEVO N3 NIDO",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4198,7 +4243,7 @@
   {
    "c": 639,
    "d": "MONTE LIRIO AL HUEVO N1 NIDO",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4207,7 +4252,7 @@
   {
    "c": 640,
    "d": "MONTE LIRIO ESPINACA N2 NIDO",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4216,7 +4261,7 @@
   {
    "c": 733,
    "d": "MONTE LIRIO AL HUEVO N2 NIDO",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4234,7 +4279,7 @@
   {
    "c": 1016,
    "d": "MONTE LIRIO MOÑO",
-   "p": 1867.4,
+   "p": 2091.49,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4243,7 +4288,7 @@
   {
    "c": 1045,
    "d": "MONTE LIRIO DOBLADITOS N2",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
@@ -4297,7 +4342,7 @@
   {
    "c": 1103,
    "d": "MONTE LIRIO CABELLO DE ANGEL",
-   "p": 1720.0,
+   "p": 1926.4,
    "b": 10,
    "cat": "Fideos",
    "s": true,
