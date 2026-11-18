@@ -1,5 +1,5 @@
 {
- "fecha": "16/11/2026",
+ "fecha": "18/11/2026",
  "productos": [
   {
    "c": 176,
@@ -38,6 +38,15 @@
    "q": false
   },
   {
+   "c": 235,
+   "d": "CERVEZA BRAHMA LATA X24",
+   "p": 39900.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 574,
    "d": "CERVEZA 361 PACK X6 X1L",
    "p": 9188.0,
@@ -47,9 +56,27 @@
    "q": false
   },
   {
+   "c": 1162,
+   "d": "CERVEZA BRAHMA CAJON BOTELLA 1 L",
+   "p": 35000.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1239,
    "d": "CERVEZA LATA MOEMA 473ML X12",
    "p": 13494.0,
+   "b": null,
+   "cat": "Cervezas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1240,
+   "d": "CERVEZA MILLER CAJON 1 L",
+   "p": 37000.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -67,7 +94,7 @@
   {
    "c": 1242,
    "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 26775.0,
+   "p": 26500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -76,7 +103,7 @@
   {
    "c": 1243,
    "d": "CERVEZA PALERMO CAJON 1 L",
-   "p": 26775.0,
+   "p": 26500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -156,8 +183,17 @@
   },
   {
    "c": 108,
-   "d": "SARDO NEGRO \"ELOGIO\"",
+   "d": "SARDO NEGRO ELOGIO",
    "p": 15784.86,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 111,
+   "d": "QUESO DE CERDO BIERZO",
+   "p": 4846.3,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -308,27 +344,18 @@
    "q": false
   },
   {
+   "c": 511,
+   "d": "JAMON 4 CONDES BOLON",
+   "p": 7382.12,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 525,
    "d": "LONGANIZA BASTON BIERZO",
    "p": 18458.09,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 528,
-   "d": "SALAMIN PICADO GRUESO BIERZO",
-   "p": 15590.6,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 646,
-   "d": "LONGANIZA BASTON 214",
-   "p": 10700.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -347,15 +374,6 @@
    "c": 819,
    "d": "LOMO DE CERDO AHUMADO BIERZO",
    "p": 13048.53,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 871,
-   "d": "LONGANIZA CALABRESA EL BIERZO",
-   "p": 15398.45,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -392,15 +410,6 @@
    "c": 973,
    "d": "PALETA DE CERDO CABAÑA DON TOMAS",
    "p": 3654.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 994,
-   "d": "SALAMIN CASERO",
-   "p": 10000.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -500,24 +509,6 @@
    "c": 1148,
    "d": "CREMOSO PILAR DEL NORTE",
    "p": 6300.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1181,
-   "d": "JAMON 4 CONDES BOLON MINI",
-   "p": 7382.12,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1223,
-   "d": "SARDO LAS VARAS",
-   "p": 9460.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -938,18 +929,9 @@
    "q": false
   },
   {
-   "c": 267,
-   "d": "BAGGIO NARANJA X1L",
-   "p": 1553.75,
-   "b": 8,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 268,
    "d": "AGUA VILLAMANAOS X2L PACK X 6",
-   "p": 3410.0,
+   "p": 3465.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1037,15 +1019,6 @@
    "q": false
   },
   {
-   "c": 977,
-   "d": "AGUA MANAOS BIDON X6LT",
-   "p": 1754.8,
-   "b": null,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1022,
    "d": "PLACER 1.5 POMELO ROSADO",
    "p": 5450.0,
@@ -1077,6 +1050,33 @@
    "d": "JABON ALA MATIC X800ML",
    "p": 2399.94,
    "b": 12,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1269,
+   "d": "GILLETTE VENUS",
+   "p": 1552.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1272,
+   "d": "BOLSAS CONSORCIO 50X70",
+   "p": 520.0,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1273,
+   "d": "BOLSAS CONSORCIO 60X90",
+   "p": 1035.0,
+   "b": null,
    "cat": "Limpieza",
    "s": true,
    "q": false
@@ -1208,11 +1208,29 @@
    "q": false
   },
   {
-   "c": 148,
-   "d": "VINO VIÑAS DE ALVEAR CLASICO TINTO 1.125ML",
-   "p": 12650.0,
+   "c": 1270,
+   "d": "CAJON DE HUEVOS ORIGINAL GRANDE",
+   "p": 50000.0,
    "b": null,
-   "cat": "Vinos",
+   "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1271,
+   "d": "CAJON DE HUEVOS ORIGINAL MEDIANO",
+   "p": 48000.0,
+   "b": null,
+   "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1274,
+   "d": "BOLSAS CONSORCIO 80X110",
+   "p": 1840.0,
+   "b": null,
+   "cat": "Varios",
    "s": true,
    "q": false
   },
@@ -1352,6 +1370,15 @@
    "q": false
   },
   {
+   "c": 258,
+   "d": "FERNET BRANCA 750ML",
+   "p": 16170.0,
+   "b": 12,
+   "cat": "Aperitivos / bebidas con alcohol",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 726,
    "d": "VODKA SKYY COSMIC X750 ML",
    "p": 9000.0,
@@ -1455,15 +1482,6 @@
    "d": "MEDALLON BARFY X4",
    "p": 2768.7,
    "b": 24,
-   "cat": "Congelados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 568,
-   "d": "CAJA DE HAMBURGUESAS KANDY X 40 X 110GR.",
-   "p": 19291.6,
-   "b": null,
    "cat": "Congelados",
    "s": true,
    "q": false
@@ -1811,6 +1829,15 @@
    "q": false
   },
   {
+   "c": 1265,
+   "d": "ENCENDEDOR CANCUN X50",
+   "p": 12500.0,
+   "b": null,
+   "cat": "Alfajores",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1894,6 +1921,33 @@
   {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
+   "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 806,
+   "d": "MANAOS NARANJA X2.25 X6",
+   "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 807,
+   "d": "MANAOS POMELO BLANCO X2.25 X6",
+   "p": 7649.99,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 816,
+   "d": "MANAOS LIMA LIMON 2.25 X6",
    "p": 7649.99,
    "b": null,
    "cat": "Manaos",
@@ -2171,15 +2225,6 @@
    "q": false
   },
   {
-   "c": 666,
-   "d": "PAN DULCE BENJAMIN S/FRUTA 400 GR.",
-   "p": 2034.99,
-   "b": 8,
-   "cat": "Panificados",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 889,
    "d": "PAN LACTAL SALVADO NEVARES",
    "p": 1460.0,
@@ -2220,6 +2265,33 @@
    "d": "PAN DULCE NEVARES CON FRUTA X500GR",
    "p": 2350.0,
    "b": 10,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1266,
+   "d": "PAN RALLADO BRAGADO X400GR",
+   "p": 770.5,
+   "b": 10,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1267,
+   "d": "PAN RALLADO LLENITA X5KG",
+   "p": 7705.0,
+   "b": null,
+   "cat": "Panificados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1268,
+   "d": "REBOZADOR LLENITA X5KG",
+   "p": 7935.0,
+   "b": null,
    "cat": "Panificados",
    "s": true,
    "q": false
@@ -2639,15 +2711,6 @@
    "q": false
   },
   {
-   "c": 907,
-   "d": "CALDO CENTURION VERDURAS X12 CUBOS",
-   "p": 1290.2,
-   "b": null,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1154,
    "d": "SAL FINA MAROLIO X500G",
    "p": 714.89,
@@ -2891,6 +2954,24 @@
    "q": false
   },
   {
+   "c": 1207,
+   "d": "EXTRACTO DE VAINILLA 100CC AROMAS & SAB",
+   "p": 666.54,
+   "b": 36,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1208,
+   "d": "EXTRACTO DE VAINILLA 1LT AROMAS & SAB",
+   "p": 2254.0,
+   "b": null,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1209,
    "d": "PASAS DE UVA SULTANINA 50G AROMAS & SAB",
    "p": 814.2,
@@ -2909,8 +2990,35 @@
    "q": false
   },
   {
+   "c": 1211,
+   "d": "SAL PARRILLERA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1213,
    "d": "SAL AMERICANA 250G AROMAS 6 SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1214,
+   "d": "SAL CON PIMIENTA 250G AROMAS & SAB",
+   "p": 2110.0,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1216,
+   "d": "SAL FINAS HIERBAS 250G AROMAS & SAB",
    "p": 2110.0,
    "b": 12,
    "cat": "Condimentos / saborizantes",
@@ -3188,6 +3296,15 @@
    "q": false
   },
   {
+   "c": 465,
+   "d": "LECHE LS SACHET N3 X 1 L.",
+   "p": 1767.39,
+   "b": null,
+   "cat": "Leches",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 584,
    "d": "LECHE LS BOTELLA PROTEIN",
    "p": 2121.15,
@@ -3227,15 +3344,6 @@
    "c": 752,
    "d": "LECHE CHOCOLATADA CINDOR X1L",
    "p": 4751.85,
-   "b": 12,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 947,
-   "d": "LECHE CENTRAL LECHERA X1LT",
-   "p": 1264.22,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -3476,15 +3584,6 @@
    "q": false
   },
   {
-   "c": 878,
-   "d": "RED POINT SIX X20",
-   "p": 18662.4,
-   "b": null,
-   "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 933,
    "d": "RED POINT ON X10 (MENTOLADO)",
    "p": 10368.0,
@@ -3701,15 +3800,6 @@
    "q": false
   },
   {
-   "c": 1110,
-   "d": "KRACHITOS JAMON X90G",
-   "p": 1797.76,
-   "b": 16,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1111,
    "d": "KRACHITOS PAPAS PAY X150G",
    "p": 2495.17,
@@ -3827,6 +3917,15 @@
    "q": false
   },
   {
+   "c": 47,
+   "d": "MANTECA SYS X100 GRS",
+   "p": 935.0,
+   "b": 60,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 48,
    "d": "MANTECA SERENISIMA X 200GRS",
    "p": 3354.4,
@@ -3872,8 +3971,17 @@
    "q": false
   },
   {
+   "c": 218,
+   "d": "DULCE DE MEMBRILLO CAYFAR LATA X 5KG",
+   "p": 14330.8,
+   "b": null,
+   "cat": "Dulces / mermeladas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 219,
-   "d": "DULCE DE BATATA C/ CHOCOLATE \"CAYFAR\" LATA X5KG",
+   "d": "DULCE DE BATATA C/ CHOCO CAYFAR LATA X5KG",
    "p": 13243.34,
    "b": null,
    "cat": "Dulces / mermeladas",
@@ -3882,7 +3990,7 @@
   },
   {
    "c": 221,
-   "d": "DULCE DE BATATA \"CAYFAR\" LATA X 5KG",
+   "d": "DULCE DE BATATA CAYFAR LATA X 5KG",
    "p": 13243.34,
    "b": null,
    "cat": "Dulces / mermeladas",
@@ -3930,15 +4038,6 @@
    "d": "ARVEJAS MOLTO X 340G",
    "p": 650.0,
    "b": 24,
-   "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 717,
-   "d": "DURAZNO EN MITADES MOLTO X 820GR",
-   "p": 2609.35,
-   "b": 12,
    "cat": "Conservas",
    "s": true,
    "q": false
@@ -4155,15 +4254,6 @@
    "d": "SOL PAMPEANO MOÑO X500G",
    "p": 1139.08,
    "b": 15,
-   "cat": "Fideos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 313,
-   "d": "MONTE LIRIO AL HUEVO N3 NIDO",
-   "p": 1926.4,
-   "b": 10,
    "cat": "Fideos",
    "s": true,
    "q": false
