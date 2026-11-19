@@ -823,8 +823,17 @@
   {
    "c": 1133,
    "d": "PEPAS TOCOÑATO X1KG",
-   "p": 2493.92,
+   "p": 2450.0,
    "b": 5,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1134,
+   "d": "PEPAS TOCOÑATO X400GR",
+   "p": 1060.0,
+   "b": 12,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -832,7 +841,7 @@
   {
    "c": 1135,
    "d": "PEPAS TOCOÑATO X200GR",
-   "p": 574.05,
+   "p": 600.14,
    "b": 24,
    "cat": "Galletitas",
    "s": true,
@@ -859,7 +868,7 @@
   {
    "c": 1177,
    "d": "GALL ESTRELLITAS X400GR",
-   "p": 1108.1,
+   "p": 1220.0,
    "b": 12,
    "cat": "Galletitas",
    "s": true,
@@ -868,7 +877,7 @@
   {
    "c": 1178,
    "d": "GALLE TONITAS X400GR",
-   "p": 1108.1,
+   "p": 1220.0,
    "b": 12,
    "cat": "Galletitas",
    "s": true,
@@ -897,6 +906,15 @@
    "d": "GALL DON CARONTE CRACKERS X3 300G",
    "p": 1104.0,
    "b": 16,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1276,
+   "d": "PEPAS TOCOÑATO CHIPS X400GR",
+   "p": 1300.0,
+   "b": 12,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -1022,6 +1040,15 @@
    "c": 836,
    "d": "PLACER 1.5 MULTIFRUTA",
    "p": 5450.0,
+   "b": null,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 977,
+   "d": "AGUA MANAOS BIDON X6LT",
+   "p": 1754.8,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1847,15 +1874,6 @@
    "q": false
   },
   {
-   "c": 81,
-   "d": "JUGO TANG MANZANA",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 832,
    "d": "JUGO TANG NARANJA",
    "p": 6420.0,
@@ -1957,7 +1975,16 @@
   {
    "c": 854,
    "d": "SODA MANAOS X6",
-   "p": 7102.0,
+   "p": 7263.68,
+   "b": null,
+   "cat": "Manaos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 861,
+   "d": "MANAOS MANZANA 2.25 X6",
+   "p": 7499.9,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -3602,15 +3629,6 @@
    "q": false
   },
   {
-   "c": 485,
-   "d": "RED POINT ON X20 (MENTOLADO)",
-   "p": 18662.4,
-   "b": null,
-   "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 933,
    "d": "RED POINT ON X10 (MENTOLADO)",
    "p": 10368.0,
@@ -3840,15 +3858,6 @@
    "d": "KRACHITOS MANI PELADO SALADO X280G",
    "p": 4327.07,
    "b": 15,
-   "cat": "Snacks",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1137,
-   "d": "KRACHITOS PAPAS CT X275G",
-   "p": 4438.16,
-   "b": 10,
    "cat": "Snacks",
    "s": true,
    "q": false
@@ -4235,6 +4244,15 @@
    "c": 1253,
    "d": "SPEED XL ZERO X12",
    "p": 25885.44,
+   "b": null,
+   "cat": "Bebidas energizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1275,
+   "d": "SPEED XL TROPICAL X24",
+   "p": 51770.88,
    "b": null,
    "cat": "Bebidas energizantes",
    "s": true,
