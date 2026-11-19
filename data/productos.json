@@ -1,5 +1,5 @@
 {
- "fecha": "18/11/2026",
+ "fecha": "19/11/2026",
  "productos": [
   {
    "c": 176,
@@ -94,7 +94,7 @@
   {
    "c": 1242,
    "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 26500.0,
+   "p": 26100.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -103,7 +103,7 @@
   {
    "c": 1243,
    "d": "CERVEZA PALERMO CAJON 1 L",
-   "p": 26500.0,
+   "p": 25800.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -227,15 +227,6 @@
    "q": false
   },
   {
-   "c": 120,
-   "d": "MATAMBRE DE CARNE X KG",
-   "p": 9350.0,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 123,
    "d": "JAMON NATURAL",
    "p": 9273.69,
@@ -292,7 +283,7 @@
   {
    "c": 421,
    "d": "QUESO CREMOSO PUNTA DE AGUA XKG.",
-   "p": 8500.0,
+   "p": 8200.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -319,7 +310,7 @@
   {
    "c": 492,
    "d": "JAMON 4 CONDES",
-   "p": 7262.05,
+   "p": 6980.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -346,7 +337,7 @@
   {
    "c": 511,
    "d": "JAMON 4 CONDES BOLON",
-   "p": 7382.12,
+   "p": 7260.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -517,7 +508,7 @@
   {
    "c": 1225,
    "d": "CREMOSO SANCARLINA",
-   "p": 6200.0,
+   "p": 5999.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -564,6 +555,15 @@
    "d": "PEPAS TRICHOC TRIO X500GRS",
    "p": 1749.0,
    "b": 10,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 334,
+   "d": "MEDIA TARDE CLASICA X3",
+   "p": 1428.9,
+   "b": 14,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -726,6 +726,15 @@
    "d": "GALLE PARNOR FRUTOS DEL BOSQUE",
    "p": 739.52,
    "b": 30,
+   "cat": "Galletitas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 894,
+   "d": "GALLE SURTIDAS BAGLEY 400GR",
+   "p": 2517.91,
+   "b": 21,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -940,7 +949,7 @@
   {
    "c": 276,
    "d": "PLACER 1.5 MANZANA",
-   "p": 5450.0,
+   "p": 5390.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -949,7 +958,7 @@
   {
    "c": 277,
    "d": "PLACER 1.5 ANANA",
-   "p": 5450.0,
+   "p": 5390.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -958,7 +967,7 @@
   {
    "c": 280,
    "d": "PLACER 1.5 PERA",
-   "p": 5450.0,
+   "p": 5390.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -967,7 +976,7 @@
   {
    "c": 282,
    "d": "PLACER 1.5 POMELO",
-   "p": 5450.0,
+   "p": 5390.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1021,7 +1030,7 @@
   {
    "c": 1022,
    "d": "PLACER 1.5 POMELO ROSADO",
-   "p": 5450.0,
+   "p": 5390.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1163,15 +1172,6 @@
    "q": false
   },
   {
-   "c": 841,
-   "d": "CLERICO FIZZ ORO DULCE",
-   "p": 15340.0,
-   "b": 6,
-   "cat": "Sidras",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 50,
    "d": "LEVADURA CALSA CUBITOS CAJA X 20",
    "p": 11217.58,
@@ -1203,6 +1203,15 @@
    "d": "GRASA ESANI PORCINA X500GR",
    "p": 2200.0,
    "b": 10,
+   "cat": "Varios",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1265,
+   "d": "ENCENDEDOR CANCUN X50",
+   "p": 12500.0,
+   "b": null,
    "cat": "Varios",
    "s": true,
    "q": false
@@ -1829,15 +1838,6 @@
    "q": false
   },
   {
-   "c": 1265,
-   "d": "ENCENDEDOR CANCUN X50",
-   "p": 12500.0,
-   "b": null,
-   "cat": "Alfajores",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
    "p": 6420.0,
@@ -1921,7 +1921,7 @@
   {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 7649.99,
+   "p": 7500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1930,7 +1930,7 @@
   {
    "c": 806,
    "d": "MANAOS NARANJA X2.25 X6",
-   "p": 7649.99,
+   "p": 7500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1939,7 +1939,7 @@
   {
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 7649.99,
+   "p": 7500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1948,7 +1948,7 @@
   {
    "c": 816,
    "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 7649.99,
+   "p": 7500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1966,7 +1966,7 @@
   {
    "c": 892,
    "d": "MANAOS POMELO ROSADO X2.25 X6",
-   "p": 7649.99,
+   "p": 7500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2137,7 +2137,7 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1890.0,
+   "p": 1849.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2182,7 +2182,7 @@
   {
    "c": 965,
    "d": "AZUCAR CAMPECHANA X1KG",
-   "p": 956.36,
+   "p": 900.0,
    "b": null,
    "cat": "Azúcar / endulzantes",
    "s": true,
@@ -3224,6 +3224,33 @@
    "q": false
   },
   {
+   "c": 1098,
+   "d": "UNTABLE TREMBLAY CLAS X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1099,
+   "d": "UNTABLE TREMBLAY POR SALUT X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1100,
+   "d": "UNTABLE TREMBLAY JAMON X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1145,
    "d": "UNTABLE TREMBLAY SALAME X180G",
    "p": 1802.79,
@@ -3233,9 +3260,18 @@
    "q": false
   },
   {
+   "c": 1147,
+   "d": "UNTABLE TREMBLAY CHEDDAR X180G",
+   "p": 1802.79,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1767.39,
+   "p": 1750.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3298,7 +3334,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1767.39,
+   "p": 1750.0,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3505,15 +3541,6 @@
   {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2110.99,
-   "b": 20,
-   "cat": "Yogures",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 643,
-   "d": "YOG LS BEBIBLE X900 FRUTILLA",
    "p": 2110.99,
    "b": 20,
    "cat": "Yogures",
@@ -3948,6 +3975,15 @@
    "d": "RICOTA GARCIA X500G",
    "p": 3680.11,
    "b": null,
+   "cat": "Cremas / mantecas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1091,
+   "d": "MANTECA TREMBLAY X100G",
+   "p": 1436.4,
+   "b": 20,
    "cat": "Cremas / mantecas",
    "s": true,
    "q": false
