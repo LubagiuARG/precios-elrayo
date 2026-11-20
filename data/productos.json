@@ -1,10 +1,10 @@
 {
- "fecha": "19/11/2026",
+ "fecha": "20/11/2026",
  "productos": [
   {
    "c": 176,
    "d": "ARROZ ALA LARGO FINO X1KG",
-   "p": 1309.0,
+   "p": 1441.0,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -13,7 +13,7 @@
   {
    "c": 177,
    "d": "ARROZ ALA LARGO FINO X500GRS",
-   "p": 726.0,
+   "p": 797.5,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -22,7 +22,7 @@
   {
    "c": 1163,
    "d": "ARROZ ALA DORADO X500GR",
-   "p": 739.2,
+   "p": 914.82,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -31,7 +31,7 @@
   {
    "c": 1248,
    "d": "ARROZ ALA DORADO X1KG",
-   "p": 1332.8,
+   "p": 1624.0,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -94,7 +94,7 @@
   {
    "c": 1242,
    "d": "CERVEZA IGUANA CAJON 1 L",
-   "p": 26100.0,
+   "p": 26500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -103,7 +103,7 @@
   {
    "c": 1243,
    "d": "CERVEZA PALERMO CAJON 1 L",
-   "p": 25800.0,
+   "p": 26500.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -283,7 +283,7 @@
   {
    "c": 421,
    "d": "QUESO CREMOSO PUNTA DE AGUA XKG.",
-   "p": 8200.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -310,7 +310,7 @@
   {
    "c": 492,
    "d": "JAMON 4 CONDES",
-   "p": 6980.0,
+   "p": 7262.65,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -337,7 +337,7 @@
   {
    "c": 511,
    "d": "JAMON 4 CONDES BOLON",
-   "p": 7260.0,
+   "p": 7382.12,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -508,7 +508,7 @@
   {
    "c": 1225,
    "d": "CREMOSO SANCARLINA",
-   "p": 5999.0,
+   "p": 6200.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -949,7 +949,25 @@
   {
    "c": 262,
    "d": "BAGGIO MULTIFRUTA X 1L",
-   "p": 1553.75,
+   "p": 1622.5,
+   "b": 8,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 265,
+   "d": "BAGGIO MANZANA X1L",
+   "p": 1622.5,
+   "b": 8,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 267,
+   "d": "BAGGIO NARANJA X1L",
+   "p": 1622.5,
    "b": 8,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -967,7 +985,7 @@
   {
    "c": 276,
    "d": "PLACER 1.5 MANZANA",
-   "p": 5390.0,
+   "p": 5450.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -976,7 +994,7 @@
   {
    "c": 277,
    "d": "PLACER 1.5 ANANA",
-   "p": 5390.0,
+   "p": 5450.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -985,7 +1003,7 @@
   {
    "c": 280,
    "d": "PLACER 1.5 PERA",
-   "p": 5390.0,
+   "p": 5450.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -994,8 +1012,17 @@
   {
    "c": 282,
    "d": "PLACER 1.5 POMELO",
-   "p": 5390.0,
+   "p": 5450.0,
    "b": null,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 493,
+   "d": "BAGGIO X 200ML MULTIFRUTA",
+   "p": 480.34,
+   "b": 18,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
    "q": false
@@ -1046,6 +1073,15 @@
    "q": false
   },
   {
+   "c": 881,
+   "d": "BAGGIO X 200ML MANZANA",
+   "p": 480.34,
+   "b": 18,
+   "cat": "Jugos / aguas saborizadas",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 977,
    "d": "AGUA MANAOS BIDON X6LT",
    "p": 1754.8,
@@ -1057,7 +1093,7 @@
   {
    "c": 1022,
    "d": "PLACER 1.5 POMELO ROSADO",
-   "p": 5390.0,
+   "p": 5450.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1298,6 +1334,15 @@
    "q": false
   },
   {
+   "c": 260,
+   "d": "VINO VIÑAS DE BALBO TINTO 6X1.125ML",
+   "p": 13200.0,
+   "b": null,
+   "cat": "Vinos",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 580,
    "d": "VINO FAMILIA GASCON MALBEC X6",
    "p": 26400.0,
@@ -1415,6 +1460,24 @@
    "q": false
   },
   {
+   "c": 451,
+   "d": "FRIZZE EVOL BLUE X6",
+   "p": 12650.0,
+   "b": null,
+   "cat": "Aperitivos / bebidas con alcohol",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 452,
+   "d": "FRIZZE MAN-GO PARTY X6",
+   "p": 12650.0,
+   "b": null,
+   "cat": "Aperitivos / bebidas con alcohol",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 726,
    "d": "VODKA SKYY COSMIC X750 ML",
    "p": 9000.0,
@@ -1436,6 +1499,15 @@
    "c": 869,
    "d": "FERNANDITO DOBLE X6",
    "p": 5301.96,
+   "b": null,
+   "cat": "Aperitivos / bebidas con alcohol",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 901,
+   "d": "PETACAS CRIADORES WHISKY X12",
+   "p": 22176.0,
    "b": null,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1496,6 +1568,15 @@
    "q": false
   },
   {
+   "c": 1277,
+   "d": "FRIZZE MANZANA POP X6",
+   "p": 12650.0,
+   "b": null,
+   "cat": "Aperitivos / bebidas con alcohol",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 444,
    "d": "PATY EXPRESS X4",
    "p": 4156.9,
@@ -1518,6 +1599,15 @@
    "d": "MEDALLON BARFY X4",
    "p": 2768.7,
    "b": 24,
+   "cat": "Congelados",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 568,
+   "d": "CAJA DE HAMBURGUESAS KANDY X 40 X 110GR.",
+   "p": 19291.6,
+   "b": null,
    "cat": "Congelados",
    "s": true,
    "q": false
@@ -1883,15 +1973,6 @@
    "q": false
   },
   {
-   "c": 838,
-   "d": "JUGO TANG NARANJA DULCE",
-   "p": 6420.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 842,
    "d": "JUGO TANG FRUTILLA",
    "p": 6420.0,
@@ -1939,7 +2020,7 @@
   {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 7500.0,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1948,7 +2029,7 @@
   {
    "c": 806,
    "d": "MANAOS NARANJA X2.25 X6",
-   "p": 7500.0,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1957,7 +2038,7 @@
   {
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 7500.0,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1966,7 +2047,7 @@
   {
    "c": 816,
    "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 7500.0,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1984,7 +2065,7 @@
   {
    "c": 861,
    "d": "MANAOS MANZANA 2.25 X6",
-   "p": 7499.9,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -1993,7 +2074,7 @@
   {
    "c": 892,
    "d": "MANAOS POMELO ROSADO X2.25 X6",
-   "p": 7500.0,
+   "p": 8150.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2076,6 +2157,15 @@
    "d": "HARINA BURZACO 0000 1KG",
    "p": 836.52,
    "b": 10,
+   "cat": "Harinas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 813,
+   "d": "HARINA MORIXE 000",
+   "p": 803.0,
+   "b": null,
    "cat": "Harinas",
    "s": true,
    "q": false
@@ -2164,7 +2254,7 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1849.99,
+   "p": 2000.0,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2207,9 +2297,18 @@
    "q": false
   },
   {
+   "c": 647,
+   "d": "AZUCAR FINCA EL LAZO",
+   "p": 929.99,
+   "b": 10,
+   "cat": "Azúcar / endulzantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 965,
    "d": "AZUCAR CAMPECHANA X1KG",
-   "p": 900.0,
+   "p": 956.36,
    "b": null,
    "cat": "Azúcar / endulzantes",
    "s": true,
@@ -2369,6 +2468,15 @@
    "q": false
   },
   {
+   "c": 187,
+   "d": "YERBA CBSE LIMON X500 GRS",
+   "p": 1551.5,
+   "b": null,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 189,
    "d": "YERBA TARAGUI X 500GRS",
    "p": 1758.9,
@@ -2400,6 +2508,15 @@
    "d": "YERBA AMANDA X 500 GR.",
    "p": 1579.99,
    "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 824,
+   "d": "YERBA CBSE NARANJA",
+   "p": 1551.5,
+   "b": null,
    "cat": "Infusiones",
    "s": true,
    "q": false
@@ -3298,7 +3415,7 @@
   {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1750.0,
+   "p": 1767.39,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3361,7 +3478,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1750.0,
+   "p": 1767.39,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3623,6 +3740,24 @@
    "c": 380,
    "d": "RED POINT BOX X10",
    "p": 9504.8,
+   "b": null,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 382,
+   "d": "MASTER COMUN",
+   "p": 12772.0,
+   "b": 20,
+   "cat": "Cigarrillos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 485,
+   "d": "RED POINT ON X20 (MENTOLADO)",
+   "p": 18662.4,
    "b": null,
    "cat": "Cigarrillos",
    "s": true,
@@ -4061,15 +4196,6 @@
    "q": false
   },
   {
-   "c": 215,
-   "d": "PURE DE TOMATE MAROLIO X520G",
-   "p": 665.5,
-   "b": 24,
-   "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 217,
    "d": "PURE DE TOMATE MOLTO X 520GRS",
    "p": 714.99,
@@ -4181,15 +4307,6 @@
    "c": 498,
    "d": "RAVIOLES DILEGNO POLLO Y VERDURA 1KG",
    "p": 3300.0,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 499,
-   "d": "ÑOQUIS DE PAPA DILEGNO X 800GR",
-   "p": 3210.0,
    "b": null,
    "cat": "Frescos",
    "s": true,
