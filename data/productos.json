@@ -1253,15 +1253,6 @@
    "q": false
   },
   {
-   "c": 905,
-   "d": "ENCENDEDORES TOKYO X50",
-   "p": 12500.0,
-   "b": null,
-   "cat": "Varios",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1264,
    "d": "GRASA ESANI PORCINA X500GR",
    "p": 2200.0,
@@ -2020,7 +2011,7 @@
   {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2029,7 +2020,7 @@
   {
    "c": 806,
    "d": "MANAOS NARANJA X2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2038,7 +2029,7 @@
   {
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2047,7 +2038,7 @@
   {
    "c": 816,
    "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2056,7 +2047,7 @@
   {
    "c": 854,
    "d": "SODA MANAOS X6",
-   "p": 7263.68,
+   "p": 7830.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2065,7 +2056,7 @@
   {
    "c": 861,
    "d": "MANAOS MANZANA 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2074,7 +2065,7 @@
   {
    "c": 892,
    "d": "MANAOS POMELO ROSADO X2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -3323,15 +3314,6 @@
    "q": false
   },
   {
-   "c": 17,
-   "d": "FINLANDIA LIGHT X180G",
-   "p": 2550.0,
-   "b": 12,
-   "cat": "Quesos untables",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4484.69,
@@ -4368,8 +4350,8 @@
   },
   {
    "c": 1275,
-   "d": "SPEED XL TROPICAL X24",
-   "p": 51770.88,
+   "d": "SPEED XL TROPICAL X6",
+   "p": 12950.0,
    "b": null,
    "cat": "Bebidas energizantes",
    "s": true,
