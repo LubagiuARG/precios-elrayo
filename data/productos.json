@@ -1,5 +1,5 @@
 {
- "fecha": "20/11/2026",
+ "fecha": "21/11/2026",
  "productos": [
   {
    "c": 176,
@@ -544,7 +544,7 @@
   {
    "c": 291,
    "d": "PEPAS TRIO X500GRS",
-   "p": 1627.99,
+   "p": 1666.39,
    "b": 10,
    "cat": "Galletitas",
    "s": true,
@@ -553,7 +553,7 @@
   {
    "c": 294,
    "d": "PEPAS TRICHOC TRIO X500GRS",
-   "p": 1749.0,
+   "p": 1797.82,
    "b": 10,
    "cat": "Galletitas",
    "s": true,
@@ -2000,15 +2000,6 @@
    "q": false
   },
   {
-   "c": 658,
-   "d": "COCA COLA 2.25ML X8",
-   "p": 31350.0,
-   "b": null,
-   "cat": "Línea Coca-Cola",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
    "p": 8500.0,
@@ -2245,7 +2236,7 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 2000.0,
+   "p": 1999.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2254,7 +2245,7 @@
   {
    "c": 648,
    "d": "ACEITE GIRASOL FINCA EL LAZO X 1.5L",
-   "p": 3622.6,
+   "p": 3799.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -3755,15 +3746,6 @@
    "q": false
   },
   {
-   "c": 1070,
-   "d": "RED POINT SIX X10",
-   "p": 10368.0,
-   "b": null,
-   "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1105,
    "d": "RED POINT DUO X20",
    "p": 18662.4,
@@ -4317,15 +4299,6 @@
    "d": "SALCHICHAS WELTY X6",
    "p": 891.25,
    "b": 24,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1161,
-   "d": "TAPAS EMPANADA ROTISERA X12 DOÑA GRINGA",
-   "p": 1419.0,
-   "b": null,
    "cat": "Frescos",
    "s": true,
    "q": false
