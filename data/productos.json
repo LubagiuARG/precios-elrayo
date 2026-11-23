@@ -3440,6 +3440,15 @@
    "q": false
   },
   {
+   "c": 17,
+   "d": "FINLANDIA LIGHT X180G",
+   "p": 2550.0,
+   "b": 12,
+   "cat": "Quesos untables",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 19,
    "d": "CASANCREM ENTERO 290G",
    "p": 4484.69,
@@ -3512,18 +3521,18 @@
    "q": false
   },
   {
-   "c": 1147,
-   "d": "UNTABLE TREMBLAY CHEDDAR X180G",
-   "p": 1802.79,
-   "b": 12,
-   "cat": "Quesos untables",
+   "c": 27,
+   "d": "LECHE LS SACHET N1 X 1 L.",
+   "p": 1767.39,
+   "b": null,
+   "cat": "Leches",
    "s": true,
    "q": false
   },
   {
-   "c": 27,
-   "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1767.39,
+   "c": 28,
+   "d": "LECHE ARMONIA ENTERA 1L",
+   "p": 1667.14,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3791,6 +3800,15 @@
    "q": false
   },
   {
+   "c": 643,
+   "d": "YOG LS BEBIBLE X900 FRUTILLA",
+   "p": 2435.77,
+   "b": 20,
+   "cat": "Yogures",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 1095,
    "d": "YOG BEBIBLE TREMBLAY X900 VAINILLA",
    "p": 1750.0,
@@ -3877,15 +3895,6 @@
    "p": 18662.4,
    "b": null,
    "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 162,
-   "d": "KRACHITOS JAMON X300G",
-   "p": 5148.78,
-   "b": 10,
-   "cat": "Snacks",
    "s": true,
    "q": false
   },
@@ -4289,6 +4298,15 @@
    "c": 217,
    "d": "PURE DE TOMATE MOLTO X 520GRS",
    "p": 714.99,
+   "b": 24,
+   "cat": "Conservas",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 315,
+   "d": "ARVEJAS MOLTO X 340G",
+   "p": 650.0,
    "b": 24,
    "cat": "Conservas",
    "s": true,
