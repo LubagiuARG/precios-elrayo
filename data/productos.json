@@ -976,7 +976,7 @@
   {
    "c": 268,
    "d": "AGUA VILLAMANAOS X2L PACK X 6",
-   "p": 3465.0,
+   "p": 3811.5,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -985,7 +985,7 @@
   {
    "c": 276,
    "d": "PLACER 1.5 MANZANA",
-   "p": 5450.0,
+   "p": 5850.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -994,7 +994,7 @@
   {
    "c": 277,
    "d": "PLACER 1.5 ANANA",
-   "p": 5450.0,
+   "p": 5850.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1003,7 +1003,7 @@
   {
    "c": 280,
    "d": "PLACER 1.5 PERA",
-   "p": 5450.0,
+   "p": 5850.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1012,7 +1012,7 @@
   {
    "c": 282,
    "d": "PLACER 1.5 POMELO",
-   "p": 5450.0,
+   "p": 5850.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1030,7 +1030,7 @@
   {
    "c": 673,
    "d": "AGUA VILLA MANAOS X600ML X12",
-   "p": 3937.5,
+   "p": 4537.5,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1084,7 +1084,7 @@
   {
    "c": 977,
    "d": "AGUA MANAOS BIDON X6LT",
-   "p": 1754.8,
+   "p": 1984.4,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -1093,7 +1093,7 @@
   {
    "c": 1022,
    "d": "PLACER 1.5 POMELO ROSADO",
-   "p": 5450.0,
+   "p": 5850.0,
    "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
@@ -3530,15 +3530,6 @@
    "q": false
   },
   {
-   "c": 28,
-   "d": "LECHE ARMONIA ENTERA 1L",
-   "p": 1667.14,
-   "b": null,
-   "cat": "Leches",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
    "p": 1965.68,
@@ -4295,9 +4286,9 @@
    "q": false
   },
   {
-   "c": 315,
-   "d": "ARVEJAS MOLTO X 340G",
-   "p": 650.0,
+   "c": 217,
+   "d": "PURE DE TOMATE MOLTO X 520GRS",
+   "p": 714.99,
    "b": 24,
    "cat": "Conservas",
    "s": true,
