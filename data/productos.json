@@ -1,5 +1,5 @@
 {
- "fecha": "21/11/2026",
+ "fecha": "23/11/2026",
  "productos": [
   {
    "c": 176,
@@ -1498,7 +1498,7 @@
   {
    "c": 901,
    "d": "PETACAS CRIADORES WHISKY X12",
-   "p": 22176.0,
+   "p": 22440.0,
    "b": null,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1597,7 +1597,7 @@
   {
    "c": 568,
    "d": "CAJA DE HAMBURGUESAS KANDY X 40 X 110GR.",
-   "p": 19291.6,
+   "p": 20210.25,
    "b": null,
    "cat": "Congelados",
    "s": true,
@@ -2117,15 +2117,6 @@
    "q": false
   },
   {
-   "c": 184,
-   "d": "HARINA BURZACO 000 X1KG",
-   "p": 710.0,
-   "b": 10,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 289,
    "d": "REBOZADOR MAROLIO X500GR",
    "p": 715.1,
@@ -2184,15 +2175,6 @@
    "d": "HARINA MORIXE PIZZA X1KG",
    "p": 1373.9,
    "b": 10,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1244,
-   "d": "PAN RALLADO MOLTO X 500",
-   "p": 685.33,
-   "b": 12,
    "cat": "Harinas",
    "s": true,
    "q": false
@@ -4214,15 +4196,6 @@
    "q": false
   },
   {
-   "c": 33,
-   "d": "RAVIOLES DI LEGNO JAMON Y MUZZA X 1KG",
-   "p": 3300.0,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 34,
    "d": "SORRENTINOS DI LEGNO JAMON Y MUZZA X800GRS",
    "p": 3210.0,
@@ -4271,15 +4244,6 @@
    "c": 498,
    "d": "RAVIOLES DILEGNO POLLO Y VERDURA 1KG",
    "p": 3300.0,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 637,
-   "d": "TUBO ROTISERO X48 DOÑA GRINGA",
-   "p": 5390.0,
    "b": null,
    "cat": "Frescos",
    "s": true,
