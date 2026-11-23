@@ -220,7 +220,16 @@
   {
    "c": 119,
    "d": "MATAMBRE DE POLLO X KG",
-   "p": 9350.0,
+   "p": 9790.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 120,
+   "d": "MATAMBRE DE CARNE X KG",
+   "p": 9790.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -320,15 +329,6 @@
    "c": 509,
    "d": "QUESO ROQUEFORT LA QUESERA",
    "p": 14221.93,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 510,
-   "d": "PALETA DE CERDO 4 CONDES",
-   "p": 7039.46,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -1100,9 +1100,72 @@
    "q": false
   },
   {
+   "c": 343,
+   "d": "LYSOFORM AEROSOL ORIGINAL 285ML",
+   "p": 4000.0,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 424,
+   "d": "ESCOBILLON INTERIOR \"HOME KIT\"",
+   "p": 2748.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 425,
+   "d": "ESCOBILLON LINEA MORA \"HOME KIT\"",
+   "p": 2104.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 427,
+   "d": "ESCOBILLON CONGO \"HOME KIT\"",
+   "p": 1874.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 428,
+   "d": "ESCOBILLA INODORO WC ROLL CON VASO",
+   "p": 2755.4,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 429,
+   "d": "ESCOBA SOPHIA \"SAMANTHA\"",
+   "p": 4105.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 441,
+   "d": "ESCOBILLON \"DRAGON\" HOME KIT",
+   "p": 2067.7,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 865,
    "d": "CEPILLO DE MANO CEPY JEANS",
-   "p": 3500.0,
+   "p": 1368.5,
    "b": null,
    "cat": "Limpieza",
    "s": true,
@@ -1118,10 +1181,37 @@
    "q": false
   },
   {
-   "c": 1226,
-   "d": "JABON ALA MATIC X800ML",
-   "p": 2399.94,
-   "b": 12,
+   "c": 1227,
+   "d": "LYSOFORM 380 CC",
+   "p": 5500.0,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1229,
+   "d": "ESCOBILLON MAMBO",
+   "p": 1980.55,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1230,
+   "d": "SECADOR TWIN 43 DOBLE GOMA",
+   "p": 3433.9,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1252,
+   "d": "CEPILLO PLANCHINA",
+   "p": 1490.4,
+   "b": null,
    "cat": "Limpieza",
    "s": true,
    "q": false
@@ -1148,6 +1238,15 @@
    "c": 1273,
    "d": "BOLSAS CONSORCIO 60X90",
    "p": 1035.0,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1282,
+   "d": "SECADOR TWIN 34 DOBLE GOMA",
+   "p": 2817.5,
    "b": null,
    "cat": "Limpieza",
    "s": true,
@@ -1847,15 +1946,6 @@
    "q": false
   },
   {
-   "c": 198,
-   "d": "ALFAJOR GUAYMALLEN BLANCO X40U",
-   "p": 9500.0,
-   "b": null,
-   "cat": "Alfajores",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 659,
    "d": "ALFAJOR GUAYMALLEN NEGRO X40U",
    "p": 9500.0,
@@ -1946,9 +2036,54 @@
    "q": false
   },
   {
+   "c": 75,
+   "d": "JUGO TANG ANANA",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 77,
+   "d": "JUGO TANG LIMONADA DULCE",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 78,
+   "d": "JUGO TANG PERA",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 79,
    "d": "JUGO TANG NARANJA-BANANA",
-   "p": 6420.0,
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 80,
+   "d": "JUGO TANG MULTIFRUTA",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 81,
+   "d": "JUGO TANG MANZANA",
+   "p": 6900.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -1957,7 +2092,16 @@
   {
    "c": 832,
    "d": "JUGO TANG NARANJA",
-   "p": 6420.0,
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 838,
+   "d": "JUGO TANG NARANJA DULCE",
+   "p": 6900.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -1966,7 +2110,43 @@
   {
    "c": 842,
    "d": "JUGO TANG FRUTILLA",
-   "p": 6420.0,
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 995,
+   "d": "JUGO TANG NARANJA-DURAZNO",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1279,
+   "d": "JUGO TANG POMELO ROSADO",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1280,
+   "d": "JUGO TANG UVA",
+   "p": 6900.0,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1281,
+   "d": "JUGO TANG GALACTICO",
+   "p": 6900.0,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2113,15 +2293,6 @@
    "p": 1200.0,
    "b": 12,
    "cat": "Repelentes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 289,
-   "d": "REBOZADOR MAROLIO X500GR",
-   "p": 715.1,
-   "b": 12,
-   "cat": "Harinas",
    "s": true,
    "q": false
   },
@@ -2299,7 +2470,7 @@
   {
    "c": 567,
    "d": "PAN DE HAMBURGUESAS PANAZO X4",
-   "p": 1221.33,
+   "p": 1294.61,
    "b": null,
    "cat": "Panificados",
    "s": true,
@@ -2434,7 +2605,7 @@
   {
    "c": 187,
    "d": "YERBA CBSE LIMON X500 GRS",
-   "p": 1551.5,
+   "p": 1595.0,
    "b": null,
    "cat": "Infusiones",
    "s": true,
@@ -2479,7 +2650,7 @@
   {
    "c": 824,
    "d": "YERBA CBSE NARANJA",
-   "p": 1551.5,
+   "p": 1595.0,
    "b": null,
    "cat": "Infusiones",
    "s": true,
@@ -2499,15 +2670,6 @@
    "d": "TE MAROLIO X50UN",
    "p": 1149.89,
    "b": 5,
-   "cat": "Infusiones",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 936,
-   "d": "ENDULZANTE SI DIET X250",
-   "p": 1204.73,
-   "b": 6,
    "cat": "Infusiones",
    "s": true,
    "q": false
@@ -2938,15 +3100,6 @@
   {
    "c": 1193,
    "d": "PIMENTON AHUMADO 25G AROMAS & SAB",
-   "p": 397.11,
-   "b": 50,
-   "cat": "Condimentos / saborizantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1194,
-   "d": "PIMENTON DULCE 25G AROMAS & SABORES",
    "p": 397.11,
    "b": 50,
    "cat": "Condimentos / saborizantes",
@@ -4142,15 +4295,6 @@
    "q": false
   },
   {
-   "c": 217,
-   "d": "PURE DE TOMATE MOLTO X 520GRS",
-   "p": 714.99,
-   "b": 24,
-   "cat": "Conservas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 315,
    "d": "ARVEJAS MOLTO X 340G",
    "p": 650.0,
@@ -4261,7 +4405,7 @@
   {
    "c": 1136,
    "d": "SALCHICHAS WELTY X6",
-   "p": 891.25,
+   "p": 935.81,
    "b": 24,
    "cat": "Frescos",
    "s": true,
