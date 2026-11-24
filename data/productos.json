@@ -1,5 +1,5 @@
 {
- "fecha": "23/11/2026",
+ "fecha": "24/11/2026",
  "productos": [
   {
    "c": 176,
@@ -3793,7 +3793,7 @@
   {
    "c": 642,
    "d": "YOG LS BEBIBLE X900 VAINILLA",
-   "p": 2110.99,
+   "p": 2436.0,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -3802,7 +3802,7 @@
   {
    "c": 643,
    "d": "YOG LS BEBIBLE X900 FRUTILLA",
-   "p": 2435.77,
+   "p": 2436.0,
    "b": 20,
    "cat": "Yogures",
    "s": true,
@@ -4343,15 +4343,6 @@
    "c": 32,
    "d": "TAPA PASCUALINA DOÑA GRINGA",
    "p": 1149.98,
-   "b": null,
-   "cat": "Frescos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 34,
-   "d": "SORRENTINOS DI LEGNO JAMON Y MUZZA X800GRS",
-   "p": 3210.0,
    "b": null,
    "cat": "Frescos",
    "s": true,
