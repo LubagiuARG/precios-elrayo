@@ -1,5 +1,5 @@
 {
- "fecha": "24/11/2026",
+ "fecha": "25/11/2026",
  "productos": [
   {
    "c": 176,
@@ -191,15 +191,6 @@
    "q": false
   },
   {
-   "c": 111,
-   "d": "QUESO DE CERDO BIERZO",
-   "p": 4846.3,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 117,
    "d": "SALAMIN PICADO FINO BIERZO",
    "p": 17563.82,
@@ -335,9 +326,9 @@
    "q": false
   },
   {
-   "c": 511,
-   "d": "JAMON 4 CONDES BOLON",
-   "p": 7382.12,
+   "c": 510,
+   "d": "PALETA DE CERDO 4 CONDES",
+   "p": 7039.46,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -518,6 +509,15 @@
    "c": 1249,
    "d": "BARRA TYBO SANCARLINA",
    "p": 8195.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1283,
+   "d": "MORTADELA BOCHA RED 4 CONDE",
+   "p": 5577.91,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -2090,6 +2090,96 @@
    "q": false
   },
   {
+   "c": 82,
+   "d": "JUGO RINDE 2 DURAZNO X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 83,
+   "d": "JUGO RINDE 2 FRUTILLA X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 84,
+   "d": "JUGO RINDE 2 PERA X 10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 85,
+   "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 86,
+   "d": "JUGO RINDE 2 ANANA X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 87,
+   "d": "JUGO RINDE 2 MANZANA X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 88,
+   "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 90,
+   "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 91,
+   "d": "JUGO RINDE 2 NARANJA X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 540,
+   "d": "JUGO RINDE 2 LIMON X10 SOBRES",
+   "p": 4940.1,
+   "b": null,
+   "cat": "Jugos en sobres",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 832,
    "d": "JUGO TANG NARANJA",
    "p": 6900.0,
@@ -2453,7 +2543,7 @@
    "c": 965,
    "d": "AZUCAR CAMPECHANA X1KG",
    "p": 956.36,
-   "b": null,
+   "b": 10,
    "cat": "Azúcar / endulzantes",
    "s": true,
    "q": false
@@ -2594,6 +2684,15 @@
    "q": false
   },
   {
+   "c": 181,
+   "d": "YERBA UNION SUAVE X 500GRS",
+   "p": 2021.6,
+   "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 186,
    "d": "YERBA CBSE HIERBAS SERRANAS X500GRS",
    "p": 1595.0,
@@ -2623,7 +2722,7 @@
   {
    "c": 190,
    "d": "YERBA MAÑANITA X500GRS",
-   "p": 1758.9,
+   "p": 2022.89,
    "b": 10,
    "cat": "Infusiones",
    "s": true,
@@ -2632,7 +2731,7 @@
   {
    "c": 522,
    "d": "YERBA PLAYADITO X 500GR",
-   "p": 2139.89,
+   "p": 2150.05,
    "b": 10,
    "cat": "Infusiones",
    "s": true,
@@ -2657,9 +2756,36 @@
    "q": false
   },
   {
+   "c": 862,
+   "d": "MATE COCIDO MAROLIO X25U",
+   "p": 605.0,
+   "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 863,
+   "d": "TE MAROLIO X25U",
+   "p": 689.9,
+   "b": 10,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 924,
+   "d": "MATE COCIDO AMANDA X25U",
+   "p": 956.88,
+   "b": 12,
+   "cat": "Infusiones",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 925,
    "d": "MATE COCIDO LA TRANQUERA X25U",
-   "p": 850.88,
+   "p": 919.87,
    "b": 24,
    "cat": "Infusiones",
    "s": true,
@@ -3001,7 +3127,7 @@
   {
    "c": 1174,
    "d": "SAL FINA DOS ANCLAS X500",
-   "p": 1011.89,
+   "p": 1088.89,
    "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3359,6 +3485,51 @@
    "q": false
   },
   {
+   "c": 1284,
+   "d": "SAL FINA EL DIQUE 1KG",
+   "p": 1099.89,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1285,
+   "d": "SAL GRUESA EL DIQUE 1KG",
+   "p": 989.88,
+   "b": 10,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1286,
+   "d": "SAL GRUESA CELUSAL EST 1KG",
+   "p": 1869.88,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1287,
+   "d": "SAL FINA CELUSAL PAQ 1KG",
+   "p": 1539.89,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1288,
+   "d": "SAL FINA CELUSAL EST 1KG",
+   "p": 2089.88,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 223,
    "d": "MAYONESA NATURA X 125GRS CAJA X20",
    "p": 12399.99,
@@ -3426,6 +3597,15 @@
    "d": "KETCHUP NATURA X250",
    "p": 1428.9,
    "b": 12,
+   "cat": "Aderezos / condimentos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 728,
+   "d": "MAYONESA NATURA X1KG",
+   "p": 5719.89,
+   "b": 8,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
