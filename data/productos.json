@@ -1,5 +1,5 @@
 {
- "fecha": "26/11/2026",
+ "fecha": "27/11/2026",
  "productos": [
   {
    "c": 176,
@@ -22,7 +22,7 @@
   {
    "c": 1163,
    "d": "ARROZ ALA DORADO X500GR",
-   "p": 874.0,
+   "p": 914.82,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -31,7 +31,7 @@
   {
    "c": 1248,
    "d": "ARROZ ALA DORADO X1KG",
-   "p": 1550.0,
+   "p": 1624.0,
    "b": 10,
    "cat": "Arroz",
    "s": true,
@@ -40,7 +40,7 @@
   {
    "c": 235,
    "d": "CERVEZA BRAHMA LATA X24",
-   "p": 38478.0,
+   "p": 39900.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -56,27 +56,9 @@
    "q": false
   },
   {
-   "c": 1162,
-   "d": "CERVEZA BRAHMA CAJON BOTELLA 1 L",
-   "p": 35000.0,
-   "b": null,
-   "cat": "Cervezas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1239,
    "d": "CERVEZA LATA MOEMA 473ML X12",
-   "p": 13200.0,
-   "b": null,
-   "cat": "Cervezas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1240,
-   "d": "CERVEZA MILLER CAJON 1 L",
-   "p": 37000.0,
+   "p": 13494.0,
    "b": null,
    "cat": "Cervezas",
    "s": true,
@@ -148,7 +130,7 @@
   {
    "c": 105,
    "d": "SALAME MILAN BIERZO",
-   "p": 13800.0,
+   "p": 14152.15,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -202,7 +184,7 @@
   {
    "c": 119,
    "d": "MATAMBRE DE POLLO X KG",
-   "p": 9499.99,
+   "p": 9790.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -211,7 +193,7 @@
   {
    "c": 120,
    "d": "MATAMBRE DE CARNE X KG",
-   "p": 9499.99,
+   "p": 9790.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -274,7 +256,7 @@
   {
    "c": 421,
    "d": "QUESO CREMOSO PUNTA DE AGUA XKG.",
-   "p": 8200.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -301,7 +283,7 @@
   {
    "c": 492,
    "d": "JAMON 4 CONDES",
-   "p": 7100.0,
+   "p": 7262.65,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -319,7 +301,7 @@
   {
    "c": 510,
    "d": "PALETA DE CERDO 4 CONDES",
-   "p": 6900.0,
+   "p": 7039.46,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -337,7 +319,7 @@
   {
    "c": 660,
    "d": "SALAME MILAN 1154",
-   "p": 10800.0,
+   "p": 11214.93,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -391,7 +373,7 @@
   {
    "c": 1010,
    "d": "MUZZARELLA LA LEONA",
-   "p": 7400.0,
+   "p": 7810.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -490,7 +472,7 @@
   {
    "c": 1225,
    "d": "CREMOSO SANCARLINA",
-   "p": 6000.0,
+   "p": 6200.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -499,7 +481,7 @@
   {
    "c": 1249,
    "d": "BARRA TYBO SANCARLINA",
-   "p": 7999.0,
+   "p": 8195.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -508,7 +490,7 @@
   {
    "c": 1283,
    "d": "MORTADELA BOCHA RED 4 CONDE",
-   "p": 5400.0,
+   "p": 5577.91,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -571,15 +553,6 @@
   {
    "c": 372,
    "d": "GALLE PITUSAS FRUTILLA X160G",
-   "p": 849.74,
-   "b": 30,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 373,
-   "d": "GALLE PITUSAS CHOCOLATE X160G",
    "p": 849.74,
    "b": 30,
    "cat": "Galletitas",
@@ -733,7 +706,7 @@
   {
    "c": 1026,
    "d": "GALLE ARGENTITAS SADWICH X410G",
-   "p": 1399.99,
+   "p": 1483.21,
    "b": 12,
    "cat": "Galletitas",
    "s": true,
@@ -762,15 +735,6 @@
    "d": "GALLE DALE MARIA X3",
    "p": 1979.11,
    "b": 10,
-   "cat": "Galletitas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1039,
-   "d": "BIZCOCHOS 9 DE ORO CLASICO X200G",
-   "p": 996.3,
-   "b": 24,
    "cat": "Galletitas",
    "s": true,
    "q": false
@@ -868,7 +832,7 @@
   {
    "c": 1254,
    "d": "BIZCOCHO SALADO DON CARONTE 200G",
-   "p": 699.0,
+   "p": 717.6,
    "b": 25,
    "cat": "Galletitas",
    "s": true,
@@ -877,7 +841,7 @@
   {
    "c": 1255,
    "d": "BIZCOCHO AGRIDULCE DON CARONTE 200G",
-   "p": 699.0,
+   "p": 717.6,
    "b": 25,
    "cat": "Galletitas",
    "s": true,
@@ -886,7 +850,7 @@
   {
    "c": 1256,
    "d": "GALL DON CARONTE CRACKERS X3 300G",
-   "p": 1050.0,
+   "p": 1104.0,
    "b": 16,
    "cat": "Galletitas",
    "s": true,
@@ -1046,19 +1010,19 @@
    "q": false
   },
   {
-   "c": 836,
-   "d": "PLACER 1.5 MULTIFRUTA",
-   "p": 5450.0,
-   "b": null,
+   "c": 881,
+   "d": "BAGGIO X 200ML MANZANA",
+   "p": 480.34,
+   "b": 18,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
    "q": false
   },
   {
-   "c": 881,
-   "d": "BAGGIO X 200ML MANZANA",
-   "p": 480.34,
-   "b": 18,
+   "c": 977,
+   "d": "AGUA MANAOS BIDON X6LT",
+   "p": 1984.4,
+   "b": null,
    "cat": "Jugos / aguas saborizadas",
    "s": true,
    "q": false
@@ -1226,6 +1190,24 @@
    "q": false
   },
   {
+   "c": 1289,
+   "d": "GILLETE PRESTO TRES FILOS",
+   "p": 1552.5,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1290,
+   "d": "COLGATE FAMILIAR MX PROT X180GR",
+   "p": 2567.95,
+   "b": null,
+   "cat": "Limpieza",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 635,
    "d": "FAMILY COCINA ROSS 3X150",
    "p": 1245.6,
@@ -1354,7 +1336,7 @@
   {
    "c": 1271,
    "d": "CAJON DE HUEVOS ORIGINAL MEDIANO",
-   "p": 46000.0,
+   "p": 48000.0,
    "b": null,
    "cat": "Varios",
    "s": true,
@@ -1426,7 +1408,7 @@
   {
    "c": 661,
    "d": "VINO UVITA BLANCO DULCE X1L X12",
-   "p": 13900.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1442,18 +1424,9 @@
    "q": false
   },
   {
-   "c": 879,
-   "d": "VINO FAMILIA GASCON BLANCO DULCE X6",
-   "p": 17010.0,
-   "b": null,
-   "cat": "Vinos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 890,
    "d": "VINO UVITA BLANCO X1L X12",
-   "p": 13900.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1462,7 +1435,7 @@
   {
    "c": 891,
    "d": "VINO UVITA TINTO X1L X12",
-   "p": 13900.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1480,7 +1453,7 @@
   {
    "c": 1104,
    "d": "VINO UVITA TINTO DULCE X1L X12",
-   "p": 13900.0,
+   "p": 14500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1516,7 +1489,7 @@
   {
    "c": 258,
    "d": "FERNET BRANCA 750ML",
-   "p": 15200.0,
+   "p": 16170.0,
    "b": 12,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1525,7 +1498,7 @@
   {
    "c": 451,
    "d": "FRIZZE EVOL BLUE 1LT",
-   "p": 2050.0,
+   "p": 2112.0,
    "b": 6,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1534,7 +1507,7 @@
   {
    "c": 452,
    "d": "FRIZZE MAN-GO PARTY 1LT",
-   "p": 2050.0,
+   "p": 2112.0,
    "b": 6,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
@@ -1572,15 +1545,6 @@
    "d": "PETACAS CRIADORES WHISKY X12",
    "p": 22440.0,
    "b": null,
-   "cat": "Aperitivos / bebidas con alcohol",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 988,
-   "d": "PLATO VOLADOR CHICLE 750CC",
-   "p": 8100.0,
-   "b": 6,
    "cat": "Aperitivos / bebidas con alcohol",
    "s": true,
    "q": false
@@ -1633,18 +1597,9 @@
   {
    "c": 1277,
    "d": "FRIZZE MANZANA POP 1LT",
-   "p": 2050.0,
+   "p": 2112.0,
    "b": 6,
    "cat": "Aperitivos / bebidas con alcohol",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 444,
-   "d": "PATY EXPRESS X4",
-   "p": 4156.9,
-   "b": 24,
-   "cat": "Congelados",
    "s": true,
    "q": false
   },
@@ -1957,7 +1912,7 @@
   {
    "c": 1231,
    "d": "ALFAJOR RASTA NEGRO",
-   "p": 850.0,
+   "p": 950.0,
    "b": 18,
    "cat": "Alfajores",
    "s": true,
@@ -1966,7 +1921,7 @@
   {
    "c": 1232,
    "d": "ALFAJOR RASTA BLANCO",
-   "p": 850.0,
+   "p": 950.0,
    "b": 18,
    "cat": "Alfajores",
    "s": true,
@@ -2056,7 +2011,7 @@
   {
    "c": 82,
    "d": "JUGO RINDE 2 DURAZNO X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2065,7 +2020,7 @@
   {
    "c": 83,
    "d": "JUGO RINDE 2 FRUTILLA X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2074,7 +2029,7 @@
   {
    "c": 84,
    "d": "JUGO RINDE 2 PERA X 10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2083,7 +2038,7 @@
   {
    "c": 85,
    "d": "JUGO RINDE 2 MIX FRUTAL X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2092,7 +2047,7 @@
   {
    "c": 86,
    "d": "JUGO RINDE 2 ANANA X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2101,7 +2056,7 @@
   {
    "c": 87,
    "d": "JUGO RINDE 2 MANZANA X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2110,7 +2065,7 @@
   {
    "c": 88,
    "d": "JUGO RINDE 2 NAR-DUR X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2119,7 +2074,7 @@
   {
    "c": 90,
    "d": "JUGO RINDE 2 NAR-BAN X 10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2128,7 +2083,7 @@
   {
    "c": 91,
    "d": "JUGO RINDE 2 NARANJA X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2137,7 +2092,7 @@
   {
    "c": 540,
    "d": "JUGO RINDE 2 LIMON X10 SOBRES",
-   "p": 4699.99,
+   "p": 4940.1,
    "b": null,
    "cat": "Jugos en sobres",
    "s": true,
@@ -2234,9 +2189,18 @@
    "q": false
   },
   {
+   "c": 658,
+   "d": "COCA COLA 2.25ML X8",
+   "p": 33925.0,
+   "b": null,
+   "cat": "Línea Coca-Cola",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 483,
    "d": "MANAOS COLA 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2245,7 +2209,7 @@
   {
    "c": 806,
    "d": "MANAOS NARANJA X2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2254,7 +2218,7 @@
   {
    "c": 807,
    "d": "MANAOS POMELO BLANCO X2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2263,7 +2227,7 @@
   {
    "c": 816,
    "d": "MANAOS LIMA LIMON 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2281,7 +2245,7 @@
   {
    "c": 861,
    "d": "MANAOS MANZANA 2.25 X6",
-   "p": 8150.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2290,16 +2254,7 @@
   {
    "c": 892,
    "d": "MANAOS POMELO ROSADO X2.25 X6",
-   "p": 8150.0,
-   "b": null,
-   "cat": "Manaos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 981,
-   "d": "MANAOS COLA X600 X12",
-   "p": 6510.0,
+   "p": 8500.0,
    "b": null,
    "cat": "Manaos",
    "s": true,
@@ -2355,15 +2310,6 @@
    "d": "REBOZADOR MAROLIO X500GR",
    "p": 715.1,
    "b": 12,
-   "cat": "Harinas",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 477,
-   "d": "HARINA BURZACO 0000 1KG",
-   "p": 800.0,
-   "b": 10,
    "cat": "Harinas",
    "s": true,
    "q": false
@@ -2434,7 +2380,7 @@
   {
    "c": 1251,
    "d": "HARINA BURZACO 0000 X25KG",
-   "p": 19800.0,
+   "p": 20000.0,
    "b": null,
    "cat": "Harinas",
    "s": true,
@@ -2452,7 +2398,7 @@
   {
    "c": 645,
    "d": "ACEITE GIRASOL FINCA EL LAZO X850ML",
-   "p": 1910.0,
+   "p": 1999.99,
    "b": 12,
    "cat": "Aceites",
    "s": true,
@@ -2506,7 +2452,7 @@
   {
    "c": 965,
    "d": "AZUCAR CAMPECHANA X1KG",
-   "p": 920.0,
+   "p": 956.36,
    "b": 10,
    "cat": "Azúcar / endulzantes",
    "s": true,
@@ -2518,15 +2464,6 @@
    "p": 995.99,
    "b": 10,
    "cat": "Azúcar / endulzantes",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 271,
-   "d": "PAN LACTAL DE MESA BLANCO NEVARES",
-   "p": 1280.0,
-   "b": null,
-   "cat": "Panificados",
    "s": true,
    "q": false
   },
@@ -2686,7 +2623,7 @@
   {
    "c": 190,
    "d": "YERBA MAÑANITA X500GRS",
-   "p": 1710.0,
+   "p": 2022.89,
    "b": 10,
    "cat": "Infusiones",
    "s": true,
@@ -2695,7 +2632,7 @@
   {
    "c": 522,
    "d": "YERBA PLAYADITO X 500GR",
-   "p": 1950.0,
+   "p": 2150.05,
    "b": 10,
    "cat": "Infusiones",
    "s": true,
@@ -3090,8 +3027,8 @@
   },
   {
    "c": 1174,
-   "d": "SAL FINA DOS ANCLAS X500",
-   "p": 1088.89,
+   "d": "SAL FINA DOS ANCLAS PAQ X500",
+   "p": 1057.89,
    "b": 12,
    "cat": "Condimentos / saborizantes",
    "s": true,
@@ -3494,6 +3431,15 @@
    "q": false
   },
   {
+   "c": 1291,
+   "d": "SAL FINA DOS ANCLAS EST X500",
+   "p": 1088.89,
+   "b": 12,
+   "cat": "Condimentos / saborizantes",
+   "s": true,
+   "q": false
+  },
+  {
    "c": 223,
    "d": "MAYONESA NATURA X 125GRS CAJA X20",
    "p": 12399.99,
@@ -3514,17 +3460,8 @@
   {
    "c": 394,
    "d": "MAYONESA NATURA X 250G",
-   "p": 1390.0,
+   "p": 1564.43,
    "b": 12,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 395,
-   "d": "MAYONESA HELLMANNS X250G",
-   "p": 1186.91,
-   "b": 24,
    "cat": "Aderezos / condimentos",
    "s": true,
    "q": false
@@ -3568,7 +3505,7 @@
   {
    "c": 728,
    "d": "MAYONESA NATURA X1KG",
-   "p": 5500.0,
+   "p": 5719.89,
    "b": 8,
    "cat": "Aderezos / condimentos",
    "s": true,
@@ -3703,7 +3640,7 @@
   {
    "c": 27,
    "d": "LECHE LS SACHET N1 X 1 L.",
-   "p": 1750.0,
+   "p": 1767.39,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3766,7 +3703,7 @@
   {
    "c": 465,
    "d": "LECHE LS SACHET N3 X 1 L.",
-   "p": 1750.0,
+   "p": 1767.39,
    "b": null,
    "cat": "Leches",
    "s": true,
@@ -3847,7 +3784,7 @@
   {
    "c": 1261,
    "d": "LECHE LA CAMPECHANA",
-   "p": 1350.0,
+   "p": 1399.99,
    "b": 8,
    "cat": "Leches",
    "s": true,
@@ -4047,15 +3984,6 @@
    "d": "MASTER COMUN",
    "p": 12772.0,
    "b": 20,
-   "cat": "Cigarrillos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 485,
-   "d": "RED POINT ON X20 (MENTOLADO)",
-   "p": 18662.4,
-   "b": null,
    "cat": "Cigarrillos",
    "s": true,
    "q": false
@@ -4621,7 +4549,7 @@
   {
    "c": 251,
    "d": "SPEED XL X12",
-   "p": 23640.0,
+   "p": 25885.44,
    "b": null,
    "cat": "Bebidas energizantes",
    "s": true,
