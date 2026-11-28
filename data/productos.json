@@ -1,5 +1,5 @@
 {
- "fecha": "27/11/2026",
+ "fecha": "28/11/2026",
  "productos": [
   {
    "c": 176,
@@ -137,9 +137,9 @@
    "q": false
   },
   {
-   "c": 96,
-   "d": "BONDIOLA BIERZO X KG",
-   "p": 21317.02,
+   "c": 99,
+   "d": "PALETA DE CERDO ORFEBRE",
+   "p": 4392.75,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -148,16 +148,7 @@
   {
    "c": 103,
    "d": "BARRA DAMBO PUNTA DE AGUA",
-   "p": 10368.3,
-   "b": null,
-   "cat": "Fiambres / quesos",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 104,
-   "d": "SALCHICHON PRIMAVERA BIERZO",
-   "p": 4747.59,
+   "p": 11063.25,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -401,6 +392,15 @@
    "c": 973,
    "d": "PALETA DE CERDO CABAÑA DON TOMAS",
    "p": 3654.0,
+   "b": null,
+   "cat": "Fiambres / quesos",
+   "s": true,
+   "q": false
+  },
+  {
+   "c": 1008,
+   "d": "SARDO BLANCO LAS TRES R",
+   "p": 9680.0,
    "b": null,
    "cat": "Fiambres / quesos",
    "s": true,
@@ -938,15 +938,6 @@
    "q": false
   },
   {
-   "c": 262,
-   "d": "BAGGIO MULTIFRUTA X 1L",
-   "p": 1622.5,
-   "b": 8,
-   "cat": "Jugos / aguas saborizadas",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 265,
    "d": "BAGGIO MANZANA X1L",
    "p": 1622.5,
@@ -1344,7 +1335,7 @@
   },
   {
    "c": 1294,
-   "d": "SIDRA DEL VALLE",
+   "d": "SIDRA DEL VALLE X 720CC",
    "p": 2495.9,
    "b": 6,
    "cat": "Sidras",
@@ -1417,7 +1408,7 @@
   {
    "c": 254,
    "d": "VINO PATERO SANTA FILOMENA",
-   "p": 14107.5,
+   "p": 16500.0,
    "b": null,
    "cat": "Vinos",
    "s": true,
@@ -1671,15 +1662,6 @@
    "d": "HAMBURGUESA WHIM ROJO X 4",
    "p": 2809.91,
    "b": 12,
-   "cat": "Congelados",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 565,
-   "d": "MEDALLON BARFY X4",
-   "p": 2768.7,
-   "b": 24,
    "cat": "Congelados",
    "s": true,
    "q": false
@@ -1973,28 +1955,10 @@
    "q": false
   },
   {
-   "c": 1231,
-   "d": "ALFAJOR RASTA NEGRO",
-   "p": 950.0,
-   "b": 18,
-   "cat": "Alfajores",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 1232,
    "d": "ALFAJOR RASTA BLANCO",
    "p": 950.0,
    "b": 18,
-   "cat": "Alfajores",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1233,
-   "d": "ALFAJOR RASTA TRICOLOR",
-   "p": 1314.29,
-   "b": 14,
    "cat": "Alfajores",
    "s": true,
    "q": false
@@ -2200,15 +2164,6 @@
   {
    "c": 1279,
    "d": "JUGO TANG POMELO ROSADO",
-   "p": 6900.0,
-   "b": null,
-   "cat": "Jugos en sobres",
-   "s": true,
-   "q": false
-  },
-  {
-   "c": 1280,
-   "d": "JUGO TANG UVA",
    "p": 6900.0,
    "b": null,
    "cat": "Jugos en sobres",
@@ -3575,15 +3530,6 @@
    "q": false
   },
   {
-   "c": 1173,
-   "d": "SAVORA X60GR CAJA X30",
-   "p": 20760.3,
-   "b": null,
-   "cat": "Aderezos / condimentos",
-   "s": true,
-   "q": false
-  },
-  {
    "c": 15,
    "d": "QUESO UNTABLE LS CLASICO 290G",
    "p": 3414.62,
@@ -3721,7 +3667,7 @@
   {
    "c": 153,
    "d": "LECHE LS CAJA DESCREM N1 X1L",
-   "p": 1965.68,
+   "p": 1965.66,
    "b": 12,
    "cat": "Leches",
    "s": true,
@@ -4657,7 +4603,7 @@
   {
    "c": 299,
    "d": "SOL PAMPEANO TIRABUZON X500GRS",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4666,7 +4612,7 @@
   {
    "c": 300,
    "d": "SOL PAMPEANO SPAGUETTI X500",
-   "p": 766.8,
+   "p": 772.2,
    "b": 20,
    "cat": "Fideos",
    "s": true,
@@ -4675,7 +4621,7 @@
   {
    "c": 301,
    "d": "SOL PAMPEANO MOSTACHOL RAYADO X500GRS",
-   "p": 766.8,
+   "p": 772.2,
    "b": null,
    "cat": "Fideos",
    "s": true,
@@ -4684,7 +4630,7 @@
   {
    "c": 304,
    "d": "SOL PAMPEANO RIGATTI X500",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4693,7 +4639,7 @@
   {
    "c": 308,
    "d": "SOL PAMPEANO CORNETIN X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": null,
    "cat": "Fideos",
    "s": true,
@@ -4711,7 +4657,7 @@
   {
    "c": 314,
    "d": "SOL PAMPEANO TALLARIN X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 20,
    "cat": "Fideos",
    "s": true,
@@ -4720,7 +4666,7 @@
   {
    "c": 325,
    "d": "SOL PAMPEANO CODITO X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4738,7 +4684,7 @@
   {
    "c": 327,
    "d": "SOL PAMPEANO AVE MARIA X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4747,7 +4693,7 @@
   {
    "c": 328,
    "d": "SOL PAMPEANO MOSTACHOL LISO X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4756,7 +4702,7 @@
   {
    "c": 329,
    "d": "SOL PAMPEANO CELENTANO X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4765,7 +4711,7 @@
   {
    "c": 330,
    "d": "SOL PAMPEANO DEDALITOS X 500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4774,7 +4720,7 @@
   {
    "c": 572,
    "d": "SOL PAMPEANO CODO X500GRS",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
@@ -4810,7 +4756,7 @@
   {
    "c": 934,
    "d": "SOL PAMPEANO CABELLITO X500G",
-   "p": 766.8,
+   "p": 772.2,
    "b": 15,
    "cat": "Fideos",
    "s": true,
